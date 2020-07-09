@@ -109,8 +109,9 @@ def get_lyrics(url, driver):
     for div in soup.findAll('div', attrs={'class': 'songtext'}):
         text = str(div).replace("<br/> <br/>", '\n\n')
         text = text.replace("<br/>", '\n')
-    text = re.sub(r'<.*>', '', text)
-    lyrics = re.sub(r'\s{3,}', '', text)
+        text = re.sub(r'<br/>', '\n', str(div))
+    text = re.sub(r'<.*>','', text)
+    text = re.sub(r'^\s+', '', text, re.MULTILINE)
     # i['lyrics'] = lyrics
 
-    return lyrics
+    return text

@@ -7,7 +7,6 @@ import try_musixmatch as mg
 import time
 import json
 
-
 JSON_PATH = "/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/ddr_charts.json"
 CHROMEDRIVER_PATH = "/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Utility/chromedriver"
 
