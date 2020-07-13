@@ -1,12 +1,46 @@
 import nltk
 import spacy
+import re
+import json
 
-text = "Und da war eine Nacht\nUnd da war auch ein Traum\nHaa haa haa in jener Nacht\n\nUnd da war auch ein Lied\nUnd da war manch ein Wort\nHaa haa haa in jener Nacht\nHaa haa haa in jener Nacht\n\nDoch der Traum ist ertrunken\nim Morgentau ahhhaha\nUnd das Lied ist versunken\nim Morgengrau ahhhahaUnd doch waren wir zwei\nUnd doch waren wir eins\nHaa haa haa in jener Nacht\n\nUnd doch waren wir leis´\nUnd doch brannten wir heiß\nHaa haa haa in jener Nacht\nHaa haa haa in jener Nacht\n\nUnd behutsam wie einen sehr seltenen Stein haa haa\nSo fass ich jede Nacht in Erinnerung ein\nHaa haaHaa haa haa in jener Nacht\nHaa haa haa in jener Nacht\nHaa haa haa in jener Nacht"
+DDR_PATH = '/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/ddr_charts.json'
+BRD_PATH = '/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/brd_charts.json'
+with open(BRD_PATH) as file:
+    ddr_hits = json.load(file)
 
-liste = nltk.word_tokenize(text)
+for jahr in ddr_hits:
+    for k in ddr_hits[jahr]:
+        if "lyrics" in k:
 
-nlp = spacy.load('de')
+            songtext = k["lyrics"]
+            nlp = spacy.load('de')
+            spacy_doc = nlp(songtext)
 
-spacy_doc = nlp(text)
+            token = [tok.text.lower() for tok in spacy_doc]
 
-print([tok.text for tok in spacy_doc])
+            #print(token)
+            #print(len(token))
+# Löschen der new lines
+            for t in token:
+                if re.match(r'(\n)+\s*', t):
+                    token.remove(t)
+# Löschen der Sonderzeichen
+            for t in token:
+                if re.match(r'\'|\.\.\.|\.|´|!|\?|,|:|-|;', t):
+                    token.remove(t)
+
+            types = set(token) 
+            ratio = len(types)/len(token)*100
+
+            k["tokenanzahl"] = len(token)
+            k["typeanzahl"] = len(types)
+            k["type/token"] = round(ratio, 2)
+
+            #print(k)
+
+with open(BRD_PATH, 'w') as file:
+    json.dump(ddr_hits, file, indent=4, ensure_ascii=False)
+
+
+#print(re.match(r'(\\n)+\s*|\W', token[126]))
+# print(len([tok.text for tok in spacy_doc]))
