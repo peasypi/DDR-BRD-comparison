@@ -57,5 +57,5 @@ Das ist das Git-Repo zu meiner Bachelorabeit zu dem Thema "Popmusik unter zwei S
   - [ ] *Informieren*: Was ist aspect based Sentiment Analysis?
   - auf Liedebene?
   - auf Verseebene?
-   - Problem - Verse nicht immer gegeben
+    - Problem - Verse nicht immer gegeben
   
