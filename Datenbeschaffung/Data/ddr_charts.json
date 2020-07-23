@@ -55,11 +55,6 @@
             "type/token": 42.29
         },
         {
-            "titel": "Bruder da vorn",
-            "interpret": "GRH Projekt",
-            "platzierung": 7
-        },
-        {
             "titel": "Nie zuvor",
             "interpret": "Brot & Salz",
             "platzierung": 8,
@@ -121,11 +116,6 @@
             "tokenanzahl": 177,
             "typeanzahl": 84,
             "type/token": 47.46
-        },
-        {
-            "titel": "So ohne dich",
-            "interpret": "Krzysztof Krawczyck",
-            "platzierung": 15
         },
         {
             "titel": "Abendlied",
@@ -272,11 +262,6 @@
             "type/token": 42.39
         },
         {
-            "titel": "Mikrokosmos",
-            "interpret": "Collegium Musicum",
-            "platzierung": 32
-        },
-        {
             "titel": "Dein letzter Brief",
             "interpret": "Frank Schöbel",
             "platzierung": 33,
@@ -284,11 +269,6 @@
             "tokenanzahl": 120,
             "typeanzahl": 70,
             "type/token": 58.33
-        },
-        {
-            "titel": "Ich faulenze",
-            "interpret": "General",
-            "platzierung": 34
         },
         {
             "titel": "Draußen bei den Weiden",
@@ -354,11 +334,6 @@
             "type/token": 45.31
         },
         {
-            "titel": "Die Zauberer",
-            "interpret": "Omega",
-            "platzierung": 42
-        },
-        {
             "titel": "Hoch war der Berg",
             "interpret": "Stern-Combo Meißen",
             "platzierung": 43,
@@ -375,21 +350,6 @@
             "tokenanzahl": 106,
             "typeanzahl": 62,
             "type/token": 58.49
-        },
-        {
-            "titel": "Wie weit der Weg auch immer ist",
-            "interpret": "Hans Jürgen Beyer",
-            "platzierung": 45
-        },
-        {
-            "titel": "Du sollst lange leben",
-            "interpret": "Omega",
-            "platzierung": 46
-        },
-        {
-            "titel": "Ich sah ein Mädchen",
-            "interpret": "SET",
-            "platzierung": 47
         },
         {
             "titel": "Weggefährten",
@@ -428,11 +388,6 @@
             "tokenanzahl": 153,
             "typeanzahl": 91,
             "type/token": 59.48
-        },
-        {
-            "titel": "Hänschen groß",
-            "interpret": "Veronika Fischer",
-            "platzierung": 2
         },
         {
             "titel": "Such' ein Zimmer",
@@ -516,11 +471,6 @@
             "type/token": 55.17
         },
         {
-            "titel": "Tochter Courage",
-            "interpret": "Lift",
-            "platzierung": 12
-        },
-        {
             "titel": "Wenn der Abend kommt",
             "interpret": "Holger Biege",
             "platzierung": 13,
@@ -564,16 +514,6 @@
             "tokenanzahl": 150,
             "typeanzahl": 61,
             "type/token": 40.67
-        },
-        {
-            "titel": "Blaue Taube",
-            "interpret": "Budka Suflera",
-            "platzierung": 18
-        },
-        {
-            "titel": "Du machst mich wild",
-            "interpret": "Kreis",
-            "platzierung": 19
         },
         {
             "titel": "Wenn Musikanten heimwärts fahren",
@@ -648,26 +588,6 @@
             "type/token": 53.7
         },
         {
-            "titel": "Die Nacht auf kahlem Berg",
-            "interpret": "Stern-Combo Meißen",
-            "platzierung": 28
-        },
-        {
-            "titel": "Leidenschaft",
-            "interpret": "Magdeburg",
-            "platzierung": 29
-        },
-        {
-            "titel": "Meer und Himmel",
-            "interpret": "Bayon",
-            "platzierung": 30
-        },
-        {
-            "titel": "Petrus stell die Sonne ab",
-            "interpret": "Express",
-            "platzierung": 31
-        },
-        {
             "titel": "Marie, Marie",
             "interpret": "Prinzip",
             "platzierung": 32,
@@ -684,11 +604,6 @@
             "tokenanzahl": 147,
             "typeanzahl": 92,
             "type/token": 62.59
-        },
-        {
-            "titel": "Montag",
-            "interpret": "Sieghart Schubert Formation",
-            "platzierung": 34
         },
         {
             "titel": "Weisheit",
@@ -754,11 +669,6 @@
             "type/token": 41.51
         },
         {
-            "titel": "Hände, die uns vorwärts weisen",
-            "interpret": "Magdeburg",
-            "platzierung": 42
-        },
-        {
             "titel": "Zuweilen",
             "interpret": "Reinhard Lakomy",
             "platzierung": 43,
@@ -766,16 +676,6 @@
             "tokenanzahl": 109,
             "typeanzahl": 71,
             "type/token": 65.14
-        },
-        {
-            "titel": "Manchmal treffen sich zwei Leben",
-            "interpret": "Express",
-            "platzierung": 44
-        },
-        {
-            "titel": "He Doktor",
-            "interpret": "Corvina",
-            "platzierung": 45
         },
         {
             "titel": "Nachtgespenst",
@@ -803,11 +703,6 @@
             "tokenanzahl": 158,
             "typeanzahl": 63,
             "type/token": 39.87
-        },
-        {
-            "titel": "Ich schreibe dir dieses Lied",
-            "interpret": "Locomotiv GT",
-            "platzierung": 49
         },
         {
             "titel": "Sorgen",
@@ -965,11 +860,6 @@
             "type/token": 45.28
         },
         {
-            "titel": "Abendstunde",
-            "interpret": "Lift",
-            "platzierung": 17
-        },
-        {
             "titel": "Whisky",
             "interpret": "Karussell",
             "platzierung": 18,
@@ -997,21 +887,6 @@
             "type/token": 55.81
         },
         {
-            "titel": "Vor unserem Haus",
-            "interpret": "4 PS",
-            "platzierung": 21
-        },
-        {
-            "titel": "Junge",
-            "interpret": "Locomotiv GT",
-            "platzierung": 22
-        },
-        {
-            "titel": "Tshigitenlegende",
-            "interpret": "Babylon",
-            "platzierung": 23
-        },
-        {
             "titel": "Helmut",
             "interpret": "Jürgen Kerth",
             "platzierung": 24,
@@ -1037,16 +912,6 @@
             "tokenanzahl": 146,
             "typeanzahl": 40,
             "type/token": 27.4
-        },
-        {
-            "titel": "Komm Liebe komm",
-            "interpret": "Neoton Familie",
-            "platzierung": 27
-        },
-        {
-            "titel": "Ich muß dich seh'n",
-            "interpret": "Kreis",
-            "platzierung": 28
         },
         {
             "titel": "Mütter geh'n fort ohne Laut",
@@ -1130,11 +995,6 @@
             "type/token": 54.55
         },
         {
-            "titel": "Disco King",
-            "interpret": "Centrum",
-            "platzierung": 38
-        },
-        {
             "titel": "Komm zu mir",
             "interpret": "Wir",
             "platzierung": 39,
@@ -1189,11 +1049,6 @@
             "type/token": 43.33
         },
         {
-            "titel": "Sie ist immer noch lieb",
-            "interpret": "Kreis",
-            "platzierung": 45
-        },
-        {
             "titel": "Weißes Boot",
             "interpret": "Rote Gitarren",
             "platzierung": 46,
@@ -1228,11 +1083,6 @@
             "tokenanzahl": 138,
             "typeanzahl": 74,
             "type/token": 53.62
-        },
-        {
-            "titel": "Heiß, heiß",
-            "interpret": "Neue Generation",
-            "platzierung": 50
         }
     ],
     "1978": [
@@ -1453,21 +1303,6 @@
             "type/token": 47.24
         },
         {
-            "titel": "Du mußt nicht länger weinen",
-            "interpret": "Peter & Paul",
-            "platzierung": 25
-        },
-        {
-            "titel": "Ay, ay, que verano",
-            "interpret": "Karat",
-            "platzierung": 26
-        },
-        {
-            "titel": "Das erste Rennen",
-            "interpret": "Pilot",
-            "platzierung": 27
-        },
-        {
             "titel": "Nach Süden",
             "interpret": "Lift",
             "platzierung": 28,
@@ -1502,11 +1337,6 @@
             "tokenanzahl": 165,
             "typeanzahl": 67,
             "type/token": 40.61
-        },
-        {
-            "titel": "Nachtigall",
-            "interpret": "4 PS",
-            "platzierung": 32
         },
         {
             "titel": "Weit ist die Straße",
@@ -1554,11 +1384,6 @@
             "type/token": 30.12
         },
         {
-            "titel": "Der Drachentöter",
-            "interpret": "Reform",
-            "platzierung": 38
-        },
-        {
             "titel": "Weiße Taube",
             "interpret": "Scirocco",
             "platzierung": 39,
@@ -1566,11 +1391,6 @@
             "tokenanzahl": 133,
             "typeanzahl": 52,
             "type/token": 39.1
-        },
-        {
-            "titel": "Ich hab zu Haus'",
-            "interpret": "Express",
-            "platzierung": 40
         },
         {
             "titel": "Bleib doch",
@@ -1607,11 +1427,6 @@
             "tokenanzahl": 287,
             "typeanzahl": 133,
             "type/token": 46.34
-        },
-        {
-            "titel": "Ja, das ist mein Heim",
-            "interpret": "Set",
-            "platzierung": 45
         },
         {
             "titel": "Traudl",
@@ -1760,11 +1575,6 @@
             "type/token": 43.51
         },
         {
-            "titel": "Alter, Alter danke schön",
-            "interpret": "Electra",
-            "platzierung": 12
-        },
-        {
             "titel": "Der Albatros",
             "interpret": "Karat",
             "platzierung": 13,
@@ -1801,11 +1611,6 @@
             "type/token": 49.22
         },
         {
-            "titel": "Feuer in der Welt",
-            "interpret": "Berluc",
-            "platzierung": 17
-        },
-        {
             "titel": "Ein Mädchen wie du",
             "interpret": "Transit",
             "platzierung": 18,
@@ -1822,11 +1627,6 @@
             "tokenanzahl": 170,
             "typeanzahl": 102,
             "type/token": 60.0
-        },
-        {
-            "titel": "Nimm die Nacht in Deine Hände",
-            "interpret": "Express",
-            "platzierung": 20
         },
         {
             "titel": "Aus der Ferne",
@@ -1919,11 +1719,6 @@
             "type/token": 69.03
         },
         {
-            "titel": "Du machst mich verliebt",
-            "interpret": "Regenbogen",
-            "platzierung": 31
-        },
-        {
             "titel": "He Schwester küss mich",
             "interpret": "Reform",
             "platzierung": 32,
@@ -1978,11 +1773,6 @@
             "type/token": 41.53
         },
         {
-            "titel": "Christina",
-            "interpret": "Frank Schöbel",
-            "platzierung": 38
-        },
-        {
             "titel": "Computer 3-4-x",
             "interpret": "Berluc",
             "platzierung": 39,
@@ -2017,11 +1807,6 @@
             "tokenanzahl": 151,
             "typeanzahl": 84,
             "type/token": 55.63
-        },
-        {
-            "titel": "Einaml ich, einmal du, einmal er",
-            "interpret": "Electra",
-            "platzierung": 43
         },
         {
             "titel": "Kaffee komplett",
@@ -2076,11 +1861,6 @@
             "tokenanzahl": 172,
             "typeanzahl": 79,
             "type/token": 45.93
-        },
-        {
-            "titel": "Der Vagabund",
-            "interpret": "Veronika Fischer",
-            "platzierung": 50
         }
     ],
     "1980": [
@@ -2211,11 +1991,6 @@
             "type/token": 63.64
         },
         {
-            "titel": "Wenn ich zwei Leben hätt'",
-            "interpret": "Magdeburg",
-            "platzierung": 15
-        },
-        {
             "titel": "Der Alte und die Kneipe",
             "interpret": "Stefan Diestelmann",
             "platzierung": 16,
@@ -2270,11 +2045,6 @@
             "type/token": 58.33
         },
         {
-            "titel": "Mädchen",
-            "interpret": "Gerd Christian",
-            "platzierung": 22
-        },
-        {
             "titel": "Verkehrte Welt",
             "interpret": "Magdeburg",
             "platzierung": 23,
@@ -2291,11 +2061,6 @@
             "tokenanzahl": 135,
             "typeanzahl": 68,
             "type/token": 50.37
-        },
-        {
-            "titel": "Leben",
-            "interpret": "Dialog",
-            "platzierung": 25
         },
         {
             "titel": "Nur mit dir leben",
@@ -2325,11 +2090,6 @@
             "type/token": 40.13
         },
         {
-            "titel": "Doch wenn die Hähne kräh’n",
-            "interpret": "Karussell",
-            "platzierung": 29
-        },
-        {
             "titel": "Warten in der Dunkelheit",
             "interpret": "Keks",
             "platzierung": 30,
@@ -2346,11 +2106,6 @@
             "tokenanzahl": 119,
             "typeanzahl": 70,
             "type/token": 58.82
-        },
-        {
-            "titel": "Der Frühling",
-            "interpret": "Stern-Combo Meißen",
-            "platzierung": 32
         },
         {
             "titel": "100.000 Urgewalten",
@@ -2371,11 +2126,6 @@
             "type/token": 41.53
         },
         {
-            "titel": "Aber morgen",
-            "interpret": "Peter & Paul",
-            "platzierung": 35
-        },
-        {
             "titel": "Hildebrandslied",
             "interpret": "Transit",
             "platzierung": 36,
@@ -2392,21 +2142,6 @@
             "tokenanzahl": 172,
             "typeanzahl": 79,
             "type/token": 45.93
-        },
-        {
-            "titel": "Ich reiß mir die Liebe aus dem Herzen",
-            "interpret": "Gerd Christian",
-            "platzierung": 38
-        },
-        {
-            "titel": "Am Morgen",
-            "interpret": "Hans Jürgen Gottschalk",
-            "platzierung": 39
-        },
-        {
-            "titel": "Einmal ganz oben",
-            "interpret": "Ute Freudenberg & Elefant",
-            "platzierung": 40
         },
         {
             "titel": "Wie groß sind die Bäume",
@@ -2434,16 +2169,6 @@
             "tokenanzahl": 152,
             "typeanzahl": 83,
             "type/token": 54.61
-        },
-        {
-            "titel": "Annabel",
-            "interpret": "Holger Biege",
-            "platzierung": 44
-        },
-        {
-            "titel": "Sternenpaar",
-            "interpret": "Express",
-            "platzierung": 45
         },
         {
             "titel": "Wilde Blumen",
@@ -2574,11 +2299,6 @@
             "type/token": 52.35
         },
         {
-            "titel": "Bermudadreieck",
-            "interpret": "Berluc",
-            "platzierung": 10
-        },
-        {
             "titel": "Halte durch",
             "interpret": "Karussell",
             "platzierung": 11,
@@ -2586,16 +2306,6 @@
             "tokenanzahl": 179,
             "typeanzahl": 85,
             "type/token": 47.49
-        },
-        {
-            "titel": "Hallo Mary Lou",
-            "interpret": "Prinzip",
-            "platzierung": 12
-        },
-        {
-            "titel": "Schnee von gestern",
-            "interpret": "Metropol",
-            "platzierung": 13
         },
         {
             "titel": "Junge aus Liverpool",
@@ -2625,11 +2335,6 @@
             "type/token": 28.7
         },
         {
-            "titel": "Superschlank",
-            "interpret": "WIR",
-            "platzierung": 17
-        },
-        {
             "titel": "Miss English Teacher",
             "interpret": "Dialog",
             "platzierung": 18,
@@ -2646,11 +2351,6 @@
             "tokenanzahl": 262,
             "typeanzahl": 87,
             "type/token": 33.21
-        },
-        {
-            "titel": "He Mama, He Papa",
-            "interpret": "Neumis Rock Circus",
-            "platzierung": 20
         },
         {
             "titel": "Jeden Morgen",
@@ -2716,21 +2416,6 @@
             "type/token": 52.35
         },
         {
-            "titel": "Sonnenmeer",
-            "interpret": "Holger Biege",
-            "platzierung": 28
-        },
-        {
-            "titel": "Auf Achse",
-            "interpret": "Metropol",
-            "platzierung": 29
-        },
-        {
-            "titel": "Samstagabend",
-            "interpret": "Dialog",
-            "platzierung": 30
-        },
-        {
             "titel": "Man kann sich dran gewöhnen",
             "interpret": "Frank Schöbel",
             "platzierung": 31,
@@ -2749,11 +2434,6 @@
             "type/token": 34.09
         },
         {
-            "titel": "Der erfrorene See",
-            "interpret": "Thomas Natschinski",
-            "platzierung": 33
-        },
-        {
             "titel": "Schulzeit",
             "interpret": "Transit",
             "platzierung": 34,
@@ -2763,16 +2443,6 @@
             "type/token": 47.83
         },
         {
-            "titel": "Manchmal braucht jeder einen Freund",
-            "interpret": "Elefant",
-            "platzierung": 35
-        },
-        {
-            "titel": "Sie war 17",
-            "interpret": "Frank Schöbel",
-            "platzierung": 36
-        },
-        {
             "titel": "Die Geige",
             "interpret": "Prinzip",
             "platzierung": 37,
@@ -2780,11 +2450,6 @@
             "tokenanzahl": 233,
             "typeanzahl": 61,
             "type/token": 26.18
-        },
-        {
-            "titel": "Lied über Lennon",
-            "interpret": "Drei",
-            "platzierung": 38
         },
         {
             "titel": "Tanz mit der Sphinx",
@@ -2805,11 +2470,6 @@
             "type/token": 50.8
         },
         {
-            "titel": "Leben",
-            "interpret": "Dialog",
-            "platzierung": 41
-        },
-        {
             "titel": "Hildebrandslied",
             "interpret": "Transit",
             "platzierung": 42,
@@ -2828,11 +2488,6 @@
             "type/token": 28.97
         },
         {
-            "titel": "Danny",
-            "interpret": "Heinz Jürgen Gottschalk",
-            "platzierung": 44
-        },
-        {
             "titel": "Mein Geburtstag",
             "interpret": "Keks",
             "platzierung": 45,
@@ -2842,16 +2497,6 @@
             "type/token": 58.39
         },
         {
-            "titel": "Der Angler",
-            "interpret": "Heinz Jürgen Gottschalk",
-            "platzierung": 46
-        },
-        {
-            "titel": "Wärmst Du mich",
-            "interpret": "Gaby Rückert",
-            "platzierung": 47
-        },
-        {
             "titel": "Dein Freund sein",
             "interpret": "Hansi Biebl",
             "platzierung": 48,
@@ -2859,16 +2504,6 @@
             "tokenanzahl": 238,
             "typeanzahl": 67,
             "type/token": 28.15
-        },
-        {
-            "titel": "Traum vom Baum",
-            "interpret": "Heinz Jürgen Gottschalk",
-            "platzierung": 49
-        },
-        {
-            "titel": "Wenn die Kraniche ziehn",
-            "interpret": "Peter + Paul",
-            "platzierung": 50
         }
     ],
     "1982": [
@@ -2891,11 +2526,6 @@
             "type/token": 52.5
         },
         {
-            "titel": "Leben möcht ich",
-            "interpret": "Stern Meißen",
-            "platzierung": 3
-        },
-        {
             "titel": "Stundenschlag",
             "interpret": "Stern Meißen",
             "platzierung": 4,
@@ -2914,11 +2544,6 @@
             "type/token": 41.55
         },
         {
-            "titel": "...und ich seh'n mich nach dir",
-            "interpret": "Metropol",
-            "platzierung": 6
-        },
-        {
             "titel": "Jede Stunde",
             "interpret": "Karat",
             "platzierung": 7,
@@ -2926,11 +2551,6 @@
             "tokenanzahl": 204,
             "typeanzahl": 94,
             "type/token": 46.08
-        },
-        {
-            "titel": "Öffne mein Fenster",
-            "interpret": "Berluc",
-            "platzierung": 8
         },
         {
             "titel": "Jahreszeiten",
@@ -2960,11 +2580,6 @@
             "type/token": 47.55
         },
         {
-            "titel": "In der selben Bahn",
-            "interpret": "Stern Meißen",
-            "platzierung": 12
-        },
-        {
             "titel": "505",
             "interpret": "Dialog",
             "platzierung": 13,
@@ -2972,16 +2587,6 @@
             "tokenanzahl": 219,
             "typeanzahl": 62,
             "type/token": 28.31
-        },
-        {
-            "titel": "Planetenwind",
-            "interpret": "Pond",
-            "platzierung": 14
-        },
-        {
-            "titel": "Mensch, vergiß das nicht",
-            "interpret": "Katrin Lindner & Schubert Band",
-            "platzierung": 15
         },
         {
             "titel": "Werkstattsong",
@@ -3047,16 +2652,6 @@
             "type/token": 38.34
         },
         {
-            "titel": "So geht er",
-            "interpret": "Dialog",
-            "platzierung": 23
-        },
-        {
-            "titel": "Paradies",
-            "interpret": "Duo Report",
-            "platzierung": 24
-        },
-        {
             "titel": "Jeden Morgen",
             "interpret": "Electra",
             "platzierung": 25,
@@ -3064,11 +2659,6 @@
             "tokenanzahl": 111,
             "typeanzahl": 74,
             "type/token": 66.67
-        },
-        {
-            "titel": "Will mit dir zusammen sein",
-            "interpret": "A. Mann + A. Bicking",
-            "platzierung": 26
         },
         {
             "titel": "He Girl",
@@ -3087,11 +2677,6 @@
             "tokenanzahl": 152,
             "typeanzahl": 100,
             "type/token": 65.79
-        },
-        {
-            "titel": "Wenn du denkst, ich bin doof",
-            "interpret": "Brigitte Stefan & Meridian",
-            "platzierung": 29
         },
         {
             "titel": "Eigentlich",
@@ -3119,31 +2704,6 @@
             "tokenanzahl": 223,
             "typeanzahl": 64,
             "type/token": 28.7
-        },
-        {
-            "titel": "Linie 6",
-            "interpret": "Brigitte Stefan & Meridian",
-            "platzierung": 33
-        },
-        {
-            "titel": "Showman",
-            "interpret": "Elefant",
-            "platzierung": 34
-        },
-        {
-            "titel": "Wir lassen uns nicht schocken",
-            "interpret": "Keks",
-            "platzierung": 35
-        },
-        {
-            "titel": "Ekstase",
-            "interpret": "WIR",
-            "platzierung": 36
-        },
-        {
-            "titel": "Nur Rock'n Roll",
-            "interpret": "City",
-            "platzierung": 37
         },
         {
             "titel": "Er war mein Freund",
@@ -3191,11 +2751,6 @@
             "type/token": 81.88
         },
         {
-            "titel": "Noahs Taube",
-            "interpret": "Heinz Jürgen Gottschalk",
-            "platzierung": 43
-        },
-        {
             "titel": "Inge Pawelczik",
             "interpret": "Pankow",
             "platzierung": 44,
@@ -3205,21 +2760,6 @@
             "type/token": 44.74
         },
         {
-            "titel": "Männer",
-            "interpret": "Meridian",
-            "platzierung": 45
-        },
-        {
-            "titel": "Aufbruch ins Erwachsenenland",
-            "interpret": "Maja-Catrin Fritsche",
-            "platzierung": 46
-        },
-        {
-            "titel": "Nr. 1 Song",
-            "interpret": "WIR",
-            "platzierung": 47
-        },
-        {
             "titel": "Mein Geburtstag",
             "interpret": "Keks",
             "platzierung": 48,
@@ -3227,16 +2767,6 @@
             "tokenanzahl": 137,
             "typeanzahl": 80,
             "type/token": 58.39
-        },
-        {
-            "titel": "Nachbarinnen",
-            "interpret": "Neumis Rock Circus",
-            "platzierung": 49
-        },
-        {
-            "titel": "Ich bin der Rock'n Roll King",
-            "interpret": "Horst Krüger-Band",
-            "platzierung": 50
         }
     ],
     "1983": [
@@ -3322,11 +2852,6 @@
             "type/token": 55.21
         },
         {
-            "titel": "963",
-            "interpret": "Dialog",
-            "platzierung": 10
-        },
-        {
             "titel": "Wie weit fliegt die Taube",
             "interpret": "Karat",
             "platzierung": 11,
@@ -3345,21 +2870,6 @@
             "type/token": 18.24
         },
         {
-            "titel": "Nachbarinnen",
-            "interpret": "Neumis Rock Circus",
-            "platzierung": 13
-        },
-        {
-            "titel": "Disco in der U-Bahn",
-            "interpret": "Rockhaus",
-            "platzierung": 14
-        },
-        {
-            "titel": "Die wundersame Geschichte von Gabi",
-            "interpret": "Pankow",
-            "platzierung": 15
-        },
-        {
             "titel": "Bambule",
             "interpret": "Karussell",
             "platzierung": 16,
@@ -3367,11 +2877,6 @@
             "tokenanzahl": 263,
             "typeanzahl": 99,
             "type/token": 37.64
-        },
-        {
-            "titel": "Oh Darling",
-            "interpret": "Neumis Rock Circus",
-            "platzierung": 17
         },
         {
             "titel": "Bärbel",
@@ -3408,17 +2913,7 @@
             "tokenanzahl": 349,
             "typeanzahl": 157,
             "type/token": 44.99
-        },
-        {
-            "titel": "Steig ein",
-            "interpret": "Cäsars Rock Band",
-            "platzierung": 22
-        },
-        {
-            "titel": "Lied von der See’nsucht",
-            "interpret": "Pankow",
-            "platzierung": 23
-        },
+        },    
         {
             "titel": "Wir reiten mit dem Sturm",
             "interpret": "Prinzip",
@@ -3447,16 +2942,6 @@
             "type/token": 52.09
         },
         {
-            "titel": "Mach’s gut Marleen",
-            "interpret": "Studio Team Leipzig",
-            "platzierung": 27
-        },
-        {
-            "titel": "Hallo Mary",
-            "interpret": "Electra",
-            "platzierung": 28
-        },
-        {
             "titel": "FKK",
             "interpret": "Juckreiz",
             "platzierung": 29,
@@ -3473,11 +2958,6 @@
             "tokenanzahl": 173,
             "typeanzahl": 66,
             "type/token": 38.15
-        },
-        {
-            "titel": "Der Typ",
-            "interpret": "Simple Song",
-            "platzierung": 31
         },
         {
             "titel": "Gib Gas und komm",
@@ -3507,11 +2987,6 @@
             "type/token": 56.21
         },
         {
-            "titel": "Showman",
-            "interpret": "Elefant",
-            "platzierung": 35
-        },
-        {
             "titel": "Die wilde Mathilde",
             "interpret": "Silly",
             "platzierung": 36,
@@ -3519,21 +2994,6 @@
             "tokenanzahl": 84,
             "typeanzahl": 56,
             "type/token": 66.67
-        },
-        {
-            "titel": "Good bye, alte Zeit",
-            "interpret": "NO 55",
-            "platzierung": 37
-        },
-        {
-            "titel": "Kinderspiele",
-            "interpret": "Rainer Kirchmann",
-            "platzierung": 38
-        },
-        {
-            "titel": "Freundliches Wort",
-            "interpret": "Maja-Catrin Fritsche",
-            "platzierung": 39
         },
         {
             "titel": "Auf dem Weg zu Euch",
@@ -3545,11 +3005,6 @@
             "type/token": 60.84
         },
         {
-            "titel": "Wir lassen uns nicht schocken",
-            "interpret": "Keks",
-            "platzierung": 41
-        },
-        {
             "titel": "Kurschatten",
             "interpret": "Thomas Lück",
             "platzierung": 42,
@@ -3559,11 +3014,6 @@
             "type/token": 41.99
         },
         {
-            "titel": "Woll’n wir wetten",
-            "interpret": "Express",
-            "platzierung": 43
-        },
-        {
             "titel": "Ich will halten die Zeit",
             "interpret": "SET",
             "platzierung": 44,
@@ -3571,11 +3021,6 @@
             "tokenanzahl": 240,
             "typeanzahl": 69,
             "type/token": 28.75
-        },
-        {
-            "titel": "Robert Robinson",
-            "interpret": "Ines Paulke",
-            "platzierung": 45
         },
         {
             "titel": "Das nenn' ich Glück",
@@ -3603,11 +3048,6 @@
             "tokenanzahl": 214,
             "typeanzahl": 76,
             "type/token": 35.51
-        },
-        {
-            "titel": "Was soll ich tun",
-            "interpret": "Report",
-            "platzierung": 49
         },
         {
             "titel": "Eigentlich",
@@ -3702,16 +3142,6 @@
             "type/token": 55.32
         },
         {
-            "titel": "Laß uns die Farben seh'n",
-            "interpret": "Prinzip",
-            "platzierung": 10
-        },
-        {
-            "titel": "Drachensegler",
-            "interpret": "Dialog",
-            "platzierung": 11
-        },
-        {
             "titel": "Komm zurück",
             "interpret": "Condor",
             "platzierung": 12,
@@ -3737,11 +3167,6 @@
             "tokenanzahl": 150,
             "typeanzahl": 85,
             "type/token": 56.67
-        },
-        {
-            "titel": "Eiskalt",
-            "interpret": "Regenbogen",
-            "platzierung": 15
         },
         {
             "titel": "Flieg mit mir",
@@ -3789,11 +3214,6 @@
             "type/token": 46.46
         },
         {
-            "titel": "True Love",
-            "interpret": "Neumis Rock Circus",
-            "platzierung": 21
-        },
-        {
             "titel": "Fieber",
             "interpret": "Berluc",
             "platzierung": 22,
@@ -3830,11 +3250,6 @@
             "type/token": 65.93
         },
         {
-            "titel": "Es gibt für mich kein fremdes Leid",
-            "interpret": "Freudenberg & Ziegler",
-            "platzierung": 26
-        },
-        {
             "titel": "Die Boote der Jugend",
             "interpret": "Puhdys",
             "platzierung": 27,
@@ -3844,16 +3259,6 @@
             "type/token": 58.96
         },
         {
-            "titel": "Sage mir alles",
-            "interpret": "Lift",
-            "platzierung": 28
-        },
-        {
-            "titel": "Woll'n wir zu mir geh'n",
-            "interpret": "Wahkonda",
-            "platzierung": 29
-        },
-        {
             "titel": "Arbeitsschluss",
             "interpret": "Rockhaus",
             "platzierung": 30,
@@ -3861,11 +3266,6 @@
             "tokenanzahl": 196,
             "typeanzahl": 96,
             "type/token": 48.98
-        },
-        {
-            "titel": "Du wart auf mich",
-            "interpret": "Metropol",
-            "platzierung": 31
         },
         {
             "titel": "In der Nacht",
@@ -3922,21 +3322,6 @@
             "type/token": 64.35
         },
         {
-            "titel": "Heiße Musik",
-            "interpret": "FWH",
-            "platzierung": 38
-        },
-        {
-            "titel": "Allein",
-            "interpret": "Brigitte Stefan & Meridian",
-            "platzierung": 39
-        },
-        {
-            "titel": "Regen, Regen, Regen",
-            "interpret": "Gotte & Prinzz",
-            "platzierung": 40
-        },
-        {
             "titel": "Mein Weg",
             "interpret": "Stern Meißen",
             "platzierung": 41,
@@ -3955,21 +3340,6 @@
             "type/token": 55.41
         },
         {
-            "titel": "Maja",
-            "interpret": "Maja Catrin Fritsche",
-            "platzierung": 43
-        },
-        {
-            "titel": "O Amore",
-            "interpret": "Perl",
-            "platzierung": 44
-        },
-        {
-            "titel": "Tina",
-            "interpret": "Mona Lise",
-            "platzierung": 45
-        },
-        {
             "titel": "Luise",
             "interpret": "Steffen",
             "platzierung": 46,
@@ -3979,11 +3349,6 @@
             "type/token": 48.82
         },
         {
-            "titel": "Taktgefühl",
-            "interpret": "Tina",
-            "platzierung": 47
-        },
-        {
             "titel": "Doch der Falke fliegt",
             "interpret": "Dialog",
             "platzierung": 48,
@@ -3991,16 +3356,6 @@
             "tokenanzahl": 173,
             "typeanzahl": 91,
             "type/token": 52.6
-        },
-        {
-            "titel": "Eh’ die Träume sterben",
-            "interpret": "Kirsten",
-            "platzierung": 49
-        },
-        {
-            "titel": "Tanzen durch die Stadt",
-            "interpret": "CD und Ralle",
-            "platzierung": 50
         }
     ],
     "1985": [
@@ -4086,11 +3441,6 @@
             "type/token": 64.35
         },
         {
-            "titel": "Rock'n Roll ist mein Begleiter",
-            "interpret": "Puhdys",
-            "platzierung": 10
-        },
-        {
             "titel": "Vergiß mich",
             "interpret": "Rockhaus",
             "platzierung": 11,
@@ -4136,16 +3486,6 @@
             "type/token": 36.31
         },
         {
-            "titel": "Mama",
-            "interpret": "Jessica",
-            "platzierung": 16
-        },
-        {
-            "titel": "Dein und mein Planet",
-            "interpret": "Dialog",
-            "platzierung": 17
-        },
-        {
             "titel": "Abends in der Stadt",
             "interpret": "Electra",
             "platzierung": 18,
@@ -4162,16 +3502,6 @@
             "tokenanzahl": 149,
             "typeanzahl": 52,
             "type/token": 34.9
-        },
-        {
-            "titel": "Einfach nur so",
-            "interpret": "Wahkonda",
-            "platzierung": 20
-        },
-        {
-            "titel": "1000 Hände",
-            "interpret": "Berluc",
-            "platzierung": 21
         },
         {
             "titel": "Steigen Nebel",
@@ -4192,11 +3522,6 @@
             "type/token": 44.19
         },
         {
-            "titel": "Halt mich nicht",
-            "interpret": "Jessica",
-            "platzierung": 24
-        },
-        {
             "titel": "Augen der Sehnsucht",
             "interpret": "Electra",
             "platzierung": 25,
@@ -4206,11 +3531,6 @@
             "type/token": 51.72
         },
         {
-            "titel": "Was kann ich tun",
-            "interpret": "Karussell",
-            "platzierung": 26
-        },
-        {
             "titel": "Laß Deine Engel los",
             "interpret": "WIR",
             "platzierung": 27,
@@ -4218,11 +3538,6 @@
             "tokenanzahl": 148,
             "typeanzahl": 72,
             "type/token": 48.65
-        },
-        {
-            "titel": "Such mir 'ne Braut",
-            "interpret": "Wahkonda",
-            "platzierung": 28
         },
         {
             "titel": "Don Alfredo",
@@ -4297,26 +3612,6 @@
             "type/token": 41.49
         },
         {
-            "titel": "Aus dem All",
-            "interpret": "IC",
-            "platzierung": 37
-        },
-        {
-            "titel": "Woll’n wir zu mir geh'n",
-            "interpret": "Wahkonda",
-            "platzierung": 38
-        },
-        {
-            "titel": "Wer bin ich",
-            "interpret": "Dialog",
-            "platzierung": 39
-        },
-        {
-            "titel": "Gute Nacht",
-            "interpret": "Pankow",
-            "platzierung": 40
-        },
-        {
             "titel": "Mach keine Wellen",
             "interpret": "Formel I",
             "platzierung": 41,
@@ -4353,11 +3648,6 @@
             "type/token": 63.83
         },
         {
-            "titel": "Erste Liebe",
-            "interpret": "Marion Sprawe",
-            "platzierung": 45
-        },
-        {
             "titel": "Hilflose Worte",
             "interpret": "Metropol",
             "platzierung": 46,
@@ -4367,16 +3657,6 @@
             "type/token": 60.0
         },
         {
-            "titel": "Freudentränen",
-            "interpret": "Condor",
-            "platzierung": 47
-        },
-        {
-            "titel": "Ich klapp das Märchenbuch zu",
-            "interpret": "Steffen",
-            "platzierung": 48
-        },
-        {
             "titel": "Immerfort",
             "interpret": "Lift",
             "platzierung": 49,
@@ -4384,11 +3664,6 @@
             "tokenanzahl": 130,
             "typeanzahl": 61,
             "type/token": 46.92
-        },
-        {
-            "titel": "Tage gibt es",
-            "interpret": "Minitraum",
-            "platzierung": 50
         }
     ],
     "1986": [
@@ -4418,11 +3693,6 @@
             "tokenanzahl": 167,
             "typeanzahl": 74,
             "type/token": 44.31
-        },
-        {
-            "titel": "Wunderland",
-            "interpret": "Silly",
-            "platzierung": 4
         },
         {
             "titel": "Eh die Liebe stirbt",
@@ -4479,11 +3749,6 @@
             "type/token": 32.16
         },
         {
-            "titel": "Sehnsucht",
-            "interpret": "Prinzip",
-            "platzierung": 11
-        },
-        {
             "titel": "Ab und zu",
             "interpret": "Karussell",
             "platzierung": 12,
@@ -4527,11 +3792,6 @@
             "tokenanzahl": 153,
             "typeanzahl": 76,
             "type/token": 49.67
-        },
-        {
-            "titel": "Zeit",
-            "interpret": "Dialog",
-            "platzierung": 17
         },
         {
             "titel": "Die kleine Insel",
@@ -4615,11 +3875,6 @@
             "type/token": 44.86
         },
         {
-            "titel": "Sehnsucht",
-            "interpret": "Wahkonda",
-            "platzierung": 27
-        },
-        {
             "titel": "Mein Lied",
             "interpret": "Datzu",
             "platzierung": 28,
@@ -4636,11 +3891,6 @@
             "tokenanzahl": 174,
             "typeanzahl": 84,
             "type/token": 48.28
-        },
-        {
-            "titel": "Allein zu sein",
-            "interpret": "Andreas Bicking",
-            "platzierung": 30
         },
         {
             "titel": "Wir rocken los",
@@ -4679,16 +3929,6 @@
             "type/token": 47.17
         },
         {
-            "titel": "Der Spieler",
-            "interpret": "Jessica",
-            "platzierung": 35
-        },
-        {
-            "titel": "Wer bist'n du?",
-            "interpret": "Karussell",
-            "platzierung": 36
-        },
-        {
             "titel": "Lied für einen Fan",
             "interpret": "Puhdys",
             "platzierung": 37,
@@ -4696,11 +3936,6 @@
             "tokenanzahl": 129,
             "typeanzahl": 56,
             "type/token": 43.41
-        },
-        {
-            "titel": "Verrückt vor Glück",
-            "interpret": "Lucie",
-            "platzierung": 38
         },
         {
             "titel": "Dich zu haben",
@@ -4721,11 +3956,6 @@
             "type/token": 48.48
         },
         {
-            "titel": "Süße Sünde",
-            "interpret": "Rosalili",
-            "platzierung": 41
-        },
-        {
             "titel": "Augen der Sehnsucht",
             "interpret": "Electra",
             "platzierung": 42,
@@ -4744,11 +3974,6 @@
             "type/token": 57.32
         },
         {
-            "titel": "Ja oder Nein",
-            "interpret": "Dialog",
-            "platzierung": 44
-        },
-        {
             "titel": "Blutjung",
             "interpret": "Berluc",
             "platzierung": 45,
@@ -4765,11 +3990,6 @@
             "tokenanzahl": 170,
             "typeanzahl": 100,
             "type/token": 58.82
-        },
-        {
-            "titel": "Momente",
-            "interpret": "Metropol",
-            "platzierung": 47
         },
         {
             "titel": "Doris",
@@ -4873,11 +4093,6 @@
             "type/token": 41.76
         },
         {
-            "titel": "Glocke 2000",
-            "interpret": "Karat",
-            "platzierung": 9
-        },
-        {
             "titel": "Eine Nacht",
             "interpret": "Stern Meißen",
             "platzierung": 10,
@@ -4894,11 +4109,6 @@
             "tokenanzahl": 198,
             "typeanzahl": 84,
             "type/token": 42.42
-        },
-        {
-            "titel": "Laß es rollen",
-            "interpret": "Karussell",
-            "platzierung": 12
         },
         {
             "titel": "So ist das Leben",
@@ -4937,21 +4147,6 @@
             "type/token": 52.98
         },
         {
-            "titel": "Ich suche dich",
-            "interpret": "Wahkonda",
-            "platzierung": 17
-        },
-        {
-            "titel": "Ha-ja-ho",
-            "interpret": "Babylon",
-            "platzierung": 18
-        },
-        {
-            "titel": "Rundfunk-Rap",
-            "interpret": "Ralph Longdrink",
-            "platzierung": 19
-        },
-        {
             "titel": "Schlohweißer Tag",
             "interpret": "Silly",
             "platzierung": 20,
@@ -4986,21 +4181,6 @@
             "tokenanzahl": 173,
             "typeanzahl": 102,
             "type/token": 58.96
-        },
-        {
-            "titel": "Europa",
-            "interpret": "Lift",
-            "platzierung": 24
-        },
-        {
-            "titel": "Du bist schön",
-            "interpret": "Dirk Zöllner",
-            "platzierung": 25
-        },
-        {
-            "titel": "Mit Haut und Haar",
-            "interpret": "Plattform",
-            "platzierung": 26
         },
         {
             "titel": "Träume von gestern",
@@ -5057,16 +4237,6 @@
             "type/token": 43.26
         },
         {
-            "titel": "Nie wieder",
-            "interpret": "Rosalili",
-            "platzierung": 33
-        },
-        {
-            "titel": "Ich bin voll Rock 'n Roll",
-            "interpret": "Charlie",
-            "platzierung": 34
-        },
-        {
             "titel": "Die kleinen Mädchen",
             "interpret": "Tino Eisbrenner",
             "platzierung": 35,
@@ -5076,11 +4246,6 @@
             "type/token": 52.4
         },
         {
-            "titel": "Flick flack durch die Nacht",
-            "interpret": "H & N",
-            "platzierung": 36
-        },
-        {
             "titel": "Es ist Sommer",
             "interpret": "Inka",
             "platzierung": 37,
@@ -5088,11 +4253,6 @@
             "tokenanzahl": 119,
             "typeanzahl": 65,
             "type/token": 54.62
-        },
-        {
-            "titel": "Halt mich nicht",
-            "interpret": "Agentur Mercur",
-            "platzierung": 38
         },
         {
             "titel": "Eine Lady sein",
@@ -5131,16 +4291,6 @@
             "type/token": 53.24
         },
         {
-            "titel": "Prinzenjagd",
-            "interpret": "Dieter Birr",
-            "platzierung": 43
-        },
-        {
-            "titel": "Es treibt mich die Gier",
-            "interpret": "Prinzz",
-            "platzierung": 44
-        },
-        {
             "titel": "Komm und tanz",
             "interpret": "Rosalili",
             "platzierung": 45,
@@ -5159,21 +4309,6 @@
             "type/token": 34.05
         },
         {
-            "titel": "Mein Sohn",
-            "interpret": "Frieder Rosenthal",
-            "platzierung": 47
-        },
-        {
-            "titel": "Nimm mich mit",
-            "interpret": "Angelika Weiz Band",
-            "platzierung": 48
-        },
-        {
-            "titel": "Metall",
-            "interpret": "Biest",
-            "platzierung": 49
-        },
-        {
             "titel": "Schnittpunkt Berlin",
             "interpret": "NO 55",
             "platzierung": 50,
@@ -5184,11 +4319,7 @@
         }
     ],
     "1988": [
-        {
-            "titel": "I.L.D.",
-            "interpret": "Rockhaus",
-            "platzierung": 1
-        },
+        
         {
             "titel": "Schläfst Du schon",
             "interpret": "Ralf Bursy",
@@ -5224,11 +4355,6 @@
             "tokenanzahl": 120,
             "typeanzahl": 72,
             "type/token": 60.0
-        },
-        {
-            "titel": "Nach Hause",
-            "interpret": "Berluc",
-            "platzierung": 6
         },
         {
             "titel": "Kleine Frauen",
@@ -5267,11 +4393,6 @@
             "type/token": 50.0
         },
         {
-            "titel": "Segeln mit dem Wind",
-            "interpret": "Berluc",
-            "platzierung": 11
-        },
-        {
             "titel": "Warten in der Dunkelheit",
             "interpret": "Ralf Bursy",
             "platzierung": 12,
@@ -5288,26 +4409,6 @@
             "tokenanzahl": 142,
             "typeanzahl": 76,
             "type/token": 53.52
-        },
-        {
-            "titel": "Käfer auf’m Blatt",
-            "interpret": "Die Zöllner",
-            "platzierung": 14
-        },
-        {
-            "titel": "Teufelsbraut",
-            "interpret": "Feuerstein",
-            "platzierung": 15
-        },
-        {
-            "titel": "Manne (gegen Gewalt)",
-            "interpret": "Biest",
-            "platzierung": 16
-        },
-        {
-            "titel": "Ich mache sowieso nur was ich will",
-            "interpret": "Amor & die Kids",
-            "platzierung": 17
         },
         {
             "titel": "Laß sie warten",
@@ -5328,16 +4429,6 @@
             "type/token": 42.92
         },
         {
-            "titel": "Domino",
-            "interpret": "Lotos",
-            "platzierung": 20
-        },
-        {
-            "titel": "Flieg mit mir",
-            "interpret": "Michael Barakowski",
-            "platzierung": 21
-        },
-        {
             "titel": "Stimmungswechsel",
             "interpret": "Karussell",
             "platzierung": 22,
@@ -5345,21 +4436,6 @@
             "tokenanzahl": 142,
             "typeanzahl": 79,
             "type/token": 55.63
-        },
-        {
-            "titel": "Wieder allein",
-            "interpret": "Rockteam",
-            "platzierung": 23
-        },
-        {
-            "titel": "Die Tigerin",
-            "interpret": "Datzu",
-            "platzierung": 24
-        },
-        {
-            "titel": "Du bist schön",
-            "interpret": "Die Zöllner",
-            "platzierung": 25
         },
         {
             "titel": "Ruhelos",
@@ -5398,36 +4474,6 @@
             "type/token": 56.33
         },
         {
-            "titel": "Auf und ab",
-            "interpret": "Babylon",
-            "platzierung": 30
-        },
-        {
-            "titel": "Die Welt von morgen",
-            "interpret": "Merlin",
-            "platzierung": 31
-        },
-        {
-            "titel": "Komm laß dich lieben",
-            "interpret": "Zebra",
-            "platzierung": 32
-        },
-        {
-            "titel": "Fremde in der Nacht",
-            "interpret": "Lucie",
-            "platzierung": 33
-        },
-        {
-            "titel": "Miss Love",
-            "interpret": "Lucie",
-            "platzierung": 34
-        },
-        {
-            "titel": "Alles Liebe",
-            "interpret": "Crystal",
-            "platzierung": 35
-        },
-        {
             "titel": "Wenn es wärmer wird",
             "interpret": "Datzu",
             "platzierung": 36,
@@ -5455,21 +4501,6 @@
             "type/token": 33.17
         },
         {
-            "titel": "Bis ich wieder steh’",
-            "interpret": "Petra Zieger",
-            "platzierung": 39
-        },
-        {
-            "titel": "Feuer unter’m Eis",
-            "interpret": "Cobra",
-            "platzierung": 40
-        },
-        {
-            "titel": "Ein Augenblick",
-            "interpret": "Andreas Bicking",
-            "platzierung": 41
-        },
-        {
             "titel": "Träumer",
             "interpret": "Cobra",
             "platzierung": 42,
@@ -5477,11 +4508,6 @@
             "tokenanzahl": 183,
             "typeanzahl": 92,
             "type/token": 50.27
-        },
-        {
-            "titel": "Bergringrennen",
-            "interpret": "Crystal",
-            "platzierung": 43
         },
         {
             "titel": "Wie ein Regenbogen",
@@ -5493,11 +4519,6 @@
             "type/token": 51.58
         },
         {
-            "titel": "Sehnsucht nach Wärme",
-            "interpret": "Report",
-            "platzierung": 45
-        },
-        {
             "titel": "Harmonie von gestern",
             "interpret": "Mona Lise",
             "platzierung": 46,
@@ -5505,16 +4526,6 @@
             "tokenanzahl": 88,
             "typeanzahl": 63,
             "type/token": 71.59
-        },
-        {
-            "titel": "Mitternachtsschwärmer",
-            "interpret": "Lotos",
-            "platzierung": 47
-        },
-        {
-            "titel": "Nr. 48",
-            "interpret": "Engerling",
-            "platzierung": 48
         },
         {
             "titel": "Die Vergangenheit",
@@ -5600,16 +4611,6 @@
             "type/token": 41.53
         },
         {
-            "titel": "Übermut",
-            "interpret": "Petra Zieger",
-            "platzierung": 8
-        },
-        {
-            "titel": "Gib mir ein Zeichen",
-            "interpret": "Pankow",
-            "platzierung": 9
-        },
-        {
             "titel": "Neue Helden",
             "interpret": "Puhdys",
             "platzierung": 10,
@@ -5655,31 +4656,6 @@
             "type/token": 32.91
         },
         {
-            "titel": "Notsignale",
-            "interpret": "Lucie",
-            "platzierung": 15
-        },
-        {
-            "titel": "König der Welt",
-            "interpret": "Rockteam",
-            "platzierung": 16
-        },
-        {
-            "titel": "Easy Rider",
-            "interpret": "Metall",
-            "platzierung": 17
-        },
-        {
-            "titel": "Weißt Du noch?",
-            "interpret": "Andreas Bicking",
-            "platzierung": 18
-        },
-        {
-            "titel": "Hymne",
-            "interpret": "Michael Barakowski",
-            "platzierung": 19
-        },
-        {
             "titel": "Dein Herz",
             "interpret": "IC",
             "platzierung": 20,
@@ -5687,11 +4663,6 @@
             "tokenanzahl": 205,
             "typeanzahl": 68,
             "type/token": 33.17
-        },
-        {
-            "titel": "Urlaub an der See",
-            "interpret": "Banane",
-            "platzierung": 21
         },
         {
             "titel": "Durchgebrannt",
@@ -5703,11 +4674,6 @@
             "type/token": 40.82
         },
         {
-            "titel": "Vulkane der Erde",
-            "interpret": "Metall",
-            "platzierung": 23
-        },
-        {
             "titel": "Über ihr taute das Eis",
             "interpret": "Silly",
             "platzierung": 24,
@@ -5715,16 +4681,6 @@
             "tokenanzahl": 145,
             "typeanzahl": 94,
             "type/token": 64.83
-        },
-        {
-            "titel": "Kopfschmerzen",
-            "interpret": "Die Zöllner",
-            "platzierung": 25
-        },
-        {
-            "titel": "Keine Sterne",
-            "interpret": "Rosalili",
-            "platzierung": 26
         },
         {
             "titel": "Leben auf Verdacht",
@@ -5736,16 +4692,6 @@
             "type/token": 58.75
         },
         {
-            "titel": "Ein Gefühl der Seeligkeit",
-            "interpret": "Kirsten",
-            "platzierung": 28
-        },
-        {
-            "titel": "He Little Girl",
-            "interpret": "Lucie",
-            "platzierung": 29
-        },
-        {
             "titel": "Grab im Moor",
             "interpret": "Biest",
             "platzierung": 30,
@@ -5753,26 +4699,6 @@
             "tokenanzahl": 97,
             "typeanzahl": 69,
             "type/token": 71.13
-        },
-        {
-            "titel": "Nimm mir die Angst",
-            "interpret": "WK 13",
-            "platzierung": 31
-        },
-        {
-            "titel": "Turn away",
-            "interpret": "Charlie",
-            "platzierung": 32
-        },
-        {
-            "titel": "Sie sind doch der",
-            "interpret": "Amor & die Kids",
-            "platzierung": 33
-        },
-        {
-            "titel": "Ufer der Nacht",
-            "interpret": "Andreas Bicking",
-            "platzierung": 34
         },
         {
             "titel": "Viel zu weit",
@@ -5784,16 +4710,6 @@
             "type/token": 44.44
         },
         {
-            "titel": "Tarantella",
-            "interpret": "Blitzz",
-            "platzierung": 36
-        },
-        {
-            "titel": "Der Zauberer",
-            "interpret": "Merlin",
-            "platzierung": 37
-        },
-        {
             "titel": "Excalibur",
             "interpret": "Merlin",
             "platzierung": 38,
@@ -5803,31 +4719,6 @@
             "type/token": 31.2
         },
         {
-            "titel": "Living",
-            "interpret": "Jade",
-            "platzierung": 39
-        },
-        {
-            "titel": "Metall Man",
-            "interpret": "Dr. Rock",
-            "platzierung": 40
-        },
-        {
-            "titel": "Sonntagmorgen",
-            "interpret": "Pension Volkmann",
-            "platzierung": 41
-        },
-        {
-            "titel": "Verloren",
-            "interpret": "Ines Paulke",
-            "platzierung": 42
-        },
-        {
-            "titel": "Hard Feeling",
-            "interpret": "Biest",
-            "platzierung": 43
-        },
-        {
             "titel": "Wintermärchen",
             "interpret": "Karussell",
             "platzierung": 44,
@@ -5835,36 +4726,6 @@
             "tokenanzahl": 226,
             "typeanzahl": 129,
             "type/token": 57.08
-        },
-        {
-            "titel": "Let’s Trash",
-            "interpret": "Rochus",
-            "platzierung": 45
-        },
-        {
-            "titel": "Frl. Frankenstein",
-            "interpret": "Lotus",
-            "platzierung": 46
-        },
-        {
-            "titel": "Crash Trash",
-            "interpret": "Biest",
-            "platzierung": 47
-        },
-        {
-            "titel": "Café Größenwahn",
-            "interpret": "Die Zöllner",
-            "platzierung": 48
-        },
-        {
-            "titel": "Zeit",
-            "interpret": "Report",
-            "platzierung": 49
-        },
-        {
-            "titel": "Namen",
-            "interpret": "Künzel",
-            "platzierung": 50
         }
     ],
     "1990": [
@@ -5896,16 +4757,6 @@
             "type/token": 47.23
         },
         {
-            "titel": "After The War",
-            "interpret": "Merlin",
-            "platzierung": 4
-        },
-        {
-            "titel": "Tomb of Lies",
-            "interpret": "Viper",
-            "platzierung": 5
-        },
-        {
             "titel": "Strahlende Zukunft",
             "interpret": "Skeptiker",
             "platzierung": 6,
@@ -5913,21 +4764,6 @@
             "tokenanzahl": 194,
             "typeanzahl": 100,
             "type/token": 51.55
-        },
-        {
-            "titel": "Du braver Soldat",
-            "interpret": "Maschine & Männer",
-            "platzierung": 7
-        },
-        {
-            "titel": "Medley",
-            "interpret": "Veronika Fischer",
-            "platzierung": 8
-        },
-        {
-            "titel": "Tanzen (auf der Mauer)",
-            "interpret": "Rockhaus",
-            "platzierung": 9
         },
         {
             "titel": "Bakschischrepublik",
@@ -5975,11 +4811,6 @@
             "type/token": 71.3
         },
         {
-            "titel": "Heart Of Steel",
-            "interpret": "Headless",
-            "platzierung": 15
-        },
-        {
             "titel": "Stille Invasion",
             "interpret": "Sandow",
             "platzierung": 16,
@@ -5989,16 +4820,6 @@
             "type/token": 63.54
         },
         {
-            "titel": "Need A Girl",
-            "interpret": "Lotos",
-            "platzierung": 17
-        },
-        {
-            "titel": "Haunting in Your Brain",
-            "interpret": "Rochus",
-            "platzierung": 18
-        },
-        {
             "titel": "Immer so",
             "interpret": "Karat",
             "platzierung": 19,
@@ -6006,13 +4827,7 @@
             "tokenanzahl": 207,
             "typeanzahl": 68,
             "type/token": 32.85
-        },
-        {
-            "titel": "Do The Blitzz",
-            "interpret": "Blitzz",
-            "platzierung": 20
-        },
-        {
+        },        {
             "titel": "Einmal Amerika",
             "interpret": "Electra",
             "platzierung": 21,
@@ -6020,26 +4835,6 @@
             "tokenanzahl": 257,
             "typeanzahl": 112,
             "type/token": 43.58
-        },
-        {
-            "titel": "Wir fahren alle einmal ab",
-            "interpret": "Amor & die Kids",
-            "platzierung": 22
-        },
-        {
-            "titel": "No Back To Inferno",
-            "interpret": "Moshquito",
-            "platzierung": 23
-        },
-        {
-            "titel": "Deserteur",
-            "interpret": "De Brüh",
-            "platzierung": 24
-        },
-        {
-            "titel": "Listen To The Radio",
-            "interpret": "Paul Äther & die Radio Waves",
-            "platzierung": 25
         }
     ]
 }
