@@ -31,16 +31,16 @@ Das ist das Git-Repo zu meiner Bachelorabeit zu dem Thema "Popmusik unter zwei S
 - [ ] average word length
 - [ ] type-token-ratio
   - pro Jahr pro Land?
-  - pro Land generell?
+   - pro Land generell?
 - [ ] Most frequent words
   - [ ] *Informieren*: Anwendungen von mfw -- Wie macht man das überhaupt normalerweise?
   - [ ] *Informieren*: tf-idf
-    - Was ist das?
-    - Was sagt es aus?
-    - Wie wendet man es an?
+   - Was ist das?
+   - Was sagt es aus?
+   - Wie wendet man es an?
   - [ ] Lemmatisierer in mfw-Programm einfügen
-    - [ ] *Informieren*: gute Lemmatisierer fürs Deutsche  
-      - Spacy ist eher geht so
+   - [ ] *Informieren*: gute Lemmatisierer fürs Deutsche  
+    - Spacy ist eher geht so
   - [ ] *Informieren*: Wie erstellt man Wordclouds?
   
 - [ ] N-Gramme (most frequent)
@@ -57,5 +57,5 @@ Das ist das Git-Repo zu meiner Bachelorabeit zu dem Thema "Popmusik unter zwei S
   - [ ] *Informieren*: Was ist aspect based Sentiment Analysis?
   - auf Liedebene?
   - auf Verseebene?
-    - Problem - Verse nicht immer gegeben
+   - Problem - Verse nicht immer gegeben
   
