@@ -12,7 +12,7 @@ Das ist das Git-Repo zu meiner Bachelorabeit zu dem Thema "Popmusik unter zwei S
 - [ ] Über Zensur in DDR informieren
   - [ ] Quellensuche
   - [ ] Notizen zusammenfügen
-
+  
 #### Musiksoziologie
 
 - [ ] Bücher leihen
@@ -28,10 +28,10 @@ Das ist das Git-Repo zu meiner Bachelorabeit zu dem Thema "Popmusik unter zwei S
 #### Statistiken
 
 - [ ] *Informieren*: Wo/Wie speicher ich die Daten am besten?
-- [ ] average word length
-- [ ] type-token-ratio
-  - pro Jahr pro Land?
-  - pro Land generell?
+- [ ] Average word length
+- [ ] Type-token-ratio
+- pro Jahr pro Land?
+- pro Land generell?
 - [ ] Most frequent words
   - [ ] *Informieren*: Anwendungen von mfw -- Wie macht man das überhaupt normalerweise?
   - [ ] *Informieren*: tf-idf
