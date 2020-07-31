@@ -11,7 +11,6 @@ with open(BRD_PATH) as file:
 for jahr in ddr_hits:
     for k in ddr_hits[jahr]:
         if "lyrics" in k:
-
             songtext = k["lyrics"]
             nlp = spacy.load('de')
             spacy_doc = nlp(songtext)

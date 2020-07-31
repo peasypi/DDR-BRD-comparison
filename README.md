@@ -16,8 +16,8 @@ Das ist das Git-Repo zu meiner Bachelorabeit zu dem Thema "Popmusik unter zwei S
 #### Musiksoziologie
 
 - [ ] Bücher leihen
-- [ ] Was sagt Musik über die Gesellschaft?
-  - dazu: *Simone Frith: Music for pleasure essays in the sociology of pop*
+- [X] Was sagt Musik über die Gesellschaft?
+  - dazu: *Simon Frith: Music for pleasure essays in the sociology of pop*
 - [ ] Anordnen der Notizen zu den einzelnen Kapiteln
 - [ ] Anfangen zu schreiben
   - [ ] Related Work
@@ -28,17 +28,12 @@ Das ist das Git-Repo zu meiner Bachelorabeit zu dem Thema "Popmusik unter zwei S
 #### Statistiken
 
 - [ ] *Informieren*: Wo/Wie speicher ich die Daten am besten?
-<<<<<<< HEAD
-- [ ] Average word length
-- [ ] Type-token-ratio
-- pro Jahr pro Land?
-- pro Land generell?
-=======
 - [ ] average word length
+
 - [ ] type-token-ratio
   - pro Jahr pro Land?
    - pro Land generell?
->>>>>>> bd64fdea9702a1dbb1c85a2e96b01dac518ee5d5
+   
 - [ ] Most frequent words
   - [ ] *Informieren*: Anwendungen von mfw -- Wie macht man das überhaupt normalerweise?
   - [ ] *Informieren*: tf-idf
@@ -48,7 +43,8 @@ Das ist das Git-Repo zu meiner Bachelorabeit zu dem Thema "Popmusik unter zwei S
   - [ ] Lemmatisierer in mfw-Programm einfügen
    - [ ] *Informieren*: gute Lemmatisierer fürs Deutsche  
     - Spacy ist eher geht so
-  - [ ] *Informieren*: Wie erstellt man Wordclouds?
+    
+  - [X] *Informieren*: Wie erstellt man Wordclouds?
   
 - [ ] N-Gramme (most frequent)
   - [ ] *Informieren*: Was sagen sie aus? Besser als mfw?
