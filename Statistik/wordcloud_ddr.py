@@ -23,7 +23,7 @@ for jahr in ddr_hits:
 
 all_lyrics_ddr = re.sub(r'\'|\.\.\.|\.|´|!|\?|,|:|–|;|`|\"|\\', "", all_lyrics_ddr)
 
-text_tokens = text_tokens = word_tokenize(all_lyrics_ddr)
+text_tokens = word_tokenize(all_lyrics_ddr)
 tokens_without_sw= [word for word in text_tokens if not word.lower() in stopset]
 
 text = " ".join(tokens_without_sw)
