@@ -21,11 +21,11 @@ for jahr in ddr_hits:
             #print(token)
             #print(len(token))
 # Löschen der new lines
-            for t in token:
+            for t in token[:]:
                 if re.match(r'(\n)+\s*', t):
                     token.remove(t)
 # Löschen der Sonderzeichen
-            for t in token:
+            for t in token[:]:
                 if re.match(r'\'|\.\.\.|\.|´|!|\?|,|:|-|;', t):
                     token.remove(t)
 
