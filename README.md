@@ -6,23 +6,25 @@ Das ist das Git-Repo zu meiner Bachelorabeit zu dem Thema "Popmusik unter zwei S
 
 ### Informationen
 
+#### Allgemein
+- [ ] Anordnen der Notizen zu den einzelnen Kapiteln
+- [ ] Anfangen zu schreiben
+  - [ ] Related Work
+  - [X] Historisches
+
 #### Historisches
 
-- [ ] Bücher leihen
-- [ ] Über Zensur in DDR informieren
-  - [ ] Quellensuche
-  - [ ] Notizen zusammenfügen
+- [X] Bücher leihen
+- [X] Über Zensur in DDR informieren
+  - [X] Quellensuche
+  - [X] Notizen zusammenfügen
   
 #### Musiksoziologie
 
 - [ ] Bücher leihen
 - [X] Was sagt Musik über die Gesellschaft?
   - dazu: *Simon Frith: Music for pleasure essays in the sociology of pop*
-- [ ] Anordnen der Notizen zu den einzelnen Kapiteln
-- [ ] Anfangen zu schreiben
-  - [ ] Related Work
-  - [ ] Historisches
-
+  
 ### Programm/Analyse
 
 #### Statistiken
@@ -32,8 +34,11 @@ Das ist das Git-Repo zu meiner Bachelorabeit zu dem Thema "Popmusik unter zwei S
 
 - [ ] type-token-ratio
   - pro Jahr pro Land?
-   - pro Land generell?
-   
+  - pro Land generell?
+ 
+  
+#### Analyse
+
 - [ ] Most frequent words
   - [ ] *Informieren*: Anwendungen von mfw -- Wie macht man das überhaupt normalerweise?
   - [ ] *Informieren*: tf-idf
@@ -44,7 +49,7 @@ Das ist das Git-Repo zu meiner Bachelorabeit zu dem Thema "Popmusik unter zwei S
    - [ ] *Informieren*: gute Lemmatisierer fürs Deutsche  
     - Spacy ist eher geht so
     
-  - [X] *Informieren*: Wie erstellt man Wordclouds?
+ - [X] *Informieren*: Wie erstellt man Wordclouds?
   
 - [ ] N-Gramme (most frequent)
   - [ ] *Informieren*: Was sagen sie aus? Besser als mfw?
@@ -53,8 +58,6 @@ Das ist das Git-Repo zu meiner Bachelorabeit zu dem Thema "Popmusik unter zwei S
 - [ ] Kollokationen zu mfw
   - [ ] *Informieren*: Wie macht man das? Tools?
   - [ ] *Informieren*: AntConc (<http://litre.uni-goettingen.de/index.php/AntConc#Keyword_List_Tool>)
-  
-#### Analyse
 
 - [ ] Sentiment Analyse
   - [ ] *Informieren*: Was ist aspect based Sentiment Analysis?
