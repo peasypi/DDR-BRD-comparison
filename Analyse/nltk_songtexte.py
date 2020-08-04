@@ -11,13 +11,11 @@ from wordcloud import WordCloud, ImageColorGenerator
 import matplotlib.pyplot as plt
 import matplotlib.ticker
 
-#with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/ddr_string.txt') as file:
-#    ddr_hits = file.read()
-
-with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/ddr_try_string.txt') as file:
+with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/brd_string.txt') as file:
     ddr_hits = file.read()
 
-
+#with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/ddr_try_string.txt') as file:
+#    ddr_hits = file.read()
 
 def get_words(txtfile):
     #Löschen der Sonderzeichen
@@ -37,13 +35,20 @@ def get_lemmalist(worte):
     #Aus den tag-Tupeln nur Worte in eine Liste speichern
     word_list = []
     for tup in tags:
+        #Tags die keine Nouns sind lower()
         word_list.append(tup[0])
+        '''if tup[1] == 'NN':
+            word_list.append(tup[0])
+        else:
+            word_list.append(tup[0].lower())'''
     for w in word_list[:]:
         if len(w) == 1:
             word_list.remove(w)
         else:
-            match = re.search('\W+', w)
+            match = re.search('\w+', w)
             if match:
+                pass
+            else:
                 word_list.remove(w)
     return word_list
 
@@ -52,7 +57,6 @@ def delete_stopwords(wortliste):
     stopset = stopwords.words('german')
     tokens_without_sw = [w for w in wortliste if not w.lower() in stopset]
     return tokens_without_sw
-
 
 #Counter zählt die most frequent words in der Liste ohne Stopwörter
 def count_mfw(tokenliste):        
@@ -75,10 +79,10 @@ def create_barplot(mostfrequent,land):
     for tup in mostfrequent:
         worte = worte + (tup[0],)
         counts.append(tup[1])
-    y_pos = np.arange(len(worte), dtype=int)
-    locator = matplotlib.ticker.MultipleLocator(2)
-    plt.gca().xaxis.set_major_locator(locator)
+    y_pos = np.arange(len(worte))
     if len(mostfrequent[0][0].split(' ')) == 1:
+        locator = matplotlib.ticker.MultipleLocator(50)
+        plt.gca().xaxis.set_major_locator(locator)
         plt.title('most frequent words')
         plt.ylabel('Worte')
         plt.xlabel("Häufigkeit")
@@ -87,6 +91,8 @@ def create_barplot(mostfrequent,land):
         #plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/barplot_mfw_{}.png'.format(land.upper(),land))
         plt.show()
     else:
+        locator = matplotlib.ticker.MultipleLocator(20)
+        plt.gca().xaxis.set_major_locator(locator)
         plt.title('most frequent bigrams')
         plt.ylabel('Bi-Gramme')
         plt.xlabel("Häufigkeit")
@@ -100,10 +106,13 @@ def get_bigrams(worte):
     bigrms = []
     for i in liste:
         bigrms.append(' '.join(i).lower())
+    print(bigrms)
     counts = Counter(bigrms)
     most_bigrams = counts.most_common(20)
+    for b in most_bigrams[:]:
+        if b[0] == '-- --':
+            most_bigrams.remove(b)
     return most_bigrams
-
 
 
 words = get_words(ddr_hits)
@@ -114,10 +123,10 @@ lem_wostopwords = delete_stopwords(lemmalist)
 print(lem_wostopwords)
 mfw = count_mfw(lem_wostopwords)
 print(mfw)
-create_wordcloud(mfw,'ddr')
-create_barplot(mfw,'ddr')
+create_wordcloud(mfw,'brd')
+create_barplot(mfw,'brd')
 mfb = get_bigrams(lem_wostopwords)
 print(mfb)
-create_wordcloud(mfb,'ddr')
-create_barplot(mfb,'ddr')
+create_wordcloud(mfb,'brd')
+create_barplot(mfb,'brd')
 
