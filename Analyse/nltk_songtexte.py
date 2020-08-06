@@ -19,7 +19,7 @@ with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbescha
 
 def get_words(txtfile):
     #Löschen der Sonderzeichen
-    txtfile = re.sub(r'\'|\.\.\.|\.|´|!|\?|,|:|–|;|`|\"|\\', "", txtfile)
+    txtfile = re.sub(r'\'|\.\.\.|\.|´|!|\?|,|:|–|;|`|\"|\\|)|(|_', "", txtfile)
     #Tokenisieren des großen Strings
     words = nltk.tokenize.word_tokenize(txtfile,language='german')
     return words
@@ -45,7 +45,7 @@ def get_lemmalist(worte):
         if len(w) == 1:
             word_list.remove(w)
         else:
-            match = re.search('\w+', w)
+            match = re.search(r'\w+', w)
             if match:
                 pass
             else:
