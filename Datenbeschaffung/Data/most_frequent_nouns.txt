@@ -1,0 +1,45 @@
+Most frequent words -- DDR:
+'Nacht', 357
+'Leben', 333
+'Tag', 287
+'Zeit', 285
+'Traum', 277
+'Liebe', 273
+'Welt', 227
+'Mann', 155
+'Haus', 135
+'Erde', 134
+'Auge', 132
+'Lied', 129
+'Herz', 126
+'Wind', 124
+'Hand', 123
+'Mensch', 121
+'Haut', 120
+'Jahr', 119
+'Wort', 105
+'Kind', 102
+
+
+
+Most frequent words -- BRD:
+'Liebe', 444
+'Nacht', 410
+'Mann', 322
+'Traum', 262
+'Leben', 253
+'Welt', 239
+'Tag', 229
+'Zeit', 225
+'Herz', 214
+'Hand', 174
+'Frau', 165
+'Haus', 144
+'Auge', 141
+'Kind', 138
+'Freund', 125
+'Mädchen', 123
+'Lied', 122
+'Sonne', 119
+'Wein', 119
+'Jahr', 114
