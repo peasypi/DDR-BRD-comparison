@@ -4,7 +4,7 @@ with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbescha
     ddr_string = f.read()
 
 ddr_liste = nl.get_words(ddr_string)
-ddr_liste = nl.delete_stopwords(ddr_liste)
+#ddr_liste = nl.delete_stopwords(ddr_liste)
 
 len_worte = 0
 for w in ddr_liste[:]:
@@ -14,4 +14,5 @@ for w in ddr_liste[:]:
         len_worte += len(w)
 
 av_wordlength = len_worte/len(ddr_liste)
-
+print("Total words der DDR-Songs: " + str(len(ddr_liste)))
+print("Average word length der DDR-Songs ist: "+ str(av_wordlength))
