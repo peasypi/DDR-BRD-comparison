@@ -42,10 +42,9 @@ def get_lemmalist(worte):
     word_list = []
     for tup in tags:
         #Tags die keine Nouns sind lower()
-        #word_list.append(tup[0])
-        if tup[1] == 'NN':
-            word_list.append(tup[0])
-            #word_list.append(tup[0].lower())'''
+        word_list.append(tup[0])
+        '''if tup[1] == 'NN':
+            word_list.append(tup[0])'''
 
     for w in word_list[:]:
         if len(w) == 1:
@@ -68,6 +67,7 @@ def delete_stopwords(wortliste):
 def count_mfw(tokenliste):        
     Zaehler = Counter(tokenliste)
     most_occur = Zaehler.most_common(20)
+    print(most_occur)
     return most_occur
 
 #Liste wieder zu String -- damit Wordcloud erstellen
@@ -76,11 +76,12 @@ def create_wordcloud(mostfrequent,land):
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis("off")
     if len(mostfrequent[0][0].split(' ')) == 1:
-        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/wordcloud_nouns_{}.png'.format(land.upper(),land))
+        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/wordcloud_{}.png'.format(land.upper(),land))
     else:
         plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/wordcloud_bigrams_{}.png'.format(land.upper(),land))
     plt.show()
 
+#Balkendiagramm erstellen 
 def create_barplot(mostfrequent,land):
     mostfrequent.reverse()
     worte = ()
@@ -98,7 +99,7 @@ def create_barplot(mostfrequent,land):
         plt.xlabel("Häufigkeit")
         plt.barh(y_pos, counts, color='#81bbee')
         plt.yticks(y_pos, worte)
-        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/barplot_mfw_nouns_{}.png'.format(land.upper(),land))
+        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/barplot_mfw_{}.png'.format(land.upper(),land))
         plt.show()
     else:
         locator = matplotlib.ticker.MultipleLocator(20)
@@ -112,6 +113,7 @@ def create_barplot(mostfrequent,land):
         plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/barplot_mfb_{}.png'.format(land.upper(),land))
         plt.show()
 
+#Most frequent Bigramme
 def get_bigrams(worte):
     liste = list(nltk.bigrams(worte))
     bigrms = []
@@ -137,7 +139,6 @@ def main_nltk():
     #words_wostopwords = delete_stopwords(words)
     #print(lem_wostopwords)
     mfw = count_mfw(lem_wostopwords)
-    #print(mfw)
     create_wordcloud(mfw,'brd')
     create_barplot(mfw,'brd')
     #mfb = get_bigrams(words_wostopwords)

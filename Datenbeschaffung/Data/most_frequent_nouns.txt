@@ -1,45 +1,92 @@
-Most frequent words -- DDR:
-'Nacht', 357
-'Leben', 333
-'Tag', 287
-'Zeit', 285
-'Traum', 277
-'Liebe', 273
-'Welt', 227
-'Mann', 155
-'Haus', 135
-'Erde', 134
-'Auge', 132
-'Lied', 129
-'Herz', 126
-'Wind', 124
-'Hand', 123
-'Mensch', 121
-'Haut', 120
-'Jahr', 119
-'Wort', 105
-'Kind', 102
+DDR:
+Most frequent words:
+'kommen', 515
+'sehen', 391
+'gehen', 366
+'Nacht', 320
+'Leben', 313
+'mehr', 310
+'sagen', 293
+'Tag', 276
+'schon', 273
+'bleiben', 269
+'Traum', 264
+'wissen', 259
+'Liebe', 256
+'ganz', 255
+'mal', 245
+'Zeit', 237
+'wer', 234
+'immer', 230
+'nie', 224
+'geben', 221
+
+Most frequent nouns:
+'Nacht', 320
+'Leben', 313
+'Tag', 276
+'Traum', 264
+'Liebe', 256
+'Zeit', 237
+'Welt', 212
+'Mann', 139
+'Lied', 127
+'Erde', 126
+'Haus', 124
+'Auge', 116
+'Wind', 115
+'Mensch', 112
+'Haut', 111
+'Jahr', 108
+'Hand', 105
+'Herz', 103
+'Wort', 98
+'Mädchen', 98
 
 
 
-Most frequent words -- BRD:
-'Liebe', 444
-'Nacht', 410
-'Mann', 322
-'Traum', 262
-'Leben', 253
-'Welt', 239
-'Tag', 229
-'Zeit', 225
-'Herz', 214
-'Hand', 174
-'Frau', 165
-'Haus', 144
-'Auge', 141
-'Kind', 138
-'Freund', 125
-'Mädchen', 123
-'Lied', 122
-'Sonne', 119
-'Wein', 119
-'Jahr', 114
+BRD:
+Most frequent words:
+'sagen', 640
+'gehen', 600
+'kommen', 512
+'sehen', 427
+'mehr', 402
+'Liebe', 369
+'Nacht', 362
+'schon', 358
+'ganz', 349
+'geben', 344
+'dass', 341
+'wissen', 330
+'immer', 293
+'allein', 293
+'ja', 289
+'nie', 281
+'lassen', 270
+'bleiben', 257
+'Traum', 248
+'müssen', 243
+
+Most frequent nouns:
+'Liebe', 369
+'Nacht', 362
+'Traum', 248
+'Mann', 242
+'Leben', 230
+'Tag', 210
+'Welt', 209
+'Zeit', 203
+'Herz', 188
+'Hand', 143
+'Frau', 135
+'Haus', 129
+'Mädchen', 115
+'Kind', 114
+'Auge', 113
+'Lied', 111
+'Freund', 109
+'Sonne', 108
+'Jahr', 105
+'Wein', 105
+

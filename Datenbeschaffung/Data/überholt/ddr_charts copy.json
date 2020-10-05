@@ -633,6 +633,15 @@
             "type/token": 49.69
         },
         {
+            "titel": "Scheidung",
+            "interpret": "Puhdys",
+            "platzierung": 38,
+            "lyrics": "Ein Kind für mich ein Kind für Dich und so beginnt das Teilen.\nUnd man war doch einmal sehr verliebt.\nMal fremdgepennt, gleich Bett getrennt und kein Gericht kann heilen.\nUnd man dacht, daß es das niemals gibt.\n\nDie Nacht wird kühl, der Winter kommt und wer wärmt dann dein Bein?\nDie Nacht wird kühl muß das denn wirklich sein?\nSag nein! Sag nein!\nGib ihr Deine Hand. Deine starke Hand!\nSchlag ein! Schlag ein!\nGib ihm Deine Hand. Deine weiße Hand!\n\nWer ist so weich, wer wird denn gleich was er geknüpft zerschneiden?\nEs kann sein, man kaut ein leben dran.\nAus Liebe macht man keine Schlacht mit Sieg für eins von beiden.\nDieser Sieg schlägt seinen eig'nen Mann.\n\nDie Nacht wird kühl, der Winter kommt und wer wärmt dann dein Bein?\nDie Nacht wird kühl muß das denn wirklich sein?\n\nDie Nacht wird kühl, der Winter kommt und wer wärmt dann dein Bein?\nDie Nacht wird kühl muß das denn wirklich sein?\nSag nein! Sag nein!\nGib ihr Deine Hand. Deine starke Hand!\nSchlag ein! Schlag ein!\nGib ihm Deine Hand. Deine weiße Hand!\n\nSag nein! Sag nein!\nSchlag ein! Schlag ein!\nSag nein! Sag nein!\nSchlag ein! Schlag ein!\n            ",
+            "tokenanzahl": 202,
+            "typeanzahl": 80,
+            "type/token": 39.6
+        },
+        {
             "titel": "Heißes Land",
             "interpret": "Magdeburg",
             "platzierung": 39,
@@ -833,6 +842,15 @@
             "type/token": 39.77
         },
         {
+            "titel": "Ich rufe Dich",
+            "interpret": "Veronika Fischer",
+            "platzierung": 15,
+            "lyrics": "\nSchick' meinen leisen Gruß auf Reisen\nSchick' meinen leisen Ruf zu dir\nDurch Wald und Feld und Stein der Welt\nDurch Blut und Salz und Meer\nDurch Einsamkeit und Leid und Freud'\nRuft mein Ruf dich her\n\nDurch Land bekannt und unbekannt\nDurch Jahre leicht und schwer\nDurch Hoffnung, Grün und abgebrannt\nRuft mein Ruf dich her\n\nKomm' her und füll' mit Zuversicht\nUnd Liebe mein leeres Glas\nStoß' an mit mir\nTrink' aus mit mir\nUnd Bitterkeit fällt ins Gras\n\nKomm' her und leb' und schlaf' mit mir\nUnd teile mit mir das Brot\nUnd streit' mit mir\nUnd lach' mit mir\nUnd lieb' mich bis zum Tod\n\nDurch Wald und Feld und Stein der Welt\nDurch Blut und Salz und Meer\nDurch Einsamkeit und Leid und Freud'\nRuft mein Ruf dich her\n\nKomm' her und füll' mit Zuversicht\nUnd Liebe mein leeres Glas\nStoß' an mit mir\nTrink' aus mit mir\nUnd Bitterkeit fällt ins Gras",
+            "tokenanzahl": 158,
+            "typeanzahl": 63,
+            "type/token": 39.87
+        },
+        {
             "titel": "Supernummer",
             "interpret": "Prinzip",
             "platzierung": 16,
@@ -921,6 +939,15 @@
             "tokenanzahl": 230,
             "typeanzahl": 97,
             "type/token": 42.17
+        },
+        {
+            "titel": "So 'ne Kleine",
+            "interpret": "Karat",
+            "platzierung": 32,
+            "lyrics": "\nIch kenne sie gut und ich kenn' sie auch nicht,\nSeh' manchmal am Tag flüchtig ihr Gesicht.\nIch kenne sie nur, wie man Leute so kennt,\nAn denen man täglich so vorüber rennt.\n\nIch weiß nicht einmal wie sie heißt, was sie tut.\nDoch einfach zu fragen, dazu fehlt der Mut.\nIch weiß nicht einmal wie es ist, wenn sie lacht.\nSie hat sowas an sich, was mich leise macht.\n\nMann oh Mann, sie ist So 'ne Kleine,\nFast unschuldig, glaub' ich, und noch ganz ohne Mann.\nMann oh Mann, sie ist So 'ne Kleine,\nSo eine, bei der man nicht gleich landen kann.\n\nHe, was ist bloß los? So war ich doch sonst nie!\nWollt' ich eine haben, ja dann kriegte ich sie.\nHe, was ist bloß los, hau'n die Kumpels mich an,\nWas ist mit dem Zahn, warum gehst du nicht ran?\n\nMann oh Mann, sie ist So 'ne Kleine,\nFast unschuldig, glaub' ich, und noch ganz ohne Mann.\nMann oh Mann, sie ist So 'ne Kleine,\nSo eine, bei der man nicht gleich landen kann.\n\nNun schlaf' ich sehr schlecht und ich stelle mir vor,\nDa kommt so ein Typ und kommt mir zuvor.\nNun schlaf' ich sehr schlecht und ich wälz' mich im Bett,\nWeil was man nicht hat, man am liebsten hätt'.\n\nJeder Mann möchte irgendwann\nDas, was er nicht haben kann.",
+            "tokenanzahl": 224,
+            "typeanzahl": 108,
+            "type/token": 48.21
         },
         {
             "titel": "Rock'n Roll Fan",
@@ -1132,6 +1159,15 @@
             "type/token": 44.4
         },
         {
+            "titel": "Rock'n Roll Fan",
+            "interpret": "Karat",
+            "platzierung": 9,
+            "lyrics": "Er kann es kaum erwarten, bis die ersten Töne starten.\nRock ´n Roll Fan.\nHeiß wie ein Eimer Glut, in den Adern kocht das Blut.\nUnd die Band rockt auch gleich los.\nSing Rock´n Roll Fan.\nIn Form steht er jetzt schon auf der Bühne.\nSein Herz schlägt im Rampenlicht.\n\nHe, la, la, la, la, die Band rockt los und er singt wie im Traum.\nHe, la, la, la, la, der Fan der tanzt bis hin zum Morgengrauen.\nDer Fan.\n\n \nEin Stein der immer rollt, und ein Sturm singt 1000 Volt.\nHe, Rock´n Roll Fan.\nIst die Band in seinem Rücken und die Luft ist zum ersticken,\nund sein Tanz ist Dynamit.\nHe, Rock ´n Roll Fan.\nIn Form steht er jetzt schon auf der Bühne.\nSein Herz schlägt im Rampenlicht. \n\nHe, la, la, la, la, die Band rockt los und er singt wie im Traum.\nHe, la, la, la, la, der Fan der tanzt bis hin zum Morgengrauen.\n\nDie Rockband packt ein, nur er tanzt allein.\nNoch dröhnt Applaus, doch unsere Show ist aus.\n\nHe, la, la, la, la, die Band rockt los und er singt wie im Traum.\nHe, la, la, la, la, der Fan der tanzt bis hin zum Morgengrauen.\n\nDie Rockband packt ein, nur er tanzt allein.\nNoch dröhnt Applaus, doch unsere Show ist aus.\n\nHe, la, la, la, la, die Band rockt los und er singt wie im Traum.\nHe, la, la, la, la, der Fan der tanzt bis hin zum Morgengrauen.\n\nDer Fan.\n\n",
+            "tokenanzahl": 251,
+            "typeanzahl": 76,
+            "type/token": 30.28
+        },
+        {
             "titel": "Fenster zu",
             "interpret": "Karussell",
             "platzierung": 10,
@@ -1175,6 +1211,15 @@
             "tokenanzahl": 156,
             "typeanzahl": 84,
             "type/token": 53.85
+        },
+        {
+            "titel": "Perlenfischer",
+            "interpret": "Puhdys",
+            "platzierung": 15,
+            "lyrics": "Morgens fahr'n sie hinaus.\nBlieben lieber zu Haus.\nDoch das Meer ruft.\n\nPerlen reifen im Meer.\nDoch sie schlafen versteckt.\nWo kühl das Wasser sie umgibt.\nWo Neonaugen glühn.\n\nWenn sie den Wellen müde entsteigen,\nhält eine Perle die Hand.\nWenn auch ihr Leuchten nicht ihnen gehört,\nsie tragen sie stolz an Land.\n\nWie ein Mantel aus Blei schließt die Tiefe sie ein.\nDoch das Meer ruft.\nIhre Messer sind scharf. Aber scharf auch die Angst.\nSie lauert unter jedem Stein. Will stärker als sie sein.\n\nWenn sie den Wellen müde entsteigen,\nhält eine Perle die Hand.\nWenn auch ihr Leuchten nicht ihnen gehört,\nsie tragen sie stolz an Land.\n            ",
+            "tokenanzahl": 110,
+            "typeanzahl": 64,
+            "type/token": 58.18
         },
         {
             "titel": "Rock ist wieder da",
@@ -1366,6 +1411,15 @@
             "type/token": 61.38
         },
         {
+            "titel": "Weißes Boot",
+            "interpret": "Rote Gitarren",
+            "platzierung": 43,
+            "lyrics": "Wenn der Wind auf dem Meer schlafen geht \nund ein Traum wie von fern zu mir weht. \nSteigt aus dunkler Flut, weiß ein Segelboot, \ndieses Boot war mein Traum lange her. \n\nWer den Wind liebt wie ich kennt auch gut, \ndas Gefühl, wenn man treibt mit der Flut. \nRingsum Meer und Wind und die Wellen sind \nweiße Wände aus Glas um Dich her. \n\nAuf Schwingen gleiten wir ins Morgengraun. \nAuf Wellen reiten wir durch Gischt und Schaum. \nGetaucht in Meeresgrün und Sonnenglanz. \nDer Wind spielt dazu seinen wilden Tanz. \n\nSchöne Zeit, Fahrenszeit, war vorbei \nals ein Sturm brach das Boot mir entzwei. \nWarf es an den Strand, wo`s ein Ende fand. \nDieses Boot war mein Traum, doch vorbei. \n\nLebewohl, weißes Boot, lebewohl. \nMeine Liebe, mein Traum, mein Idol. \nFlammensegel steigt, bis der Wind sich neigt. \nSo ein Boot bleibt mein Traum, allezeit. \n\nAuf Schwingen gleiten wir ins Morgengraun. \nAuf Wellen reiten wir durch Gischt und Schaum. \nGetaucht in Meeresgrün und Sonnenglanz. \nDer Wind spielt dazu seinen wilden Tanz. \n\n",
+            "tokenanzahl": 170,
+            "typeanzahl": 98,
+            "type/token": 57.65
+        },
+        {
             "titel": "Ballade vom Stein",
             "interpret": "Lift",
             "platzierung": 44,
@@ -1548,6 +1602,15 @@
             "type/token": 59.24
         },
         {
+            "titel": "Traudl",
+            "interpret": "City",
+            "platzierung": 16,
+            "lyrics": "He Jungs, wer kennt Traudl,\nein kleiner Zahn mit langem blonden Haar.\nSie macht ihr Abi\nund wurde grad erst mal siebzehn Jahr.\nSie hat `ne kleine Bude im dritten Hinterhaus\nund abends kurz vor zehn\ngehen ihre Lichter aus.\nEin Buch hält sie im Arm.\nalles was sie brauch`,\nsogar lag noch nie ein Mann\nihr so nahe dran.\n \n\nHe Jungs, wer kennt Traudl,\nam Sonnabend hab` ich sie noch nie gesehn`.\nSie macht ihr Abi\nes juckt sie nicht wenn andre tanzen gehn`.\nSie sitzt in ihrer kleine Bude im dritten Hinterhaus\nund rechnet sich auch `ne dufte Zwischennote aus.\n`ne Flasche steht parat,\nmeistens ist es Wein.\nUnd wenn sie mal spart\nreicht es manchmal auch für zwei.\n \n\nHeute geht die Traudl\nmit zwei, drei Kumpels in die Lärmothek.\nsie denkt an `s Abi\nund auch schon an `s Nachhause gehn`.\nSie hat `ne kleine Bude im dritten Hinterhaus\nund abends kurz vor zehn\ngehen ihre Lichter aus.\nEin Buch hält sie im Arm.\nalles was sie brauch`,\nsogar lag noch nie ein Mann\nihr so nahe dran.\n            ",
+            "tokenanzahl": 193,
+            "typeanzahl": 95,
+            "type/token": 49.22
+        },
+        {
             "titel": "Ein Mädchen wie du",
             "interpret": "Transit",
             "platzierung": 18,
@@ -1584,6 +1647,15 @@
             "type/token": 37.38
         },
         {
+            "titel": "Nach Süden",
+            "interpret": "Lift",
+            "platzierung": 23,
+            "lyrics": "Als ich ein Kind noch war \nda war mir gar nicht klar \nwohin die Vögel gehn \nwenn kalt schon die Winde wehn \nDer Vater lachte leis \ndie fliehn vor Schnee und Eis \ndie ziehn nach Süden \num immer die Sonne zu sehn \n\nNach Süden, nach Süden \nwollte ich fliegen \ndas war mein allerschönster Traum \nHinter dem Hügel \nwuchsen mir Flügel \num vor dem Winter abzuhaun \nabzuhaun \n\nUnd heimlich in der Nacht \nhab ich mich aufgemacht \nwollte nach Süden gehn \num immer die Sonne zu sehn \nso lief ich querfeldein \nwohl über Stock und Stein \ndoch gar nicht weit hinterm Haus \nda fiel schon der erste Schnee\n\n",
+            "tokenanzahl": 106,
+            "typeanzahl": 69,
+            "type/token": 65.09
+        },
+        {
             "titel": "Was bleibt",
             "interpret": "Stern-Combo Meißen",
             "platzierung": 24,
@@ -1600,6 +1672,15 @@
             "tokenanzahl": 111,
             "typeanzahl": 59,
             "type/token": 53.15
+        },
+        {
+            "titel": "Weit ist die Straße",
+            "interpret": "Prinzip",
+            "platzierung": 26,
+            "lyrics": "Auf in den blauen Morgen,\n \nvor uns liegt die ganze Welt. \nSpotten wir der Mühn` und Sorgen, \npfeifen wir auf Rum und Geld. \nHör doch wie der Motor heult, \nund wie der Blick die Kurve peilt. \nDie Sonne steigt den Himmel rauf, \nein toller Tag nimmt seinen Lauf. \n \nWeit ist die Strasse bis zum Horizont.\n \nWeit an den Himmel, niemals näher kommt. \n \nKeine großen Illusionen\n \naber Freude an der Welt. \nAn der Welt in der wie wohnen \nund die uns zusammen hält. \nHerrgott wenn es einen gibt, \nschenk mir `n Mädel das mich liebt. \nUnd eh` sich unser Weg verzweigt \nder Saft in alle Bäume steigt. \n \nWeit ist die Strasse bis zum Horizont.\n \nWeit an den Himmel, niemals näher kommt. \n \nWeit ist die Strasse bis zum Horizont.\n \nWeit an den Himmel, niemals näher kommt \n\n",
+            "tokenanzahl": 137,
+            "typeanzahl": 77,
+            "type/token": 56.2
         },
         {
             "titel": "Ebbe und Flut",
@@ -1793,6 +1874,15 @@
             "type/token": 40.87
         },
         {
+            "titel": "Erinnerung",
+            "interpret": "Electra",
+            "platzierung": 2,
+            "lyrics": "Manchmal abends wird es um uns still\n \nund wir denken noch einmal an jenen Tag, \nder den Zauber der ersten Liebe nahm. \nDas Machs gut als  \nwo eine Welt in uns zerbrach. \n \nJa wenn der Abend kommt\n \nwir weinen, wir weinen. \nJa wenn der Abend kommt \nwir weinen, wir weinen. \n \nAch wir sagten, ich liebe niemals mehr,\n \ndoch die Nächste und der Nächste kamen bald. \nOftmals haben wir  wieder uns getrennt, \naber Tränen gab `s nie mehr, \nes ließ uns kalt. \n \nDoch wenn der Abend kommt\n \nwir weinen, wir weinen. \nJa wenn der Abend kommt \nwir weinen, wir weinen. \n \nUnd wir sagen\n \nwir haben nichts verpasst. \nDamals waren wir im Kopf \nwohl noch nicht klar. \nAber manchmal denken wir noch heut` \ndas die erste Liebe wohl doch die Größte war. \n \nDoch wenn der Abend kommt\n \nwir weinen, wir weinen. \nJa wenn der Abend kommt \nwir weinen, wir weinen. \n \nAh, wir weinen, wir weinen !\n \nAh, wir weinen, wir weinen ! \nDie erste Liebe war die Größte ! \n\n",
+            "tokenanzahl": 168,
+            "typeanzahl": 74,
+            "type/token": 44.05
+        },
+        {
             "titel": "Melanie",
             "interpret": "Puhdys",
             "platzierung": 3,
@@ -1982,6 +2072,15 @@
             "type/token": 50.0
         },
         {
+            "titel": "Nimm mich so",
+            "interpret": "Holger Biege",
+            "platzierung": 27,
+            "lyrics": "\nNimm mich so, wie ich bin\nAlles andere hat für uns doch keinen Sinn\nBin ich down, dann laß 's mich sein,\nAb und zu ist jeder Mensch mal ganz gern allein\n\nDann zieh' ich mich mal zurück und bin ganz still,\nWeil ich wieder zu mir selber finden will\n\nSo mancher Mann, der spricht sich aus,\nSagt die Probleme, die er hat, frei heraus\nTut mir leid, so bin ich nicht\nFür mich wird's nicht viel leichter,\nWenn man d'rüber spricht\n\nDann zieh' ich mich mal zurück und bin ganz still,\nWeil ich wieder zu mir selber finden will\n\nIch weiß, daß tut dir manchmal weh\nDas hat nichts mit dir zu tun, du bist okay\nDu bist für mich die eine Frau\nUnd wenn ich sonst nichts weiß, das weiß ich genau\n\nAber nimm es mir nicht krumm, mal muß es sein\nAb und zu ist jeder Mensch mal gern allein,\nAllein\n\nDann zieh' ich mich mal zurück und bin ganz still,\nWeil ich wieder zu mir selber finden will\nDann schweig' still",
+            "tokenanzahl": 174,
+            "typeanzahl": 79,
+            "type/token": 45.4
+        },
+        {
             "titel": "Du bist zu jung",
             "interpret": "Frank Schöbel",
             "platzierung": 28,
@@ -2018,6 +2117,15 @@
             "type/token": 48.09
         },
         {
+            "titel": "Gott Morpheus",
+            "interpret": "Electra",
+            "platzierung": 34,
+            "lyrics": "Welch gewaltiger Gott ist der Schlaf,\n \nwas da tobt, Gott Morpheus macht es wach. \nWas da schreit in den Brüsten so schrill, \noh, gelobt, Gott Morpheus macht es still. \nWenn er weich mit seinen Schwingen dich umfängt \ndir die Augen in die Eingeweide senkt \nund dir Ruhe schenkt. \n \nWelch gewaltiger Gott ist der Schlaf,\n \njeder fällt wenn ihm Gott Morpheus naht. \nKeinen fragt er ob es ihm gerade passt, \ndas Gott Morpheus ihn in `s Auge fasst. \nWenn er weich mit seinen Schwingen dich umfängt \ndir die Augen in die Eingeweide senkt \nund dir Ruhe schenkt. \n \nWie ein Vogel zieht er um die Welt\n \nmit seinem großen Schatten. \nWo der Schatten auf die Erde fällt \nda müssen wir ermatten. \nStill in unsere Stuben gehn \nnoch mal nach unser `n Kindern sehn \nehe es uns selbst die Augen schließt. \n \nWelch gewaltiger Gott ist der Schlaf,\n \nwer ihm flieht der spürt schon bald die Schmach. \nDa ist nichts, aber nicht lang zu woll`n \ndiesem Gott ist der Tribut zu zoll `n. \nWenn er weich mit seinen Schwingen dich umfängt \ndir die Augen in die Eingeweide senkt \nund dir Ruhe schenkt. \n \nWie ein Vogel zieht er um die Welt\n \nmit seinem großen Schatten. \nWo der Schatten auf die Erde fällt \nda müssen wir ermatten. \nStill in unsere Stuben gehn \nnoch mal nach unser `n Kindern sehn \nehe es uns selbst die Augen schließt \n\n",
+            "tokenanzahl": 236,
+            "typeanzahl": 98,
+            "type/token": 41.53
+        },
+        {
             "titel": "Hildebrandslied",
             "interpret": "Transit",
             "platzierung": 36,
@@ -2025,6 +2133,15 @@
             "tokenanzahl": 215,
             "typeanzahl": 131,
             "type/token": 60.93
+        },
+        {
+            "titel": "Jugendliebe",
+            "interpret": "Ute Freudenberg & Elefant",
+            "platzierung": 37,
+            "lyrics": "Er - sprach von Liebe,\ndabei waren sie noch nicht mal fünfzehn Jahr`.\nSchwor - große Worte,\nund er küsste sie, und streichelt ihr Haar.\nSie - sprach von Träumen,\nund wie gerne würde sie ihm alles glauben.\nMalte - mit ihm Bilder,\nVon dem Leben, dass sie sich dann beide bauten.\n\nJugendliebe bringt den Tag wo man beginnt,\nalles um sich her ganz anders anzusehn.\nAha, lachen trägt die Zeit, die unvergessen bleibt,\nDenn sie ist - traumhaft schön.\n\nEr - traf sie wieder,\nviele Jahre sind seit damals schon vergangen.\nSieht - in ihre Augen,\nund er denkt zurück, wie hat es angefangen\n\nJugendliebe bringt den Tag wo man beginnt,\nalles um sich her ganz anders anzusehn.\nAha, lachen trägt die Zeit, die unvergessen bleibt,\nDenn sie ist - traumhaft schön.\n\nJugendliebe bringt den Tag wo man beginnt,\nalles um sich her ganz anders anzusehn.\nAha, lachen trägt die Zeit, die unvergessen bleibt,\nDenn sie ist - traumhaft schön.\n\nEr - sprach von Liebe,\nSchwor - große Worte,\nund er küsste sie, und streichelt ihr Haar.\n\nEr - sprach von Liebe ...\n",
+            "tokenanzahl": 172,
+            "typeanzahl": 79,
+            "type/token": 45.93
         },
         {
             "titel": "Wie groß sind die Bäume",
@@ -2245,6 +2362,24 @@
             "type/token": 66.67
         },
         {
+            "titel": "Bernsteinlegende",
+            "interpret": "Berluc",
+            "platzierung": 22,
+            "lyrics": "War eine Zeit da war ein Gott verliebt.\n \nIn eine Taube weiß und rein. \nHat sie gejagt jedoch die Taube flog \nin einen Wald ganz tief hinein. \nEs war der Wald, ein alter guter Wald \nund einen Gast verriet er nie. \nDa kam der Gott mit Blitz und Donnerschlag \nund goss den Regen über sie. \n \nOh, Wald, lieber Wald\n \nmir ist so kalt. \nOh, Wald, lieber du, \ndu deck mich zu. \n \nRegen bis das der Wald im Meer versank\n \naber die taube flog nicht auf \nStarb wo sie saß mit einem letzten Dank. \nDa ging der Wald in Tränen auf. \n \nOh, Wald, lieber Wald\n \nmir ist so kalt. \nOh, Wald, lieber du, \ndu deck mich zu. \n \nUnd wenn wir heut an einem Meeresstrand\n \nsehen einen kleinen klaren Stein. \nNehmen wir ihn verzaubert in die Hand \nkann `s nur des Waldes Träne sein. \n \nOh, Wald, lieber Wald\n \nmir ist so kalt. \nOh, Wald, lieber du, \ndu deck mich zu. \n \nOh, Wald, lieber Wald\n \nmir ist so kalt. \nOh, Wald, lieber du, \ndu deck mich zu. \n\n",
+            "tokenanzahl": 175,
+            "typeanzahl": 86,
+            "type/token": 49.14
+        },
+        {
+            "titel": "Warten in der Dunkelheit",
+            "interpret": "Keks",
+            "platzierung": 23,
+            "lyrics": "Ich lieg im Dunkeln wach\nund hör auf jeden Laut.\nBei jedem Schritt vor`m Haus\ndoch keiner klingt vertraut.\nDie Stille tönt in mir\nund sie dröhnt mir in den Ohren\nund ich geh zur Tür\ndoch du bist nicht da\nund ich wart auf dich.\nUnd ich laufe hin und her\nund starr zum Fenster raus.\nNun gehn` mir langsam auch\nmeine Zigaretten aus.\nVersuch zu lesen,\ndoch die Worte, sie verschwimmen mir.\nEs hat keinen Zweck,\nich wart `auf dich.\n \n\nWarten in der Dunkelheit\nda wird man grau und alt.\nZimmerwände stürzen auf mich ein.\nWarten in der Dunkelheit\nund langsam wird mir kalt\nund man fühlt sich einsam und allein.\n \n\nWarten in der Dunkelheit\nda wird man grau und alt.\nZimmerwände stürzen auf mich ein.\nWarten in der Dunkelheit\nund langsam wird mir kalt\nund man fühlt sich einsam und allein.\n \n\nDa seh` ich deinen Brief\nden ich vorher nicht fand.\nDoch ich versteh ihn nicht,\nMachs gut steht da noch auf dem Rand.\nIch komm nicht zurück,\nwart nicht auf mich.\n \n\nWarten in der Dunkelheit\nda wird man grau und alt.\nZimmerwände stürzen auf mich ein.\nWarten in der Dunkelheit\nund langsam wird mir kalt\nund man fühlt sich einsam und allein.\nUnd man fühlt sich einsam und allein.\nUnd man fühlt sich einsam und allein.\nUnd man fühlt sich einsam und allein.\n\n\n",
+            "tokenanzahl": 232,
+            "typeanzahl": 93,
+            "type/token": 40.09
+        },
+        {
             "titel": "Jungs",
             "interpret": "Karussell",
             "platzierung": 24,
@@ -2324,6 +2459,24 @@
             "tokenanzahl": 162,
             "typeanzahl": 96,
             "type/token": 59.26
+        },
+        {
+            "titel": "Schwanenkönig",
+            "interpret": "Karat",
+            "platzierung": 40,
+            "lyrics": "Es neigte ein Schwanenkönig \nseinen Hals auf das Wasser hinab.\nSein Gefieder war weiß wie am ersten Tag,\nrein wie Sirenenton.\nUnd im Glitzern der Morgensonne\nsieht er in den Spiegel der Wellen hinein,\nund mit brechenden Augen weiß er:\nDas wird sein Abschied sein.\nWenn ein Schwan singt, schweigen die Tiere.\nWenn ein Schwan singt, lauschen die Tiere.\nUnd sie raunen sich leise zu, raunen sich leise zu :\nEs ist ein Schwanenkönig, der in Liebe stirbt.\nUnd es began der Schwanenkönig \nzu singen sein erstes Lied,\nunter der Trauerweide, \nwo er sein Leben geliebt.\nUnd er singt in den schönsten Tönen, \ndie man je auf Erden gehört,\nvon der Schönheit dieser Erde, \ndie ihn unsterblich betört. \nUnd es singt der Schwanenkönig \nseinen ganzen letzten Tag,\nbis sich die Abendsonne \nstill ins Dunkelrot flieht.\nLautlos die Trauerweide\nsenkt ihre Blätter wie Lanzen hinab.\nLeiser und leiser die Töne,\nbis das letzte Licht im Gesang verglüht.\nWenn ein Schwan singt, lauschen die Tiere.\nWenn ein Schwan singt, schweigen die Tiere.\nUnd sie neigen sich tief hinab, raunen sich leise zu:\nEs ist ein Schwanenkönig, der in Liebe stirbt.\n\n\n \n\n",
+            "tokenanzahl": 187,
+            "typeanzahl": 95,
+            "type/token": 50.8
+        },
+        {
+            "titel": "Hildebrandslied",
+            "interpret": "Transit",
+            "platzierung": 42,
+            "lyrics": "Es erzählt die Sage: Hildebrand und Hadubrand\nstanden einst zwischen zwei Heeren\nin Ritterrüstung und Gewand.\nHildebrand, der war in Diensten\njahrelang beim Bootenkönig.\nEr mußte aus der Heimat fliehn\nund ließ Weib und Kind zurück.\n\nNach dreißig Jahren kommt er wieder\nund mit ihm tausend Mann.\nEr trifft auf ein andres Heer,\nein junger Recke führt es an.\nHildebrand fragt nach dem Namen.\nDer Jüngling spricht: Man nennt mich Hadubrand.\nMein Vater fiel einst in der Fremde,\nes war Hildebrand, ich hab ihn nie gekannt.\nDer Alte weiß nun, wer da steht,\ndenn Hadubrand, das ist sein Sohn.\nUnd er sagt ihm diese Wahrheit,\ndoch der will nichts wissen davon.\n\nDer Jüngling glaubt, daß ihm der Alte\ntäuschen will, den Kampf zu scheu'n.\nUnd Geschenke nimmt er nicht an,\nbeleidigt den Vater ungemein.\nIm Angesicht der beiden Heere\nspricht der Vater: So muß es dann sein.\nMuß dich mit dem Schwerte schlagen,\noder du wirst mein Mörder sein.\n\nUnd die eschen Lanzen fliegen,\nund die Schilde splittern schon.\nNoch sind sie auf ihren Rossen,\ndoch der Vater trifft den Sohn.\n\nSiegerehre war das damals,\nund so kam's zum tragischen Streit.\nHildebrand und Hadubrand \nwurden Opfer ihrer Zeit.\nSiegerehre war das damals,\nund so kam's zum tragischen Streit.\nHildebrand und Hadubrand\nwurden Opfer ihrer Zeit.\n            ",
+            "tokenanzahl": 215,
+            "typeanzahl": 131,
+            "type/token": 60.93
         },
         {
             "titel": "Die ganze Nacht",
@@ -2499,6 +2652,15 @@
             "type/token": 38.34
         },
         {
+            "titel": "Jeden Morgen",
+            "interpret": "Electra",
+            "platzierung": 25,
+            "lyrics": "Mädchen schlaf, ich werde gehn\n \n wenn überm Dach der Morgen graut. \nDer Abschied ist ein kleiner Tod, \n treibt alte Dornen in die Haut. \n \nMädchen, laß mich weiter ziehn, \n \nmein Herz nimmt deinen Herzschlag an. \nDein heißer Mund schließt meinen Mund,  \ndas ich fast nicht mehr atmen kann - atmen kann . \n \nJeden Morgen sind die Straßen die wir gestern gingen, tot.\n \nLiegt ein neues Suchen zwischen Morgenrot und Abendrot. \nDoch ich spür,  \nder kalte Wind streift mir die Fesseln ab. \n \nIch seh am Morgen anders, \n \nwas ich abends auch gesehen hab, gesehen hab. \nJeden Morgen sind die Straßen die wir gestern gingen, tot. \nLiegt ein neues Suchen zwischen Morgenrot und Abendrot. \n\n",
+            "tokenanzahl": 111,
+            "typeanzahl": 74,
+            "type/token": 66.67
+        },
+        {
             "titel": "He Girl",
             "interpret": "Prinzip",
             "platzierung": 27,
@@ -2533,6 +2695,15 @@
             "tokenanzahl": 222,
             "typeanzahl": 70,
             "type/token": 31.53
+        },
+        {
+            "titel": "Fliegen vor der Zeit",
+            "interpret": "Berluc",
+            "platzierung": 32,
+            "lyrics": "Wär` ich schneller als das Licht,\nflög` ich mal in `s Morgen\nWüsste ich wie alles wird sparte ich mir Sorgen.\nJa, so was lockte mich schon vor hinter meinem Ofen.\nDann käm` ich heim wenn ich das war,\nunter den Philosophen.\nUnd dieser Zeit einmal voraus,\nweit, weit so weit,\nich flippte aus.\n \n\nFliegen weit, weit, weit\nvor der Zeit, Zeit, Zeit.\nDinge sehn, sehn, sehn die geschehn`.\nFliegen weit, weit, weit\nvor der Zeit, Zeit, Zeit.\nDinge sehn, sehn, sehn die geschehn`.\n \n\nKönnt ` ich sehen wie der Mensch,\nwürde ich ??? und Weise.\nKäm` ich heim nach Hundert Jahr `n\nvon dieser kurzen Reise.\nUnd dieser Zeit einmal voraus,\nweit, weit so weit,\nich flippte aus.\n \n\nFliegen weit, weit, weit\nvor der Zeit, Zeit, Zeit.\nDinge sehn, sehn, sehn die geschehn`.\nFliegen weit, weit, weit\nvor der Zeit, Zeit, Zeit.\nDinge sehn, sehn, sehn die geschehn`.\n \n\nFliegen weit, weit, weit\nvor der Zeit, Zeit, Zeit.\nDinge sehn, sehn, sehn die geschehn`.\nFliegen weit, weit, weit\nvor der Zeit, Zeit, Zeit.\nDinge sehn, sehn, sehn die geschehn`.\n \n\nFliegen weit, weit, weit\nvor der Zeit, Zeit, Zeit.\nDinge sehn, sehn, sehn die geschehn`.\nFliegen weit, weit, weit\nvor der Zeit, Zeit, Zeit.\nDinge sehn, sehn, sehn die geschehn`.\n            ",
+            "tokenanzahl": 223,
+            "typeanzahl": 64,
+            "type/token": 28.7
         },
         {
             "titel": "Er war mein Freund",
@@ -2587,6 +2758,15 @@
             "tokenanzahl": 266,
             "typeanzahl": 119,
             "type/token": 44.74
+        },
+        {
+            "titel": "Mein Geburtstag",
+            "interpret": "Keks",
+            "platzierung": 48,
+            "lyrics": "Aufsteh'n\nIch gratuliere dir\nSie mal\nDie neuen Socken hier\nUnd den Recorder da\nHat dir Papa geschenkt\nKannst mal seh'n\nWie jeder an dich denkt\nAufsteh'n\nMach und beeile dich\nFrühstück\nSteht auf dem Küchentisch\nUnd hol die Torten ab\nIch muss noch zum Frisör\nWeil abends Gäste kommen\nIch schaff' es sonst nicht mehr\n\nHeut' hab' ich Geburtstag\nIch hab' heut' Geburtstag\nHeut' hab' ich Geburtstag\nJa doch, ich beeile mich\n\n\n\n\n\nAbends\nWie ich das öde find'\nBin ich\nDann das Geburtstagskind\nAlle mampfen und umarmen mich\nUnd ein Kerl, den ich nicht kenn'\nDer will unbedingt\nDas ich ihn Freddie nenn'\n\nHeut' hab' ich Geburtstag\nIch hab' heut' Geburtstag\nAlle woll'n das Beste\nUnd sie schlucken feste\n\nHeut' hab' ich Geburtstag\nIch hab' heut' Geburtstag\nLass die Alten feiern\nBin sauer und verpfeife mich\n            ",
+            "tokenanzahl": 137,
+            "typeanzahl": 80,
+            "type/token": 58.39
         }
     ],
     "1983": [
@@ -2708,6 +2888,15 @@
             "type/token": 44.72
         },
         {
+            "titel": "Werkstattsong",
+            "interpret": "Pankow",
+            "platzierung": 19,
+            "lyrics": "Wenn ich in die Werkstatt komme \nknallt der Lärm an meine Omme. \nIch feile wie `ne Eule \nauf `ner dicken Eisenbeule \nnun schon wochenlang herum, \ndas macht mich ganz heiß und krumm. \n \nDoch Werkstattleben das ist hektisch,\n \ndas macht mich verrückt elektrisch, \nes schwingt und scheppert hin und her, \nda ist irgendwie Leben drin. \n \nÜber mir schnurrt eine Katze,\n \nHilde führt ihr sanft die Tatze. \nWenn ich jetzt Mathilde küsste, \nund nicht immer feilen müsste. \nDoch der Meister steht ganz stumm \nhinter meinem Rücken rum. \n \nJa,  Werkstattleben das ist hektisch,\n \nHilde macht mich ganz elektrisch \nsie schwingt und scheppert her und hin, \nin der ist irgendwie Leben drin. \n \nJetzt kommt der Meister Falk heran,\n \nsieht sich meine Beule an, \n\"Mensch nimm doch endlich mal den Winkel, \nmach doch hier kein hinkel-kinkel\". \n \nDas nimmt er mir jetzt wirklich krumm,\n \nzupft an seinem Schnurrbart rum. \n \nMensch, Werkstattleben das ist hektisch,\n \nich mache Meister Falk elektrisch, \ner schwingt und scheppert her und hin, \nin dem ist irgendwie Leben drin. \n \nWann kommt denn mal `ne Pause,\n \nhab Durst auf so`ne gelbe Brause, \ndoch schrubb ich weiter wie `ne Eule, \nauf dieser huperdicken Eisenbeule \nnun schon wochenlang herum, \ndas macht mch ganz heiß und krumm. \n \nMensch, Werkstattleben das ist hektisch,\n \ndas macht mich verrückt elektrisch, \nes schwingt und scheppert her und hin,  \nda ist irgendwie Leben drin. \nEs schwingt und scheppert her und hin,  \nda ist irgendwie Leben drin. \n \nJetzt stellen sie den Betriebsfunk an,\n \nmit Musik gehts doppelt ran. \nEndlich wird die Beule flach, \nMeister Falk macht nicht mehr Krach. \nIst die Arbeit noch so seicht, \nmit Musik da scheint sie leicht. \n \nJa, Werkstattleben das ist hektisch,\n \nmit Musik da wird`s  elektrisch, \nes schwingt und scheppert her und hin, \nda ist irgendwie Leben drin. \n\n",
+            "tokenanzahl": 304,
+            "typeanzahl": 130,
+            "type/token": 42.76
+        },
+        {
             "titel": "Kopf oder Zahl",
             "interpret": "NO 55",
             "platzierung": 20,
@@ -2724,7 +2913,7 @@
             "tokenanzahl": 349,
             "typeanzahl": 157,
             "type/token": 44.99
-        },
+        },    
         {
             "titel": "Wir reiten mit dem Sturm",
             "interpret": "Prinzip",
@@ -2859,6 +3048,15 @@
             "tokenanzahl": 214,
             "typeanzahl": 76,
             "type/token": 35.51
+        },
+        {
+            "titel": "Eigentlich",
+            "interpret": "Dialog",
+            "platzierung": 50,
+            "lyrics": "Eigentlich der Mensch ist gut.\nEigentlich, was er auch tut.\nEigentlich vom ersten Schrei\nsehnt er Lieder sich herbei.\nEigentlich er fürchtet Leid.\nEigentlich er meidet Streit.\nEigentlich das Leben stellt\nihm das Höchste auf der Welt.\nDas Höchste was er hat.\nEigentlich an seiner statt,\neigentlich bedroht\neigentlich ihn nur der Tod.\n \n\nFrieden soll sein.\nUnd darum, Frieden soll sein\nFrieden soll sein.\nnur noch Frieden allein.\nEigentlich und nicht nur eigentlich\nsondern ganz genau und in der Tat.\n \n\nEigentlich die Erde kann\nglücklich machen jedermann.\nEigentlich und schafft es nicht\nwenige woll `n sie für sich.\nUnd woll `n den Krieg\nund woll `n immer nur Krieg.\nDenn jeder Krieg ist für die wenigen Sieg.\nEigentlich und jedenfalls bisher\ndoch beim nächsten Mal\nläuft das nicht mehr -\nläuft das nicht mehr !\n \n\nFrieden soll sein.\nUnd darum, Frieden soll sein\nFrieden soll sein.\nnur noch Frieden allein.\nEigentlich und nicht nur eigentlich\nsondern ganz genau und in der Tat.\n \n\nFrieden soll sein  ....\n            ",
+            "tokenanzahl": 167,
+            "typeanzahl": 78,
+            "type/token": 46.71
         }
     ],
     "1984": [
@@ -2935,6 +3133,15 @@
             "type/token": 37.95
         },
         {
+            "titel": "Nie zuvor",
+            "interpret": "Electra",
+            "platzierung": 9,
+            "lyrics": "Und der Abend ist gekommen,\nwie ein großes sanftes Tier.\nHat die Trauer fortgenommen\nund ich lieg ganz nah bei dir.\nMorgen werden wir uns trennen,\nfür eine unbestimmte Zeit.\nUnd die letzten Stunden rennen uns davon, so gnadenlos, so gnadenlos\nund ich mache mich bereit.\n\nNie, nie zuvor hab ich dir so sehr vertraut.\nNie, nie zuvor hab ich so auf dich gebaut.\nUm die Zeit zu überstehen.\n\nUnd die Zeit sie wird bezeugen,\ndass wir zueinander stehen.\nUnd kein Zweifel soll mich beugen,\ndass die Jahre schnell vergehen.\nDas die Münder sich berühren,\nwenn ich wieder bei dir bin.\nDas wir noch die Wärme spüren,\ndie uns verloren scheint, verloren scheint.\nDarin hab ich meinen Sinn.\n\nNie, nie zuvor hab ich dir so sehr vertraut.\nNie, nie zuvor hab ich so auf dich gebaut.\nUm die Zeit zu verstehen.\n            ",
+            "tokenanzahl": 141,
+            "typeanzahl": 78,
+            "type/token": 55.32
+        },
+        {
             "titel": "Komm zurück",
             "interpret": "Condor",
             "platzierung": 12,
@@ -2962,6 +3169,15 @@
             "type/token": 56.67
         },
         {
+            "titel": "Flieg mit mir",
+            "interpret": "Puhdys",
+            "platzierung": 16,
+            "lyrics": "monotonie\nich fühle sie\nan manchen tagen\nwenn die stille um uns unerträglich schreit\nwenn die stille um uns schreit\n\nmonotonie\nmelancholie\nin manchen nächten\nwenn die dunkelheit uns beide noch mehr trennt\nwenn dunkelheit uns trennt\n\nkomm flieg mit mir\nmit mir so weit\nkomm flieg mit mir\ndenn noch ist zeit\nkomm fliegen wir\nüber unsere einsamkeit\nnoch sind wir nicht zu sterben bereit\n\nmonotonie\nvoll ironie\nwir kennen uns\nund scheinen uns doch so unnahbar fremd zu sein\nunnahbar fremd zu sein\n\nkomm flieg mit mir\nmit mir so weit\nkomm flieg mit mir\ndenn noch ist zeit\nkomm fliegen wir\nüber unsere einsamkeit\nnoch sind wir nicht zu sterben bereit\n            ",
+            "tokenanzahl": 114,
+            "typeanzahl": 50,
+            "type/token": 43.86
+        },
+        {
             "titel": "Er will anders sein",
             "interpret": "Pankow",
             "platzierung": 17,
@@ -2969,6 +3185,15 @@
             "tokenanzahl": 303,
             "typeanzahl": 147,
             "type/token": 48.51
+        },
+        {
+            "titel": "Denke daran",
+            "interpret": "Dialog",
+            "platzierung": 18,
+            "lyrics": "Lange vor unserer Zeitrechnung gab es am Mittelmeer eine Stadt\neine stolze Stadt, sie hatte schöne Häuser und Menschen erfüllten sie mit Leben,\ndiese Stadt hieß Karthago.\nDas große Karthago führte drei Kriege.\nEs war noch mächtig nach dem Ersten,\nnoch bewohnbar nach dem Zweiten,\nnicht mehr auffindbar nach dem Dritten.\nJahrzehntelang war sie umkämpft, Millionen fielen in sie ein,\nraubten und brannten alles aus, bis das die Stadt im Wind verweht.\n \nIch frag mich ist denn das normal,\nwar das denn nur in jener zeit,\nes starben Menschen ohne Zahl\nund fast vergessen ist ihr Leid.\n \nIch denke daran.\n \nIch gehe heut durch meine Stadt und hab das Leben noch vor mir,\nmag viele Dinge um mich her, will viel erleben noch mit dir.\nSoweit, so gut ist alles klar und doch erschreckt mich die Gefahr,\nein Knopfdruck nur im Weißen Haus, löscht in Sekunden alles Leben aus.\n \nIch denke daran, denke daran\nich kann noch vieles geben.\ndenke daran, denke daran,\nauch Karthago wollte leben.\n \nIch denke daran, denke daran\nich kann noch vieles geben.\ndenke daran, denke daran,\nauch Karthago wollte leben.\n            ",
+            "tokenanzahl": 185,
+            "typeanzahl": 105,
+            "type/token": 56.76
         },
         {
             "titel": "Deine Augen",
@@ -2987,7 +3212,7 @@
             "tokenanzahl": 226,
             "typeanzahl": 105,
             "type/token": 46.46
-        },        
+        },
         {
             "titel": "Fieber",
             "interpret": "Berluc",
@@ -3144,6 +3369,15 @@
             "type/token": 48.94
         },
         {
+            "titel": "Mein Weg",
+            "interpret": "Stern Meißen",
+            "platzierung": 2,
+            "lyrics": "Als Kind hab ich so oft geträumt\nIch wäre so `n Held\nWie Spartakus und Robin Hood\nUnd nichts kann mir die Welt\nIch wollte sein so stark wie sie\nDoch war ich noch zu klein\nIch hatte Mut doch fehlte mir\nDie Stärke - stark zu sein\n \n\nIch merkte bald das es im Leben\nNicht nur Freunde gibt\nDas man Bosheit, Neid und Hass\nNicht gleich bei jedem sieht\nIch dachte nach wie muss ich sein\nUnd wo ist mein Platz\nIch fragte wann was richtig ist\nUnd wer die Antwort hat\n\nSo und so weit ist mein Weg durch die Zeit\nSo und so weit ist mein Weg\nSo und so weit ist mein Weg durch die Zeit\nSo und so weit ist mein Weg\n\nIch hör` das Leben und merke oft\nmanches geht an mir vorbei.\nMan hört so viel und sagt so wenig\nNichts ist mir einerlei\nDeshalb war ich als Teil der Welt\nUnd versuch es jeden Tag\nNoch ein bisschen mehr zu tun\nEs ist nie gewagt\n\nSo und so weit ist mein Weg durch die Zeit\nSo und so weit ist mein Weg\nSo und so weit ist mein Weg durch die Zeit\nSo und so weit ist mein Weg\nSo und so weit ist mein Weg durch die Zeit\nSo und so weit ist mein Weg\nSo und so weit ist mein Weg durch die Zeit\nSo und so weit ist mein Weg\n            ",
+            "tokenanzahl": 242,
+            "typeanzahl": 93,
+            "type/token": 38.43
+        },
+        {
             "titel": "Mama",
             "interpret": "Prinzip",
             "platzierung": 3,
@@ -3180,6 +3414,15 @@
             "type/token": 32.96
         },
         {
+            "titel": "Komm zu mir",
+            "interpret": "Prinzip",
+            "platzierung": 7,
+            "lyrics": "Die Stadt schläft, doch ich bin so wach.\n \nHab` tausend Träume von dir. \nMir ist heiß, ich wart auf dich, \nwarum bist du nicht bei mir ? \n \nKomm zu mir in `s Märchenland\n \nin das Land der Zaubermacht. \nKomm und gib mir deine Hand. \nBleib bei mir diese Nacht. \n \nIch bin still und die Nacht ist so grau \nwarum bist du nicht bei mir ? \nMeine Lust ist los und die Liebe so groß, \ndiese Nacht gehört mir. \n \nKomm zu mir in `s Märchenland\n \nin das Land der Zaubermacht. \nKomm und gib mir deine Hand. \nBleib bei mir diese Nacht. \nKomm zu mir in `s Märchenland \nin das Land der Zaubermacht. \nKomm und gib mir deine Hand. \nBleib bei mir diese Nacht. \nNacht - Nacht - Nacht ! \n \nIch bin still und die Nacht ist so grau,\n \nund hab` tausend Wünsche in mir. \nMeine Lust ist los und die Liebe so groß, \nwarum bist du nicht bei mir ? \n \nKomm zu mir in `s Märchenland\n \nin das Land der Zaubermacht. \nKomm und gib mir deine Hand. \nBleib bei mir diese Nacht. \nKomm zu mir in `s Märchenland \nin das Land der Zaubermacht. \nKomm und gib mir deine Hand. \nBleib bei mir diese Nacht, \nNacht - Nacht - Nacht ! \n\n",
+            "tokenanzahl": 207,
+            "typeanzahl": 50,
+            "type/token": 24.15
+        },
+        {
             "titel": "Harlekin",
             "interpret": "Stern Meißen",
             "platzierung": 8,
@@ -3187,6 +3430,15 @@
             "tokenanzahl": 220,
             "typeanzahl": 82,
             "type/token": 37.27
+        },
+        {
+            "titel": "Mir wird kalt dabei",
+            "interpret": "City",
+            "platzierung": 9,
+            "lyrics": "Auf meiner Stirn, da steht der Schweiß. \nEs wechselt zwischen kalt und heiß. \nAuch wenn ich schrei, \nTrotzdem es ist vorbei, \nUnd meine Wände stürzen ein. \n\nDich lockt die Freiheit und nicht das Geld. \nDu willst nicht mich, du willst die Welt \nDu wirst jetzt gehn, \nAuch wenn du mich nicht fragst. \nDoch manches hätt' ich gerne noch gesagt. \n\nKontakt laüft nur noch übers Telefon. \nKontakt läuft nur noch übers Telefon. \nKontakt läuft nur noch übers Telefon. \nUnd mir wird kalt dabei. \n\nDa, wo du bist, da ist dir warm. \nIrina hatt den längeren Arm. \nSchön' Gruß an Rudi \nUnd wenn du ihn siehst: \n'Da dabben dudi dudi dei'. \n\nKontakt läuft nur noch...\n            ",
+            "tokenanzahl": 115,
+            "typeanzahl": 74,
+            "type/token": 64.35
         },
         {
             "titel": "Vergiß mich",
@@ -3369,6 +3621,15 @@
             "type/token": 52.8
         },
         {
+            "titel": "Er will anders sein",
+            "interpret": "Pankow",
+            "platzierung": 42,
+            "lyrics": "Er sitzt im Bus,\n \ngrinst ein Mädchen an \nund überlegt \nwas er heute noch machen kann. \nIm Fernsehen findet gar nichts statt, \nsoll er was lesen, Disko hat er satt. \nZuerst wird er mal zur Kneipe geh `n, \nso für zwei - drei Bier im Stehn \n \nDa sitzt heute auch Steffi drin,\n \naber er, er geht zum Stammtisch hin. \nHier sitzen die, die immer hier sind, \ndie meinen das er am meisten spinnt. \nBeim dritten Bier fängt das Gejammer an, \nwas man alles nicht darf und nicht kann. \nEr hat außer Klagen noch mehr zu sagen \n \nEr will anders sein,\n \ner will ganz anders sein. \nEr will anders sein, \ner will ganz anders sein. \n \nSteffi sitzt schon lange,\n \nscheint ihn nicht zu sehen, \nmit der würde er schon ganz gern gehen, \nund das nicht nur für eine Nacht, \ner hat da an was längeres gedacht. \nDann wär` er auch nicht mehr so allein, \nzu zweit würden sie ganz anders sein. \n \nEr hört kaum zu,\n \nwird ganz leise \ngeht in Gedanken schon auf Zauberreise. \nManchmal will er sowieso \nweg nach Irgendwo. \nAber er haut nicht ab in einen andern Ort, \ner rennt nicht vor Problemen fort. \nAbzuhau `n fällt ihm nicht ein \ner will doch ganz anders sein. \nSteffi geht jetzt los, \nwas macht er bloß ? \n \nEr will anders sein,\n \ner will ganz anders sein. \nEr will anders sein, \ner will ganz anders sein. \n \nEr will anders sein,\n \ner will ganz anders sein. \nEr will anders sein, \ner will ganz anders sein. \n \nNachher liegt er doch allein zu Haus,\n \nkeine Hoffnung,  \nsieht alles ziemlich trübe aus. \nSoll er sich unter Kopfhörern verstecken, \nsich dabei seine Wunden lecken. \nBloß nicht daran denken, \nablenken - nein ! \n \nEr will anders sein,\n \ner will ganz anders sein. \nEr will anders sein, \ner will ganz anders sein. \n\n",
+            "tokenanzahl": 303,
+            "typeanzahl": 147,
+            "type/token": 48.51
+        },
+        {
             "titel": "Wetten, Du willst",
             "interpret": "Pankow",
             "platzierung": 43,
@@ -3542,6 +3803,15 @@
             "type/token": 65.35
         },
         {
+            "titel": "Elfenbein",
+            "interpret": "Prinzip",
+            "platzierung": 19,
+            "lyrics": "Ich bin ein Elefant und hab `ne dicke Haut,\nim Streitfall allerdings `n Stoßzahn rechts und links.\nDu bist ein Elefant, hast auch `ne dicke Haut,\nund da, für Hieb und Stich, zwei Hauer, so wie ich.\n \nOhohoh ...\n \nIch bin ein Elefant und hab `ne dicke Haut,\nich bin schon ganz schön alt, doch mach ich niemals halt.\nStellst du dich in den Weg bekommst du einen Tritt,\nund tanzt im Rückwärtsschritt den Calypso mit mir mit.\n \nOhohoh ...\n \nElfenbein, Elfenbein, Elfenbein, das ist mein\nElfenbein, Elfenbein, Elfenbein, das ist dein\nElfenbein, Elfenbein, Elfenbein, für dich und mich\nElfenbein, Elfenbein, Elfenbein, das ist mein\n \nIch bin ein Elefant und hab `ne dicke Haut,\nich streife durch den Wald und mir wird heiß und kalt.\nDa tanzt, wie aus der Dichtung, `ne Elfe auf die Lichtung,\nnun streicheln wir zu zwein uns unser Elfenbein.\n \nOhohoh ...\n \nElfenbein, Elfenbein, Elfenbein, das ist mein\nElfenbein, Elfenbein, Elfenbein, das ist dein\nElfenbein, Elfenbein, Elfenbein, für dich und mich\nElfenbein, Elfenbein, Elfenbein, das ist mein\n \nOhohoh ...\n            ",
+            "tokenanzahl": 175,
+            "typeanzahl": 77,
+            "type/token": 44.0
+        },
+        {
             "titel": "Halt mich fest",
             "interpret": "Prinzip",
             "platzierung": 20,
@@ -3596,6 +3866,15 @@
             "type/token": 44.83
         },
         {
+            "titel": "Nach Hause",
+            "interpret": "Lift",
+            "platzierung": 26,
+            "lyrics": "Und ich hab mal wieder alles satt,\ndie fremden Fraun, die fremde Stadt.\nUnter der Haut schlägt es Alarm,\nmein kühles Blut wird hier nicht warm.\n \n\nNehmt mich mit, nehmt mich mit,\nnehmt mich mit,\nnach Hause nehmt mich mit.\nNehmt mich mit, nehmt mich mit,\nnehmt mich mit,\nnach Hause nehmt mich mit.\n \n\nDas letzte Hemd, das letzte Geld,\nwas bleibt danach von aller Welt.\nein müder Schritt, ein müder Blick,\nein müder Schrei, ich will zurück.\n \n\nNehmt mich mit, nehmt mich mit,\nnehmt mich mit,\nnach Hause nehmt mich mit.\nNehmt mich mit, nehmt mich mit,\nnehmt mich mit,\nnach Hause nehmt mich mit.\n...\n            ",
+            "tokenanzahl": 107,
+            "typeanzahl": 48,
+            "type/token": 44.86
+        },
+        {
             "titel": "Mein Lied",
             "interpret": "Datzu",
             "platzierung": 28,
@@ -3630,6 +3909,15 @@
             "tokenanzahl": 157,
             "typeanzahl": 61,
             "type/token": 38.85
+        },
+        {
+            "titel": "So 'ne kleine Frau",
+            "interpret": "Silly",
+            "platzierung": 33,
+            "lyrics": "\nSo 'ne kleine Frau\nUnd so 'ne große Lust\nUnd hat schon Kinder dreie\nUnd immer noch kein' Frust\nUnd hat schon so gelitten\nUnd immer noch so'n Mut (Und hat schon so gelitten)\nUnd hat so schlaffe Titten\nUnd hat so'n heißes Blut\n\nSo 'ne kleine Frau\nUnd so 'ne Gier nach Glück\nVom Zigarettenholen\nKam kaum 'n Kerl zurück\nUnd all die langen Nächte\nWo's Eis der Augen taut (Und all die langen Nächte)\nUnd immer wieder so 'ne\nEinfühlsame Braut\n\nSo 'ne kleine Frau\nUnd so 'ne große Stadt\nUnd so 'ne gute Bluse\nDie kaum noch Farbe hat\nDoch so 'ne fahle Sehnsucht\nDie schmerzt in ihrer Brust (Doch so 'ne fahle Sehnsucht)\nUnd wenn die Kinder schlafen\nSchon wieder so 'ne Lust\n\nSo 'ne kleine Frau\nSo 'ne kleine Frau\nSo 'ne kleine Frau\nSo 'ne kleine Frau (Wieder so 'ne Lust)\nSo 'ne kleine Frau (Wieder so 'ne Lust)\nSo 'ne kleine Frau (Wieder so 'ne Lust)\nSo 'ne kleine Frau",
+            "tokenanzahl": 157,
+            "typeanzahl": 57,
+            "type/token": 36.31
         },
         {
             "titel": "Isolde",
@@ -3668,6 +3956,15 @@
             "type/token": 48.48
         },
         {
+            "titel": "Augen der Sehnsucht",
+            "interpret": "Electra",
+            "platzierung": 42,
+            "lyrics": "Die Tür geht auf am Freitag Abend\n \nund die Musik dröhnt mir im Ohr. \nIch such` dich ohne dich zu kennen \nso wie ein Bild das ich verlor. \nSpür einen Schatten in der Tiefe \nfind im Gewühl heut keine Ruh`. \nich dreh mich um, seh` deine Blicke, \nwie Hände winken sie mir zu. \n \nHe, he \n \nAugen der Sehnsucht \ntragen uns fort. \nWir sind gefangen \nohne ein Wort. \nWenn deine Blicke \nin meinen Augen ruhn`. \n \nDer letzte Ton ist schon verklungen,\n \nder gleiche Wunsch in uns erwacht. \nEin heißes Band hat uns umfangen \nes brennt ein Feuer in der Nacht. \n \nHe, he \n \nAugen der Sehnsucht \ntragen uns fort. \nWir sind gefangen \nohne ein Wort. \nWenn deine Blicke \nin meinen Augen ruhn`. \n \nAugen der Sehnsucht\n \ntragen uns fort. \nWir sind gefangen \nohne ein Wort. \nWenn deine Blicke \nin meinen Augen ruhn`. \n\n",
+            "tokenanzahl": 145,
+            "typeanzahl": 75,
+            "type/token": 51.72
+        },
+        {
             "titel": "Stadtlandschaft",
             "interpret": "Electra",
             "platzierung": 43,
@@ -3702,6 +3999,15 @@
             "tokenanzahl": 226,
             "typeanzahl": 124,
             "type/token": 54.87
+        },
+        {
+            "titel": "Der Halleysche Komet",
+            "interpret": "Karussell",
+            "platzierung": 49,
+            "lyrics": "Ich bin der unbekannte Bote mit dem geheimnisvollen Schweif,\nUnd ich flieg' als Allbewohner auf meiner Bahn durch Raum und Zeit.\nIch bin der Halleysche Komet, ich bin der ewige Beweis, dass alles fließt.\n\nAuf meinem Flug durch ferne Welten kreuzt auch die Erde meine Weg,\nUnd ich grüß dich, Mutter Erde, du bist ein herrlicher Planet.\nIch bin der Halleysche Komet, ich bin der ewige Beweis, dass alles fließt.\n\nErst in 76 Jahren werde ich dich wieder sehen,\nUnd das Leben auf der Erde soll wie ich doch weitergehen.\nIch bin der Halleysche Komet, ich bin der ewige Beweis, dass alles fließt.\n\nIch bin der Halleysche Komet, ich bin der ewige Beweis, dass alles fließt.\nIch bin der Halleysche Komet, ich bin der ewige Beweis, dass alles fließt.\n\n",
+            "tokenanzahl": 129,
+            "typeanzahl": 57,
+            "type/token": 44.19
         },
         {
             "titel": "Heavy Metal",
@@ -3787,6 +4093,15 @@
             "type/token": 41.76
         },
         {
+            "titel": "Eine Nacht",
+            "interpret": "Stern Meißen",
+            "platzierung": 10,
+            "lyrics": "Ich hab gelacht in meinem Glück,\nden ganzen Tag und jede Nacht.\nDoch Liebe kann sich keiner fangen,\nsie hat mich immer ausgelacht.\n \n\nWie die Tropfen der Einsamkeit,\nlief mein Leben an mir vorbei.\nSo hast du mich hier gehalten,\ngut war diese Nacht.\n \n\nEine Nacht in der Ewigkeit,\neine Nacht wie im Fieber.\nEine Nacht in der Ewigkeit,\neine Nacht wie im Fieber.\n \n\nDie Zukunft soll mich nicht betrüben,\nich spür die Kraft die alles sprengt.\nDas Ereignis in meinem Leben\nhat in mir die Angst versenkt.\nDenn ich spür` durch und durch\nTautropfen auf unserer Haut.\nGibt es eine Ewigkeit\nist es diese Nacht.\n \n\nEine Nacht in der Ewigkeit,\neine Nacht wie im Fieber.\nEine Nacht in der Ewigkeit,\neine Nacht wie im Fieber.\n            ",
+            "tokenanzahl": 127,
+            "typeanzahl": 68,
+            "type/token": 53.54
+        },
+        {
             "titel": "Tränen",
             "interpret": "Mona Lise",
             "platzierung": 11,
@@ -3857,6 +4172,15 @@
             "tokenanzahl": 191,
             "typeanzahl": 73,
             "type/token": 38.22
+        },
+        {
+            "titel": "Die Boote der Jugend",
+            "interpret": "Puhdys",
+            "platzierung": 23,
+            "lyrics": "Es gibt manche Leute, die haben vergessen.\nDaß sie sie einst im Boot der Jugend gesessen.\nIn dem sie fuhren gegen die Flut\nmit Segeln aus Jeans und Rock 'n Roll im Blut.\n\nHeut' lieg'n sie an Stegen der Intoleranz\nBetrachten die Boote aus sichrer Distanz.\nUnd zeigen verächtlich mit Fingern auf sie\nVerkünden, die Jugend sei verdorben wie nie.\n\nNoch vor ein paar Jahren, als sie selber jung waren\nsie die Freiheit sich nahmen, anders zu sein.\nDoch das gleiche Recht räumen sie\nder Jugend von heute leider nicht ein.\n\nEinst warn sie Rebellen gegen Spießigkeit.\nSie sprengten die Normen ihrer Zeit.\nSie hatten Ideale und auch manches Idol.\nUnd ihren Habitus machen sie zum Symbol.\n\nNoch vor ein paar Jahren, als sie selber jung waren\nsie die Freiheit sich nahmen, anders zu sein.\nDoch das gleiche Recht räumen sie\nder Jugend von heute leider nicht ein.\n\nSie denken heut leider nicht mehr daran.\nDaß sie Wellen schlugen im Ozean.\nGestrandet am Ufer Kapitäne a.d.\nDie Boote der Jugend fahren weiter zur See.\n            ",
+            "tokenanzahl": 173,
+            "typeanzahl": 102,
+            "type/token": 58.96
         },
         {
             "titel": "Träume von gestern",
@@ -3995,6 +4319,7 @@
         }
     ],
     "1988": [
+        
         {
             "titel": "Schläfst Du schon",
             "interpret": "Ralf Bursy",
@@ -4066,6 +4391,15 @@
             "tokenanzahl": 72,
             "typeanzahl": 36,
             "type/token": 50.0
+        },
+        {
+            "titel": "Warten in der Dunkelheit",
+            "interpret": "Ralf Bursy",
+            "platzierung": 12,
+            "lyrics": "Autor: Ralf Bursy\nTitle: Warten in der Dunkelheit\n\nIch lieg im Dunkeln wach\nund hör auf jeden Laut.\nhör jedem Schritt vor`m Haus\ndoch keiner klingt vertraut.\nDie Stille tönt in mir\nund sie dröhnt mir in den Ohren\nund ich geh zur Tür\ndoch du bist nicht da\nich wart auf dich.\nUnd ich laufe hin und her\nund starr zum Fenster raus.\nNun gehn` mir langsam auch\nmeine Zigaretten aus.\nVersuch zu lesen,\ndoch die Worte, sie verschwimmen mir.\nEs hat keinen Sinn,\nich wart `auf dich.\n \n\nWarten in der Dunkelheit\nda wird man grau und alt.\nZimmerwände stürzen auf mich ein.\nWarten in der Dunkelheit\nund langsam wird mir kalt\nund ich fühl mich einsam und allein.\n \n\nWarten in der Dunkelheit\nda wird man grau und alt.\nZimmerwände stürzen auf mich ein.\nWarten in der Dunkelheit\nund langsam wird mir kalt\nund ich fühlt mich einsam und allein.\n \n\nDa seh` ich deinen Brief\nden ich vorher nicht fand.\nDoch ich versteh ihn nicht,\nMachs gut steht da noch auf dem Rand.\nIch komm nicht zurück,\nwart nicht auf mich.\n \n\nWarten in der Dunkelheit\nda wird man grau und alt.\nZimmerwände stürzen auf mich ein.\nWarten in der Dunkelheit\nund langsam wird mir kalt\nund ich fühl mich einsam und allein.\nUnd ich fühl mich einsam und allein.\nUnd ich fühl mich einsam und allein.\nUnd ich fühl mich einsam und allein.\n\n",
+            "tokenanzahl": 239,
+            "typeanzahl": 96,
+            "type/token": 40.17
         },
         {
             "titel": "Wand an Wand",
@@ -4295,6 +4629,15 @@
             "type/token": 65.22
         },
         {
+            "titel": "Wie ein Regenbogen",
+            "interpret": "Berluc",
+            "platzierung": 12,
+            "lyrics": "Bin wie ich bin\n\nMal unten, mal oben\nMal völlig abgehoben\nMal nett und beschaulich\nUnd manchmal unverdaulich\n\nMal bin ich hart und unangreifbar, wie aus Stein\nUnd kann Sekunden später so verletzlich sein\n\nBin wie ein Regenbogen\nBin bunt geborn\nHab meine Farbenspiele\nNoch nicht verlorn\n\nMal töricht, mal weise\nMal lautstark und mal leise\nMal tückisch, gefährlich\nUnd manchmal viel zu ehrlich\n\nMal bin ich Gift und Galle, und für alles blind\nUnd kann Sekunden später träumen wie ein Kind\n\nBin wie ein Regenbogen\nBin bunt geborn\nHab meine Farbenspiele\nNoch nicht verlorn\n            ",
+            "tokenanzahl": 95,
+            "typeanzahl": 49,
+            "type/token": 51.58
+        },
+        {
             "titel": "Frei wie der Wind",
             "interpret": "Puhdys",
             "platzierung": 13,
@@ -4311,6 +4654,15 @@
             "tokenanzahl": 158,
             "typeanzahl": 52,
             "type/token": 32.91
+        },
+        {
+            "titel": "Dein Herz",
+            "interpret": "IC",
+            "platzierung": 20,
+            "lyrics": "Alles um dich rum ist kalt \nfühlst dich tausend Jahre alt \nsie sagen das Gefühl ist tot \nfühl nur dein Herz glaubst du es doch \n\nFühlst du dein Herz es schlägt für dich \nfühlst du dein Herz es kämpft um dich \nfühlst du dein Herz es bricht jedes eis \nfühlst du es noch dein starkes Herz \n\nCool zu sein verkauft sich gut \nverstecken zählt da mehr als Mut \ndie Stimmen aus der Finsternis \nsie umkreisen dich rauben dir das Licht \n\nFühlst du dein Herz es schlägt für dich \nfühlst du dein Herz es kämpft um dich \nfühlst du dein Herz es bricht jedes eis \nfühlst du es noch dein starkes Herz \n\nSchrei es laut heraus \nkommt auch niemals ein Applaus \ndu willst sagen wie du fühlst \nkeine Lüge die du spielst in deiner Welt \n\nDein Herz es schlägt für dich \nfühlst du dein Herz es kämpft um dich \nfühlst du dein Herz es bricht jedes eis \nfühlst du es noch dein starkes Herz \n\nFühlst du dein Herz es schlägt für dich \nfühlst du dein Herz es kämpft um dich \nfühlst du dein Herz es bricht jedes eis \nfühlst du es noch dein starkes Herz \n\nDein Herz fühlst du es noch \ndein starkes Herz \ndein Herz\n\n",
+            "tokenanzahl": 205,
+            "typeanzahl": 68,
+            "type/token": 33.17
         },
         {
             "titel": "Durchgebrannt",
@@ -4347,6 +4699,15 @@
             "tokenanzahl": 97,
             "typeanzahl": 69,
             "type/token": 71.13
+        },
+        {
+            "titel": "Viel zu weit",
+            "interpret": "Die Zöllner",
+            "platzierung": 35,
+            "lyrics": "Die Augen sind weit weg.\nWas nützt es mir?\nLauf ich hinterher?\nBleib ich hier?\n\nDu hälst mich nicht fest.\nDoch ich bin nicht frei.\nDie Füße laufen los.\nIch bin nicht dabei.\nIch hab nie erzählt, was mich schon lange quält.\nDu hast mich befreit, von meiner Übelkeit.\nIch ahne nur, was du fühlst.\nDoch eins weiß ich, dass du meine Wunden kühlst.\n\nRefrain:\nViel zu weit – meine Blicke sind viel zu weit.\nViel zu weit fort. \n\nIch hab ein Land gesucht, in meiner Hand. \nDoch dass du es bist, hab ich fast verpasst.\nMeine dünne Haut ist ganz aufgeraut.\nIch glaube du, du hast mich gleich durchschaut. \n\nRefrain:\nViel zu weit – meine Blicke sind viel zu weit.\nViel zu weit fort. \nViel zu weit – meine Blicke sind viel zu weit.\nViel zu weit fort. \nViel zu weit – meine Blicke sind viel zu weit.\nViel zu weit fort. \n\n",
+            "tokenanzahl": 153,
+            "typeanzahl": 68,
+            "type/token": 44.44
         },
         {
             "titel": "Excalibur",
@@ -4457,8 +4818,7 @@
             "tokenanzahl": 207,
             "typeanzahl": 68,
             "type/token": 32.85
-        },
-        {
+        },        {
             "titel": "Einmal Amerika",
             "interpret": "Electra",
             "platzierung": 21,
