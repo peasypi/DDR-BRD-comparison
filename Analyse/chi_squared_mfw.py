@@ -1,5 +1,5 @@
 mfw_ddr = {'Nacht': 320, 'Leben': 313, 'Tag': 276, 'Traum': 264, 'Liebe': 256, 'Zeit': 237, 'Welt': 212, 'Mann': 139, 'Lied': 127, 'Erde': 126, 'Haus': 124, 'Auge': 116, 'Wind': 115, 'Mensch': 112, 'Haut': 111, 'Jahr': 108, 'Hand': 105, 'Herz': 103, 'Wort': 98, 'Mädchen': 98}
-mfw_brd = {'Liebe': 369, 'Nacht': 362, 'Traum': 248, 'Mann': 242, 'Leben': 230, 'Tag': 210, 'Welt': 209, 'Zeit': 203, 'Herz': 188, 'Hand': 143, 'Frau': 135, 'Haus': 129, 'Mädchen': 115, 'Kind': 114, 'Auge': 113, 'Lied': 111, 'Freund': 109, 'Sonne': 108, 'Jahr': 105, 'Wein': 105}
+mfw_brd = {'Liebe': 369, 'Nacht': 362, 'Traum': 248, 'Mann': 242, 'Leben': 230, 'Tag': 210, 'Welt': 209, 'Zeit': 203, 'Herz': 188, 'Hand': 143, 'Frau': 135, 'Haus': 129, 'Mädchen': 115, 'Kind': 114, 'Auge': 113, 'Lied': 111, 'Freund': 109, 'Sonne': 108, 'Jahr': 105, 'Wein': 105, 'Mensch': 92, 'Wort': 90, 'Wind': 84, 'Erde': 63, 'Haut': 40}
 
 total_words = 189016
 total_ddr = 85078

@@ -42,9 +42,9 @@ def get_lemmalist(worte):
     word_list = []
     for tup in tags:
         #Tags die keine Nouns sind lower()
-        word_list.append(tup[0])
-        '''if tup[1] == 'NN':
-            word_list.append(tup[0])'''
+        #word_list.append(tup[0])
+        if tup[1] == 'NN':
+            word_list.append(tup[0])
 
     for w in word_list[:]:
         if len(w) == 1:
@@ -66,7 +66,7 @@ def delete_stopwords(wortliste):
 #Counter zählt die most frequent words in der Liste ohne Stopwörter
 def count_mfw(tokenliste):        
     Zaehler = Counter(tokenliste)
-    most_occur = Zaehler.most_common(20)
+    most_occur = Zaehler.most_common(70)
     print(most_occur)
     return most_occur
 
@@ -139,8 +139,8 @@ def main_nltk():
     #words_wostopwords = delete_stopwords(words)
     #print(lem_wostopwords)
     mfw = count_mfw(lem_wostopwords)
-    create_wordcloud(mfw,'brd')
-    create_barplot(mfw,'brd')
+    #create_wordcloud(mfw,'brd')
+    #create_barplot(mfw,'brd')
     #mfb = get_bigrams(words_wostopwords)
     #print(mfb)
     #create_wordcloud(mfb,'brd')
