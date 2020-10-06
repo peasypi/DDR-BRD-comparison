@@ -39,23 +39,24 @@ def get_lemmalist(worte):
         tag = tagger.analyze(wort,taglevel=1)
         tags.append(tag)
     #Aus den tag-Tupeln nur Worte in eine Liste speichern
-    word_list = []
+    lemma_list = []
     for tup in tags:
-        #Tags die keine Nouns sind lower()
-        #word_list.append(tup[0])
+        #Hinzufügen der lemmatisierten Worte zur lemma_list
+        #lemma_list.append(tup[0])
+        #Alternativ: Hinzufügen der lemmatisierten Nomen zur lemma_list
         if tup[1] == 'NN':
-            word_list.append(tup[0])
+            lemma_list.append(tup[0])
 
-    for w in word_list[:]:
+    for w in lemma_list[:]:
         if len(w) == 1:
-            word_list.remove(w)
+            lemma_list.remove(w)
         else:
             match = re.search(r'\w+', w)
             if match:
                 pass
             else:
-                word_list.remove(w)
-    return word_list
+                lemma_list.remove(w)
+    return lemma_list
 
 #Stopworte entfernen und neue Liste erstellen
 def delete_stopwords(wortliste):
@@ -66,9 +67,22 @@ def delete_stopwords(wortliste):
 #Counter zählt die most frequent words in der Liste ohne Stopwörter
 def count_mfw(tokenliste):        
     Zaehler = Counter(tokenliste)
-    most_occur = Zaehler.most_common(70)
+    most_occur = Zaehler.most_common(20)
     print(most_occur)
     return most_occur
+
+#Most frequent Bigramme
+def get_bigrams(worte):
+    liste = list(nltk.bigrams(worte))
+    bigrms = []
+    for i in liste:
+        bigrms.append(' '.join(i).lower())
+    counts = Counter(bigrms)
+    most_bigrams = counts.most_common(20)
+    for b in most_bigrams[:]:
+        if b[0] == '-- --':
+            most_bigrams.remove(b)
+    return most_bigrams
 
 #Liste wieder zu String -- damit Wordcloud erstellen
 def create_wordcloud(mostfrequent,land):
@@ -113,19 +127,6 @@ def create_barplot(mostfrequent,land):
         plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/barplot_mfb_{}.png'.format(land.upper(),land))
         plt.show()
 
-#Most frequent Bigramme
-def get_bigrams(worte):
-    liste = list(nltk.bigrams(worte))
-    bigrms = []
-    for i in liste:
-        bigrms.append(' '.join(i).lower())
-    print(bigrms)
-    counts = Counter(bigrms)
-    most_bigrams = counts.most_common(20)
-    for b in most_bigrams[:]:
-        if b[0] == '-- --':
-            most_bigrams.remove(b)
-    return most_bigrams
 
 def main_nltk():
     with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/brd_string.txt') as file:
