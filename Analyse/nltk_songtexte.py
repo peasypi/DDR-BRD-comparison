@@ -10,6 +10,7 @@ from PIL import Image
 from wordcloud import WordCloud, ImageColorGenerator
 import matplotlib.pyplot as plt
 import matplotlib.ticker
+import os
 
 #with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/ddr_try_string.txt') as file:
 #    ddr_hits = file.read()
@@ -96,7 +97,7 @@ def create_wordcloud(mostfrequent,land):
     plt.show()
 
 #Balkendiagramm erstellen 
-def create_barplot(mostfrequent,land):
+def create_barplot(mostfrequent,land,year):
     mostfrequent.reverse()
     worte = ()
     counts = []
@@ -108,43 +109,69 @@ def create_barplot(mostfrequent,land):
         locator = matplotlib.ticker.MultipleLocator(50)
         plt.gca().xaxis.set_major_locator(locator)
         plt.figure(figsize=(18, 12), dpi=400)
-        plt.title('most frequent words')
+        #Titel für Komplett
+        #plt.title('{}: most frequent words'.format(land.upper()))
+        #Titel für Jahre
+        plt.title('{}: {}: most frequent words'.format(land.upper(),year))
         plt.ylabel('Worte')
         plt.xlabel("Häufigkeit")
         plt.barh(y_pos, counts, color='#81bbee')
         plt.yticks(y_pos, worte)
+        #Save All
         plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/barplot_mfw_{}.png'.format(land.upper(),land))
-        plt.show()
+        #Save year by year
+        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/years/mfn/mfw_{}_{}.png'.format(land.upper(),land,year))
+        #plt.show()
     else:
         locator = matplotlib.ticker.MultipleLocator(20)
         plt.gca().xaxis.set_major_locator(locator)
         plt.figure(figsize=(18, 12), dpi=400)
-        plt.title('most frequent bigrams')
+        #Titel für Komplett
+        #plt.title('{}: most frequent bigrams'.format(land.upper()))
+        #Titel für Jahre
+        plt.title('{}: {}: most frequent bigrams'.format(land.upper(), year))        
         plt.ylabel('Bi-Gramme')
         plt.xlabel("Häufigkeit")
         plt.barh(y_pos, counts, color='#81bbee')
         plt.yticks(y_pos, worte)
+        #Save All
         plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/barplot_mfb_{}.png'.format(land.upper(),land))
-        plt.show()
+        #Save year by year
+        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/years/mfb/mfb_{}_{}.png'.format(land.upper(),land,year))
+        #plt.show()
 
 
 def main_nltk():
-    with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/brd_string.txt') as file:
+    #All-Lyrics-Analyse
+    '''with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/brd_string.txt') as file:
         ddr_hits = file.read()
-
     words = get_words(ddr_hits)
-    #print(words)
     lemmalist = get_lemmalist(words)
-    #print(lemmalist)
     lem_wostopwords = delete_stopwords(lemmalist)
-    #words_wostopwords = delete_stopwords(words)
-    #print(lem_wostopwords)
+    words_wostopwords = delete_stopwords(words)
     mfw = count_mfw(lem_wostopwords)
     #create_wordcloud(mfw,'brd')
-    #create_barplot(mfw,'brd')
-    #mfb = get_bigrams(words_wostopwords)
-    #print(mfb)
+    create_barplot(mfw,'brd')
+    mfb = get_bigrams(words_wostopwords)
     #create_wordcloud(mfb,'brd')
-    #create_barplot(mfb,'brd')
+    create_barplot(mfb,'brd')'''
+
+    #Jahr-für-Jahr-Analyse
+    PATH ="/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/txt_years/BRD"
+    txt_year_list = os.listdir(PATH)
+    for txt in txt_year_list:
+        with open(PATH + "/" + txt) as file:
+            ddr_hits = file.read()
+        year = txt[4:-4]
+        words = get_words(ddr_hits)
+        lemmalist = get_lemmalist(words)
+        lem_wostopwords = delete_stopwords(lemmalist)
+        words_wostopwords = delete_stopwords(words)
+        mfw = count_mfw(lem_wostopwords)
+        #create_wordcloud(mfw,'brd')
+        create_barplot(mfw,'brd',year)
+        mfb = get_bigrams(words_wostopwords)
+        #create_wordcloud(mfb,'brd')
+        create_barplot(mfb,'brd',year)
 
 main_nltk()
