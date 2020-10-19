@@ -1,6 +1,6 @@
 import csv
 
-with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Programme/chi_squared.csv', mode='w') as csv_file:
+with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/chi_squared.csv', mode='w') as csv_file:
     fieldnames = ['Wort', 'DDR', 'BRD', 'chi squared', 'Frequenzunterschiede']
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
     writer.writeheader()

@@ -91,9 +91,9 @@ def create_wordcloud(mostfrequent,land):
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis("off")
     if len(mostfrequent[0][0].split(' ')) == 1:
-        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/wordcloud_{}.png'.format(land.upper(),land))
+        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{}_pics/wordcloud_{}.png'.format(land.upper(),land))
     else:
-        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/wordcloud_bigrams_{}.png'.format(land.upper(),land))
+        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{}_pics/wordcloud_bigrams_{}.png'.format(land.upper(),land))
     plt.show()
 
 #Balkendiagramm erstellen 
@@ -118,9 +118,9 @@ def create_barplot(mostfrequent,land,year):
         plt.barh(y_pos, counts, color='#81bbee')
         plt.yticks(y_pos, worte)
         #Save All
-        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/barplot_mfw_{}.png'.format(land.upper(),land))
+        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{}_pics/barplot_mfw_{}.png'.format(land.upper(),land))
         #Save year by year
-        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/years/mfn/mfw_{}_{}.png'.format(land.upper(),land,year))
+        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{}_pics/years/mfn/mfw_{}_{}.png'.format(land.upper(),land,year))
         #plt.show()
     else:
         locator = matplotlib.ticker.MultipleLocator(20)
@@ -135,9 +135,9 @@ def create_barplot(mostfrequent,land,year):
         plt.barh(y_pos, counts, color='#81bbee')
         plt.yticks(y_pos, worte)
         #Save All
-        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/barplot_mfb_{}.png'.format(land.upper(),land))
+        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{}_pics/barplot_mfb_{}.png'.format(land.upper(),land))
         #Save year by year
-        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/{}_pics/years/mfb/mfb_{}_{}.png'.format(land.upper(),land,year))
+        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{}_pics/years/mfb/mfb_{}_{}.png'.format(land.upper(),land,year))
         #plt.show()
 
 
