@@ -38,7 +38,7 @@ def charts_crawlen(zahl, jahr):
         hit_json[jahr].append(dic)
         platz += 1
 
-    # Json Dokument schreiben
+    #Json-Datei schreiben
     with open('ddr_charts.json', 'w') as f:
         json.dump(hit_json, f, ensure_ascii=False, indent=4)
 

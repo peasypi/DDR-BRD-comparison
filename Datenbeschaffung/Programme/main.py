@@ -3,7 +3,7 @@
 from selenium import webdriver
 # from lyrix_scraper import login
 import lyrix_scraper as lx
-import try_musixmatch as mg
+import musixmatch_genius as mg
 import time
 import json
 
@@ -14,9 +14,6 @@ def main(driver):
     # Json öffnen
     with open(JSON_PATH) as file:
         ddr_hits = json.load(file)
-
-    # lx = lyrix_scraper()
-    # mg = try_musixmatch()
 
     s = 0
     e = 0
@@ -41,17 +38,12 @@ def main(driver):
             else:
                 pass
 
-    # erfolgsquote = (s * 100) / length
-    # fehlerquote = 100 - erfolgsquote
-    # print("Nach der Suche nur auf Lyrix.at:\n" + str(s) + " Lyrics gefunden \n" + str(e) + " nicht gefunden\n" + str(erfolgsquote) + "% der Lyrics wurden gefunden.\nDaraus ergibt sich eine Fehlerquote von " + str(fehlerquote) + "%")
-
     # Suche auf Musixmatch und Genius
     for jahr in ddr_hits:
         for i in ddr_hits[jahr]:
             if 'lyrics' not in i:
                 art, tit = mg.find_hits(i)
                 lied = art+"-"+tit
-                # jahr = '1975'
                 endung, eventuelle_endung = mg.url_endung(art, tit, jahr)
                 lyrics = mg.request(endung, eventuelle_endung)
                 time.sleep(10)

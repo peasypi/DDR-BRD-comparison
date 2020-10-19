@@ -45,15 +45,16 @@ Das ist das Git-Repo zu meiner Bachelorabeit zu dem Thema "Popmusik unter zwei S
    - Was ist das?
    - Was sagt es aus?
    - Wie wendet man es an?
-  - [ ] Lemmatisierer in mfw-Programm einfügen
-   - [ ] *Informieren*: gute Lemmatisierer fürs Deutsche  
+  - [X] Lemmatisierer in mfw-Programm einfügen
+   - [X] *Informieren*: gute Lemmatisierer fürs Deutsche  
     - Spacy ist eher geht so
+    - HanoverTagger (https://github.com/wartaal/HanTa)
     
  - [X] *Informieren*: Wie erstellt man Wordclouds?
   
-- [ ] N-Gramme (most frequent)
+- [X] N-Gramme (most frequent)
   - [ ] *Informieren*: Was sagen sie aus? Besser als mfw?
-  - [ ] Programm schreiben
+  - [X] Programm schreiben
   
 - [ ] Kollokationen zu mfw
   - [ ] *Informieren*: Wie macht man das? Tools?

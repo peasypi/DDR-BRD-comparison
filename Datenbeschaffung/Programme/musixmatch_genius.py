@@ -42,44 +42,6 @@ def url_endung(art, tit, jahr):
     return (endung, eventuelle_endung)
 
 
-def secondrequest(eventuelle_endung):
-    lyrics = ""
-    split = eventuelle_endung.split('/')
-    end = split[0] + '-' + split[1]
-    try:
-        url = "https://genius.com/{}-lyrics".format(quote(end))
-        req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        webpage = urlopen(req).read()
-    except HTTPError:
-        print("[ERROR] Keine Lyrics für " + eventuelle_endung + " auf genius.com gefunden!")
-        return("Kein Text gefunden!")
-
-    soup = BeautifulSoup(webpage, 'html.parser')
-    song_json = {}
-    song_json["Lyrics"] = []
-    # song_json["Comments"] = []
-
-    # Extract Title of the song
-    song_json["Title"] = soup.title.string
-
-    # Extract the Lyrics of the song
-    for div in soup.findAll('div', attrs={'class': 'lyrics'}):
-        song_json["Lyrics"].append(div.text.strip().split("\n"))
-
-    if not song_json['Lyrics']:
-        print("[ERROR] Auch auf Genius nichts gefunden")
-        return("Kein Text gefunden")
-
-    # Save the json created with the file name as title + .json
-    # with open(song_json["Title"] + '.json', 'w') as file:
-    #   json.dump(song_json, file, indent=4, ensure_ascii=False)
-    for i in song_json['Lyrics']:
-        teil = "\n".join(i)
-        lyrics = lyrics + "\n" + teil
-
-    return lyrics
-
-
 def request(endung, eventuelle_endung):
     lyrics = ""
     try:
@@ -120,3 +82,42 @@ def request(endung, eventuelle_endung):
         lyrics = lyrics + "\n" + teil
 
     return lyrics
+
+
+def secondrequest(eventuelle_endung):
+    lyrics = ""
+    split = eventuelle_endung.split('/')
+    end = split[0] + '-' + split[1]
+    try:
+        url = "https://genius.com/{}-lyrics".format(quote(end))
+        req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        webpage = urlopen(req).read()
+    except HTTPError:
+        print("[ERROR] Keine Lyrics für " + eventuelle_endung + " auf genius.com gefunden!")
+        return("Kein Text gefunden!")
+
+    soup = BeautifulSoup(webpage, 'html.parser')
+    song_json = {}
+    song_json["Lyrics"] = []
+    # song_json["Comments"] = []
+
+    # Extract Title of the song
+    song_json["Title"] = soup.title.string
+
+    # Extract the Lyrics of the song
+    for div in soup.findAll('div', attrs={'class': 'lyrics'}):
+        song_json["Lyrics"].append(div.text.strip().split("\n"))
+
+    if not song_json['Lyrics']:
+        print("[ERROR] Auch auf Genius nichts gefunden")
+        return("Kein Text gefunden")
+
+    # Save the json created with the file name as title + .json
+    # with open(song_json["Title"] + '.json', 'w') as file:
+    #   json.dump(song_json, file, indent=4, ensure_ascii=False)
+    for i in song_json['Lyrics']:
+        teil = "\n".join(i)
+        lyrics = lyrics + "\n" + teil
+
+    return lyrics
+

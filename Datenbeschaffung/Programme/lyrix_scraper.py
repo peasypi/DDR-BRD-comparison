@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import re
 import login as log
 
-
 def find_hits(i):
+    # Sucht Daten aus Json-Datei
     art = i['interpret']
     tit = i['titel']
     # bereinigen
@@ -24,6 +24,7 @@ def capitalize_it(titel):
     return titel
 
 def login(driver):
+    # Einloggen auf lyrix.at
     username = driver.find_element_by_id('user')
     username.clear()
     username.send_keys(log.username)
