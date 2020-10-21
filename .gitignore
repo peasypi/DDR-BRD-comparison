@@ -1,6 +1,7 @@
 .ipynb_checkpoints
 .pytest_cache
 login.py
+discogs_key.py
 __pycache__
 
 # Created by https://www.toptal.com/developers/gitignore/api/python

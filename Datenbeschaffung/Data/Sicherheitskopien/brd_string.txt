@@ -11237,7 +11237,7 @@ Glaub' mir ich leb' weil es dich gibt
  ...
 
 Du wenn ich je deine Liebe verlier
-...  <em style='font-size: smaller;'>(2x)</em>
+...  
 
 
 
@@ -19715,10 +19715,10 @@ Wo bist Du, wo bist Du
 Ist es so schwer mir zu verzeih'n
 Wird es nie mehr wie früher sein
 
-Wo bist Du wenn ich träume <em style='font-size: smaller;'>(Wo bist Du)</em>
+Wo bist Du wenn ich träume (Wo bist Du)
 Wo bist Du wenn ich all meine Fehler bereue
 Es gibt kein nächstes Mal
-Wo bist Du ganz alleine <em style='font-size: smaller;'>(Wo bist Du)</em>
+Wo bist Du ganz alleine (Wo bist Du)
 Wo bist Du, komm, verlieb Dich noch einmal aufs Neue
 Es gibt kein nächstes Mal
 
@@ -19735,27 +19735,27 @@ Es gibt kein nächstes Mal
 Ist es so schwer mir zu verzeih'n
 Wird es nie mehr wie früher sein
 
-Wo bist Du wenn ich träume <em style='font-size: smaller;'>(Wo bist Du)</em>
+Wo bist Du wenn ich träume (Wo bist Du)
 Wo bist Du wenn ich all meine Fehler bereue
 Es gibt kein nächstes Mal
-Wo bist Du ganz alleine <em style='font-size: smaller;'>(Wo bist Du)</em>
+Wo bist Du ganz alleine (Wo bist Du)
 Wo bist Du, komm, verlieb Dich noch einmal aufs Neue
 Es gibt kein nächstes Mal
 
 Ist es so schwer mir zu verzeih'n
 Wird es nie mehr wie früher sein
 
-Wo bist Du wenn ich träume <em style='font-size: smaller;'>(Wo bist Du)</em>
+Wo bist Du wenn ich träume (Wo bist Du)
 Wo bist Du wenn ich all meine Fehler bereue
 Es gibt kein nächstes Mal
-Wo bist Du ganz alleine <em style='font-size: smaller;'>(Wo bist Du)</em>
+Wo bist Du ganz alleine (Wo bist Du)
 Wo bist Du, komm, verlieb Dich noch einmal aufs Neue
 Es gibt kein nächstes Mal
 
-Wo bist Du wenn ich träume <em style='font-size: smaller;'>(Wo bist Du)</em>
+Wo bist Du wenn ich träume (Wo bist Du)
 Wo bist Du wenn ich all meine Fehler bereue
 Es gibt kein nächstes Mal
-Wo bist Du ganz alleine <em style='font-size: smaller;'>(Wo bist Du)</em>
+Wo bist Du ganz alleine (Wo bist Du)
 Wo bist Du, komm, verlieb Dich noch einmal aufs Neue
 Es gibt kein nächstes Mal
 
