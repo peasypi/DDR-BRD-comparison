@@ -8,7 +8,7 @@ import json
 hit_json = {}
 
 def charts_crawlen(zahl, jahr):
-    url = "http://www.deutsche-mugge.de/index.php/ddr-hitparaden/{}-ddr-hitparade-{}.html".format(zahl, jahr)
+    url = f"http://www.deutsche-mugge.de/index.php/ddr-hitparaden/{zahl}-ddr-hitparade-{jahr}.html"
 
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read()

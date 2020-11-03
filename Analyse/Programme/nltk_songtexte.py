@@ -91,9 +91,9 @@ def create_wordcloud(mostfrequent,land):
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis("off")
     if len(mostfrequent[0][0].split(' ')) == 1:
-        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{}_pics/wordcloud_{}.png'.format(land.upper(),land))
+        plt.savefig(f'/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{land.upper()}_pics/wordcloud_{land}.png')
     else:
-        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{}_pics/wordcloud_bigrams_{}.png'.format(land.upper(),land))
+        plt.savefig(f'/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{land.upper()}_pics/wordcloud_bigrams_{land}.png')
     plt.show()
 
 #Balkendiagramm erstellen 
@@ -118,9 +118,9 @@ def create_barplot(mostfrequent,land,year):
         plt.barh(y_pos, counts, color='#81bbee')
         plt.yticks(y_pos, worte)
         #Save All
-        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{}_pics/barplot_mfw_{}.png'.format(land.upper(),land))
+        plt.savefig(f'/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{land.upper()}_pics/barplot_mfw_{land}.png')
         #Save year by year
-        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{}_pics/years/mfn/mfw_{}_{}.png'.format(land.upper(),land,year))
+        plt.savefig(f'/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{land.upper()}_pics/years/mfn/mfw_{land}_{year}.png')
         #plt.show()
     else:
         locator = matplotlib.ticker.MultipleLocator(20)
@@ -129,15 +129,15 @@ def create_barplot(mostfrequent,land,year):
         #Titel für Komplett
         #plt.title('{}: most frequent bigrams'.format(land.upper()))
         #Titel für Jahre
-        plt.title('{}: {}: most frequent bigrams'.format(land.upper(), year))        
+        plt.title(f'{land.upper()}: {year}: most frequent bigrams')        
         plt.ylabel('Bi-Gramme')
         plt.xlabel("Häufigkeit")
         plt.barh(y_pos, counts, color='#81bbee')
         plt.yticks(y_pos, worte)
         #Save All
-        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{}_pics/barplot_mfb_{}.png'.format(land.upper(),land))
+        plt.savefig(f'/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{land.upper()}_pics/barplot_mfb_{land}.png')
         #Save year by year
-        plt.savefig('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{}_pics/years/mfb/mfb_{}_{}.png'.format(land.upper(),land,year))
+        plt.savefig(f'/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{land.upper()}_pics/years/mfb/mfb_{land}_{year}.png')
         #plt.show()
 
 

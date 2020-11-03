@@ -50,7 +50,7 @@ def find_url(i, lied, titel, artist, driver):
     cap_oss_titel = capitalize_it(titel_oss)
     # Suche nach Titel auf Artist-Seite
     try: 
-        driver.get('https://lyrix.at/lyrics/{}/'.format(artist.lower()))                
+        driver.get(f'https://lyrix.at/lyrics/{artist.lower()}/')                
         results = driver.find_element_by_link_text(titel)
     except NoSuchElementException:
         # Suche nach Titel auf Artist-Seite capitalized

@@ -10,7 +10,7 @@ for jahr in range(1975,1991):
     jahr = str(jahr)
     #Erstellt leere Liste innerhalb des Dictionaries mit Jahr als Key
     hit_json[jahr] = []
-    filenames = [f for f in listdir('/Users/pia/Desktop/Uni/Bachelor-Arbeit/BRD_Charts_75-90/{}'.format(jahr)) if isfile(join('/Users/pia/Desktop/Uni/Bachelor-Arbeit/BRD_Charts_75-90/{}'.format(jahr), f))]
+    filenames = [f for f in listdir(f'/Users/pia/Desktop/Uni/Bachelor-Arbeit/BRD_Charts_75-90/{jahr}') if isfile(join(f'/Users/pia/Desktop/Uni/Bachelor-Arbeit/BRD_Charts_75-90/{jahr}', f))]
     #Geht Filenamen aus dem Ordner durch
     for name in filenames:
         #Splitet Dateinamen zwischen Artist und Titel
@@ -22,7 +22,7 @@ for jahr in range(1975,1991):
         #Erstellt Pfadende
         path_end = jahr + "/" + name
         
-        with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/BRD_Charts_75-90/{}'.format(path_end)) as f:
+        with open(f'/Users/pia/Desktop/Uni/Bachelor-Arbeit/BRD_Charts_75-90/{path_end}') as f:
             content = f.readlines()
             lyrics = ""
             for line in content:

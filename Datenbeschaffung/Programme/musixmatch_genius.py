@@ -45,12 +45,12 @@ def url_endung(art, tit, jahr):
 def request(endung, eventuelle_endung):
     lyrics = ""
     try:
-        url = "https://www.musixmatch.com/de/songtext/{}".format(quote(endung))
+        url = f"https://www.musixmatch.com/de/songtext/{quote(endung)}"
         req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         webpage = urlopen(req).read()
     except HTTPError:
         try:
-            url = "https://www.musixmatch.com/de/songtext/{}".format(quote(eventuelle_endung))
+            url = f"https://www.musixmatch.com/de/songtext/{quote(eventuelle_endung)}"
             req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
             webpage = urlopen(req).read()
         except HTTPError:
@@ -89,7 +89,7 @@ def secondrequest(eventuelle_endung):
     split = eventuelle_endung.split('/')
     end = split[0] + '-' + split[1]
     try:
-        url = "https://genius.com/{}-lyrics".format(quote(end))
+        url = f"https://genius.com/{quote(end)}-lyrics"
         req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         webpage = urlopen(req).read()
     except HTTPError:
