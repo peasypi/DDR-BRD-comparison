@@ -3,6 +3,7 @@
 login.py
 discogs_key.py
 __pycache__
+Data/
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
