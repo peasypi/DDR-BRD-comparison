@@ -10,10 +10,10 @@ with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Erg
     mfw_brd = {'Liebe': 369, 'Nacht': 362, 'Traum': 248, 'Mann': 242, 'Leben': 230, 'Tag': 210, 'Welt': 209, 'Zeit': 203, 'Herz': 188, 'Hand': 143, 'Frau': 135, 'Haus': 129, 'Mädchen': 115, 'Kind': 114, 'Auge': 113, 'Lied': 111, 'Freund': 109, 'Sonne': 108, 'Jahr': 105, 'Wein': 105, 'Mensch': 92, 'Wort': 90, 'Wind': 84, 'Erde': 63, 'Haut': 40}
 
     #Anzahl aller Worte beider Korpora
-    total_words = 189016
+    total_words = 187770
     #Anzahl aller Worte in einzelnen Korpora
-    total_ddr = 85078
-    total_brd = 103938
+    total_ddr = 84485
+    total_brd = 103285
 
     other_words_brd = 0
     other_words_ddr = 0

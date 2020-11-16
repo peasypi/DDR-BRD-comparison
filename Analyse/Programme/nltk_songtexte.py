@@ -69,7 +69,7 @@ def delete_stopwords(wortliste):
 def count_mfw(tokenliste):        
     Zaehler = Counter(tokenliste)
     most_occur = Zaehler.most_common(20)
-    print(most_occur)
+    #print(most_occur)
     return most_occur
 
 #Most frequent Bigramme
@@ -174,4 +174,4 @@ def main_nltk():
         #create_wordcloud(mfb,'brd')
         create_barplot(mfb,'brd',year)
 
-main_nltk()
+#main_nltk()

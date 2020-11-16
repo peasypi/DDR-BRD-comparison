@@ -1,6 +1,6 @@
 import nltk_songtexte as nl
 
-with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/brd_string.txt') as f:
+with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/ddr_string.txt') as f:
     brd_string = f.read()
 
 brd_liste = nl.get_words(brd_string)
