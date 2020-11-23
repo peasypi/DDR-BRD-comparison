@@ -7,6 +7,8 @@ from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 import re
 from urllib.parse import quote
+import json
+import time
 
 # art = sys.argv[1]
 # tit = sys.argv[2]
@@ -120,4 +122,3 @@ def secondrequest(eventuelle_endung):
         lyrics = lyrics + "\n" + teil
 
     return lyrics
-

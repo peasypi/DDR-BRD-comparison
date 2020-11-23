@@ -1,7 +1,7 @@
 import csv
 
-with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/chi_squared.csv', mode='w') as csv_file:
-    fieldnames = ['Wort', 'DDR', 'BRD', 'chi squared', 'Frequenzunterschiede']
+with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/chi_squared_neu.csv', mode='w') as csv_file:
+    fieldnames = ['Wort', 'DDR', 'BRD', 'chi squared', 'Frequenzunterschiede mit 95%', 'Frequenzunterschiede mit 99.9%']
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
     writer.writeheader()
 
@@ -49,6 +49,8 @@ with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Erg
 
             #kritischer Wert für 95%ige Sicherheit der Frequenzunterschiede
             p = 3.84
+            #kritischer Wert für 99.999% Sicherheit der Frequenzunterschiede
+            q = 10.83
             #Wenn X^2 größer als p, dann
             if chi_squared > p:
                 #ist 
@@ -56,7 +58,12 @@ with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Erg
             else:
                 sig = "nicht signifikant"
 
-            row = {'Wort': w, 'DDR': obs_x_ddr, 'BRD': obs_x_brd, 'chi squared': chi_squared, 'Frequenzunterschiede': sig}
+            if chi_squared > q:
+                freq = "signifikant"
+            else:
+                freq = "nicht signifikant"
+
+            row = {'Wort': w, 'DDR': obs_x_ddr, 'BRD': obs_x_brd, 'chi squared': chi_squared, 'Frequenzunterschiede mit 95%': sig, "Frequenzunterschiede mit 99.9%": freq }
             writer.writerow(row)
 
             '''print("[SUCCESS]    Der chi-Quadrat-Wert von " + w + " ist:",chi_squared)
