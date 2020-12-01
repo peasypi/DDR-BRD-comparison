@@ -6,10 +6,11 @@ nlp = spacy.load('de')
 sentiws = spaCySentiWS(sentiws_path='/Users/pia/Desktop/Uni/SoSe2019/Drama Mining und Film Analyse/Projekt/figurennetzwerk/Senti Net 1.0/SentiWS_v2.0')
 nlp.add_pipe(sentiws)
 
-wort = "Traum"
+gleichhäufige_worte = ["Nacht", "Haus", "Auge", "Jahr", "Hand", "Mädchen"]
 
 a_list = ["perfekt", "toll", "Traum", "alt", "schön", "super", "schlimm", "schrecklich", "Ekel", "Traum", "Trauer", "Gesundheit", "albern"]
 
+wort = "Traum"
 
 indices = []
 
@@ -34,6 +35,7 @@ for i in indices:
     doc = nlp(aspect)
     for token in doc:
         if token._.sentiws is not None:
+            print(token, token._.sentiws)
             counter += 1
             sentiment += token._.sentiws
     

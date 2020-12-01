@@ -47,9 +47,9 @@ with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Erg
             #Chi-Quadratwert des Wortes X
             chi_squared = round((((obs_x_ddr - exp_x_ddr)**2)/exp_x_ddr) + (((obs_x_brd - exp_x_brd)**2)/exp_x_brd) + (((other_words_ddr - exp_others_ddr)**2)/exp_others_ddr) + (((other_words_brd - exp_others_brd)**2)/exp_others_brd), 3)
 
-            #kritischer Wert für 95%ige Sicherheit der Frequenzunterschiede
+            #kritischer Wert für 95%ige Wahrscheinlichkeit der Frequenzunterschiede
             p = 3.84
-            #kritischer Wert für 99.999% Sicherheit der Frequenzunterschiede
+            #kritischer Wert für 99.999% Wahrscheinlichkeit der Frequenzunterschiede
             q = 10.83
             #Wenn X^2 größer als p, dann
             if chi_squared > p:
