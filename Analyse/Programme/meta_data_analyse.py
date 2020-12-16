@@ -1,10 +1,10 @@
 import json
+from visualisierung import create_metadata_piechart as create_piechart
 
 DDR_PATH = "/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/ddr_charts.json"
 BRD_PATH = "/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/brd_charts.json"
 
 paths = {DDR_PATH, BRD_PATH}
-
 
 def analyze_meta(path):
     label = {}
@@ -12,7 +12,7 @@ def analyze_meta(path):
     styles = {}
     genres = {}
     interpreten = {}
-    with open(p) as file:
+    with open(path) as file:
         hit_json = json.load(file)
     for jahr in hit_json:
         for song in hit_json[jahr]:
@@ -59,21 +59,24 @@ def analyze_meta(path):
 
     return meta_analyse
 
-for p in paths: 
-    analyse = analyze_meta(p)
-    if "ddr_charts" in p:
-        land = "ddr"
-    else:
-        land = "brd"
-
-    with open(f"/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{land}_meta_analyse.json", 'w') as js:
-        json.dump(analyse, js, indent=4, ensure_ascii=False)
-    
+#Erstellt Piechart-PNGs für jede einzelne Kategorie der Meta-Daten
+def visualize_meta(meta_data, land):
+    for kategorie in meta_data:
+        create_piechart(land, kategorie, meta_data)
 
 
+def main(paths):
+    for p in paths: 
+        meta_data = analyze_meta(p)
+        if "ddr_charts" in p:
+            land = "ddr"
+            with open(f"/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{land}_meta_analyse.json", 'w') as js:
+                json.dump(meta_data, js, indent=4, ensure_ascii=False)
+            visualize_meta(meta_data, land)
+        else:
+            land = "brd"
+            with open(f"/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{land}_meta_analyse.json", 'w') as js:
+                json.dump(meta_data, js, indent=4, ensure_ascii=False)
+            visualize_meta(meta_data, land)
 
-
-    
-
-
-
+main(paths)

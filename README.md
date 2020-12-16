@@ -7,6 +7,7 @@ Das ist das Git-Repo zu meiner Bachelorabeit zu dem Thema "Popmusik unter zwei S
 ### Informationen
 
 #### Allgemein
+
 - [ ] Anordnen der Notizen zu den einzelnen Kapiteln
 - [ ] Anfangen zu schreiben
   - [ ] Related Work
@@ -21,7 +22,7 @@ Das ist das Git-Repo zu meiner Bachelorabeit zu dem Thema "Popmusik unter zwei S
   
 #### Musiksoziologie
 
-- [ ] Bücher leihen
+- [X] Bücher leihen
 - [X] Was sagt Musik über die Gesellschaft?
   - dazu: *Simon Frith: Music for pleasure essays in the sociology of pop*
   
@@ -35,22 +36,21 @@ Das ist das Git-Repo zu meiner Bachelorabeit zu dem Thema "Popmusik unter zwei S
 - [ ] type-token-ratio
   - pro Jahr pro Land?
   - pro Land generell?
- 
-  
+
 #### Analyse
 
-- [ ] Most frequent words
-  - [ ] *Informieren*: Anwendungen von mfw -- Wie macht man das überhaupt normalerweise?
-  - [ ] *Informieren*: tf-idf
-   - Was ist das?
-   - Was sagt es aus?
-   - Wie wendet man es an?
+- [X] Most frequent words
+  - [X] *Informieren*: Anwendungen von mfw -- Wie macht man das überhaupt normalerweise?
+  - [X] *Informieren*: tf-idf
+  - Was ist das?
+  - Was sagt es aus?
+  - Wie wendet man es an?
   - [X] Lemmatisierer in mfw-Programm einfügen
-   - [X] *Informieren*: gute Lemmatisierer fürs Deutsche  
-    - Spacy ist eher geht so
-    - HanoverTagger (https://github.com/wartaal/HanTa)
-    
- - [X] *Informieren*: Wie erstellt man Wordclouds?
+  - [X] *Informieren*: gute Lemmatisierer fürs Deutsche  
+  - Spacy ist eher geht so
+  - HanoverTagger (<https://github.com/wartaal/HanTa>)
+
+- [X] *Informieren*: Wie erstellt man Wordclouds?
   
 - [X] N-Gramme (most frequent)
   - [ ] *Informieren*: Was sagen sie aus? Besser als mfw?
