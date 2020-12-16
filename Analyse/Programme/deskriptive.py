@@ -2,31 +2,13 @@ import json
 import csv
 import nltk
 import re
-#import nltk_songtexte as nl
+import hilfsprogramme.preprocessing as prep
 
-#DDR_JSON = ""
-#BRD_JSON = ""
+
 DDR_STRING = "/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/ddr_string.txt"
 BRD_STRING = "/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/brd_string.txt"
 
-#jsons = [DDR_JSON, BRD_JSON]
 strings = [DDR_STRING, BRD_STRING]
-
-def get_words(txtfile):
-    #Löschen der Sonderzeichen
-    txtfile = re.sub(r'\'|\.\.\.|\.|´|\!|\?|,|:|–|;|`|\"|\\|\)|\(|_', "", txtfile)
-    #Tokenisieren des großen Strings
-    words = nltk.tokenize.word_tokenize(txtfile,language='german')
-    for w in words[:]:
-        if len(w) == 1:
-            words.remove(w)
-        else:
-            match = re.search(r'\w+', w)
-            if match:
-                pass
-            else:
-                words.remove(w)
-    return words
 
 def get_total_words(wort_liste):
 
@@ -69,7 +51,7 @@ with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Erg
         with open(s) as file:
             text = file.read()
 
-        wort_liste = get_words(text)
+        wort_liste = prep.get_words(text)
         total_words = get_total_words(wort_liste)
         av_wordlength = get_av_wordlength(wort_liste, total_words)
         token, types, ratio = get_type_token(text)
