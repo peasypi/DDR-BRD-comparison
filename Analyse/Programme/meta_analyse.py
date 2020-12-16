@@ -11,10 +11,17 @@ def analyze_meta(path):
     länder = {}
     styles = {}
     genres = {}
+    interpreten = {}
     with open(p) as file:
         hit_json = json.load(file)
     for jahr in hit_json:
         for song in hit_json[jahr]:
+            #Interpreten-Dict bestücken
+            if "interpret" in song.keys():
+                if song["interpret"] in interpreten.keys():
+                    interpreten[song["interpret"]] = interpreten[song["interpret"]]+1
+                else:
+                    interpreten[song["interpret"]] = 1
             #Länder-Dict bestücken
             if "land" in song.keys():
                 if song["land"] in länder.keys():
@@ -42,12 +49,13 @@ def analyze_meta(path):
                 else:
                     label[song["label"][0]] = 1
 
+    interpreten = {k: v for k, v in sorted(interpreten.items(), key=lambda item: item[1], reverse=True)}
     label = {k: v for k, v in sorted(label.items(), key=lambda item: item[1], reverse=True)}
     länder = {k: v for k, v in sorted(länder.items(), key=lambda item: item[1], reverse=True)}
     styles = {k: v for k, v in sorted(styles.items(), key=lambda item: item[1], reverse=True)}
     genres = {k: v for k, v in sorted(genres.items(), key=lambda item: item[1], reverse=True)}
 
-    meta_analyse = {"label": label, "länder": länder, "styles": styles, "genres": genres}
+    meta_analyse = {"interpreten": interpreten, "label": label, "länder": länder, "styles": styles, "genres": genres}
 
     return meta_analyse
 
