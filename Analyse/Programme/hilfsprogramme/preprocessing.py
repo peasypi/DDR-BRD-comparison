@@ -22,6 +22,7 @@ def get_words(txtfile):
     return words
 
 #Erstellt Liste mit lemmatisierten Worten
+#which gibt an ob alle Worte untersucht werden sollen oder nur die Nomen ('nouns')
 def get_lemmalist(worte, which):
     #Laden des HanoverTaggers
     tagger = ht.HanoverTagger('morphmodel_ger.pgz')

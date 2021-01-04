@@ -58,11 +58,11 @@ for s in strings:
         hit_string = file.read()
         if 'ddr_string' in s:
             freqdict = get_freqlists(hit_string)
-            with open("/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/ddr_mfw.json", "w") as js:
+            with open("/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/DDR/ddr_mfw.json", "w") as js:
                     json.dump(freqdict, js, indent=4, ensure_ascii=False)
         else:
             freqdict = get_freqlists(hit_string)
-            with open("/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/brd_mfw.json", "w") as js:
+            with open("/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/BRD/brd_mfw.json", "w") as js:
                     json.dump(freqdict, js, indent=4, ensure_ascii=False)
 
 for d in dirs:

@@ -27,10 +27,10 @@ for jahr in brd_json:
             elif "Pop" in song["genre"]:
                 popsongs_brd.append(song["lyrics"])
 
-print(len(rocksongs_ddr))
-print(len(popsongs_ddr))
-print(len(rocksongs_brd))
-print(len(popsongs_brd))
+print("Rock - DDR",len(rocksongs_ddr))
+print("Pop - DDR", len(popsongs_ddr))
+print("Rock - BRD",len(rocksongs_brd))
+print("Pop - BRD", len(popsongs_brd))
 
 a = len(rocksongs_brd) + len(rocksongs_ddr)
 b = len(popsongs_brd) + len(popsongs_ddr)
@@ -40,7 +40,7 @@ print(b)
 #print(int(len(rocksongs_brd)/30))
 
 
-"""def chunks(lst, n):
+def chunks(lst, n):
     #Yield successive n-sized chunks from lst.
     for i in range(0, len(lst), n):
         yield lst[i:i + n]
@@ -50,9 +50,24 @@ chunks_rock_ddr = list(chunks(rocksongs_ddr, 30))
 chunks_pop_brd = list(chunks(popsongs_brd, 30))
 chunks_pop_ddr = list(chunks(popsongs_ddr, 30))
 
-counter = 1
-for chunk in chunks_rock_brd:
-    counter += 1
-    for song in chunk:
-        for line in song:
-    with open(f'/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/txt_genres/rock_brd_{counter}', 'w') as file:"""
+print(len(chunks_rock_ddr))
+
+for i in range(len(chunks_rock_brd)):
+    with open(f'/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/txt_genres/rock/rock_brd_{i}.txt', 'w') as file:
+        for item in chunks_rock_brd[i]:
+            file.write("%s\n" %item)
+
+for i in range(len(chunks_pop_brd)):
+    with open(f'/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/txt_genres/pop/pop_brd_{i}.txt', 'w') as file:
+        for item in chunks_pop_brd[i]:
+            file.write("%s\n" %item)
+
+for i in range(len(chunks_rock_ddr)):
+    with open(f'/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/txt_genres/rock/rock_ddr_{i}.txt', 'w') as file:
+        for item in chunks_rock_ddr[i]:
+            file.write("%s\n" %item)
+        
+for i in range(len(chunks_pop_ddr)):
+    with open(f'/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/txt_genres/pop/pop_ddr_{i}.txt', 'w') as file:
+        for item in chunks_pop_ddr[i]:
+            file.write("%s\n" %item)
