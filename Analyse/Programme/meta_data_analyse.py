@@ -1,5 +1,5 @@
 import json
-from visualisierung import create_metadata_piechart as create_piechart
+from hilfsprogramme.visualisierung import create_metadata_piechart as create_piechart
 
 DDR_PATH = "/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/ddr_charts.json"
 BRD_PATH = "/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/brd_charts.json"
@@ -70,12 +70,12 @@ def main(paths):
         meta_data = analyze_meta(p)
         if "ddr_charts" in p:
             land = "ddr"
-            with open(f"/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{land}_meta_analyse.json", 'w') as js:
+            with open(f"/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/meta_data/{land}_meta_analyse.json", 'w') as js:
                 json.dump(meta_data, js, indent=4, ensure_ascii=False)
             visualize_meta(meta_data, land)
         else:
             land = "brd"
-            with open(f"/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{land}_meta_analyse.json", 'w') as js:
+            with open(f"/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/meta_data/{land}_meta_analyse.json", 'w') as js:
                 json.dump(meta_data, js, indent=4, ensure_ascii=False)
             visualize_meta(meta_data, land)
 

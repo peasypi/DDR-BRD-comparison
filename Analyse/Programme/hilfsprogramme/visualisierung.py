@@ -84,8 +84,9 @@ def create_metadata_piechart(land, kategorie, meta_dict):
     label = []
     #analyze_cat = {}
     sonst = 0
+    durchschnitt = int(sum(meta_dict[kategorie].values())/len(meta_dict[kategorie]))
     for key in meta_dict[kategorie]:
-        if meta_dict[kategorie][key] <= 10:
+        if meta_dict[kategorie][key] <= durchschnitt:
             sonst = sonst + meta_dict[kategorie][key]
         else:
             anzahl.append(meta_dict[kategorie][key])
@@ -100,4 +101,4 @@ def create_metadata_piechart(land, kategorie, meta_dict):
     plt.title(f'{land.upper()}: {kategorie.capitalize()}')
     plt.pie(x, labels=label)
     #plt.show()
-    plt.savefig(f'/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/{land.upper()}_pics/meta_data/pie_{kategorie}_{land}.png')
+    plt.savefig(f'/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/meta_data//{land.upper()}/pie_{kategorie}_{land}.png')
