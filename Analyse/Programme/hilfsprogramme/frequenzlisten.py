@@ -1,4 +1,5 @@
 from collections import Counter 
+import nltk
 
 #Counter zählt die most frequent words in der Liste ohne Stopwörter
 def count_mfw(tokenliste):        

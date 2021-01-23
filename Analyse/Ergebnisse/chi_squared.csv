@@ -1,21 +1,21 @@
-Wort,DDR,BRD,chi squared,Frequenzunterschiede
-Nacht,320,362,1.027,nicht signifikant
-Leben,313,230,35.204,signifikant
-Tag,276,210,27.396,signifikant
-Traum,264,248,8.95,signifikant
-Liebe,256,369,4.123,signifikant
-Zeit,237,203,14.019,signifikant
-Welt,212,209,4.902,signifikant
-Mann,139,242,11.174,signifikant
-Lied,127,111,6.741,signifikant
-Erde,126,63,35.906,signifikant
-Haus,124,129,1.653,nicht signifikant
-Auge,116,113,2.969,nicht signifikant
-Wind,115,84,13.178,signifikant
-Mensch,112,92,8.101,signifikant
-Haut,111,40,49.652,signifikant
-Jahr,108,105,2.81,nicht signifikant
-Hand,105,143,0.707,nicht signifikant
-Herz,103,188,10.85,signifikant
-Wort,98,90,3.87,signifikant
-Mädchen,98,115,0.089,nicht signifikant
+Wort,DDR,BRD,chi squared,Frequenzunterschiede mit 95%,Frequenzunterschiede mit 99.9%
+Nacht,320,360,1.178,nicht signifikant,
+Leben,313,230,35.212,signifikant,
+Tag,276,210,27.402,signifikant,
+Traum,264,247,9.213,signifikant,
+Liebe,256,369,4.12,signifikant,
+Zeit,237,203,14.024,signifikant,
+Welt,212,209,4.905,signifikant,
+Mann,139,242,11.17,signifikant,
+Lied,127,111,6.744,signifikant,
+Erde,126,63,35.91,signifikant,
+Haus,124,129,1.654,nicht signifikant,
+Auge,116,111,3.427,nicht signifikant,
+Wind,115,84,13.18,signifikant,
+Mensch,112,92,8.103,signifikant,
+Haut,111,40,49.656,signifikant,
+Jahr,108,105,2.811,nicht signifikant,
+Hand,105,144,0.803,nicht signifikant,
+Herz,103,187,10.536,signifikant,
+Wort,98,90,3.871,signifikant,
+Mädchen,98,115,0.089,nicht signifikant,

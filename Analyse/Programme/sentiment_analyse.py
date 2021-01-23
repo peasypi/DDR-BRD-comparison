@@ -87,8 +87,7 @@ with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Erg
         row = {'Wort': wort, 'DDR': round(ddr_senti_dict[wort],5), 'BRD': round(brd_senti_dict[wort],5)}
         writer.writerow(row)
 
-#DDR - Nacht: 0.003156874999999999
-#BRD - Nacht: -0.0034384722222222295
+
 """
 BRD:
 Durchschnittlicher Sentimentwert von Nacht ist: -0.014133472222222242

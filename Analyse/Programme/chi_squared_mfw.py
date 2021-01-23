@@ -1,19 +1,19 @@
 import csv
 
-with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/chi_squared_neu.csv', mode='w') as csv_file:
-    fieldnames = ['Wort', 'DDR', 'BRD', 'chi squared', 'Frequenzunterschiede mit 95%', 'Frequenzunterschiede mit 99.9%']
+with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Ergebnisse/chi_squared.csv', mode='w') as csv_file:
+    fieldnames = ['Wort', 'DDR', 'BRD', 'chi squared', 'Frequenzunterschiede mit 95%']
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
     writer.writeheader()
 
     #Daten
     mfw_ddr = {'Nacht': 320, 'Leben': 313, 'Tag': 276, 'Traum': 264, 'Liebe': 256, 'Zeit': 237, 'Welt': 212, 'Mann': 139, 'Lied': 127, 'Erde': 126, 'Haus': 124, 'Auge': 116, 'Wind': 115, 'Mensch': 112, 'Haut': 111, 'Jahr': 108, 'Hand': 105, 'Herz': 103, 'Wort': 98, 'Mädchen': 98}
-    mfw_brd = {'Liebe': 369, 'Nacht': 362, 'Traum': 248, 'Mann': 242, 'Leben': 230, 'Tag': 210, 'Welt': 209, 'Zeit': 203, 'Herz': 188, 'Hand': 143, 'Frau': 135, 'Haus': 129, 'Mädchen': 115, 'Kind': 114, 'Auge': 113, 'Lied': 111, 'Freund': 109, 'Sonne': 108, 'Jahr': 105, 'Wein': 105, 'Mensch': 92, 'Wort': 90, 'Wind': 84, 'Erde': 63, 'Haut': 40}
+    mfw_brd = {'Liebe': 369, 'Nacht': 360, 'Traum': 247, 'Mann': 242, 'Leben': 230, 'Tag': 210, 'Welt': 209, 'Zeit': 203, 'Herz': 187, 'Hand': 144, 'Frau': 135, 'Haus': 129, 'Mädchen': 115, 'Kind': 114, 'Auge': 111, 'Lied': 111, 'Freund': 109, 'Sonne': 108, 'Jahr': 105, 'Wein': 105, 'Mensch': 92, 'Wort': 90, 'Wind': 84, 'Erde': 63, 'Haut': 40}
 
     #Anzahl aller Worte beider Korpora
     total_words = 187770
     #Anzahl aller Worte in einzelnen Korpora
     total_ddr = 84485
-    total_brd = 103285
+    total_brd = 103291
 
     other_words_brd = 0
     other_words_ddr = 0
@@ -58,12 +58,12 @@ with open('/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Analyse/Erg
             else:
                 sig = "nicht signifikant"
 
-            if chi_squared > q:
+            """if chi_squared > q:
                 freq = "signifikant"
             else:
                 freq = "nicht signifikant"
-
-            row = {'Wort': w, 'DDR': obs_x_ddr, 'BRD': obs_x_brd, 'chi squared': chi_squared, 'Frequenzunterschiede mit 95%': sig, "Frequenzunterschiede mit 99.9%": freq }
+            """
+            row = {'Wort': w, 'DDR': obs_x_ddr, 'BRD': obs_x_brd, 'chi squared': chi_squared, 'Frequenzunterschiede mit 95%': sig}
             writer.writerow(row)
 
             '''print("[SUCCESS]    Der chi-Quadrat-Wert von " + w + " ist:",chi_squared)

@@ -4,7 +4,7 @@ from hilfsprogramme.visualisierung import create_metadata_piechart as create_pie
 DDR_PATH = "/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/ddr_charts.json"
 BRD_PATH = "/Users/pia/Desktop/Uni/Bachelor-Arbeit/DDR-BRD-comparison/Datenbeschaffung/Data/brd_charts.json"
 
-paths = {DDR_PATH, BRD_PATH}
+paths = [DDR_PATH, BRD_PATH]
 
 def analyze_meta(path):
     label = {}
